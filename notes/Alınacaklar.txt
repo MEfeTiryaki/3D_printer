@@ -1,0 +1,54 @@
+Alınacaklar
+
+	Mekanik
+
+	- M5 1cm allenli
+	- 50cm 30x30 profil
+	- 15cm 80x20 profil
+	- filament 
+		dolgu malzemesi filamenti var mı? Sorulacak.
+
+
+	Electronics
+	+ Tak çalıştır mikrofon, gnd vcc x 2
+	+ arduino speaker x 1
+	+ kutu ve uygun fan, çerkez
+	- dizi/klemens
+		4x6 motor
+		2x4 power
+	- kablo ve soketleme
+		2'li power çok telli x 5 m ?
+			x 2 kablo ve soketleri
+		4'lü motor çok telli x 5 m, 3 A - 5 A
+			0.1 inch female x 6 kablo
+			kelemens to klemens
+	- M3 aralayıcı 1cm x 4
+	- M5 aralayıcı 2cm, 1 cm x 8
+	+ mechanical endstop / bumper / limit switch x 8 -> 2 for each axis
+	+ HBP Thermistor 100 ya da 10? yıldırım
+	- A4988 x 2
+	- alternatif >3A sürücü
+	+ Resistor Yageo RC0603JR-0751KL x 5
+		http://www.digikey.com/product-detail/en/RC0603JR-0751KL/311-51KGRCT-ND/729751
+Çerkez, kutucu
+
+Yapılacaklar
+	Mekanik
+	- Filament
+		- dolgu malzemesi filamenti var mı? Sorulacak.
+		- filament sabitleme yapılacak
+	- heat bed tahtası kesilecek monte edilecek
+	- ekstruder uzatılacak
+	- ikinci kiriş atılacak
+	
+
+	Elektronik & Yazılım
+	- düzgün soketleme
+	- sınır yerleştirme
+	- heatbed hazırlığı 
+		led, kablolama
+		termistör yerleştirimi
+	- kart işleri
+	- firmware güncelleme
+	- hareket gösterimi yapılacak
+

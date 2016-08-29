@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/undervariance/Downloads/3d-printer/RepetierHost
+mono RepetierHost.exe -home /home/undervariance/Downloads/3d-printer/RepetierHost&

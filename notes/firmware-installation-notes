@@ -1,0 +1,9 @@
+
+http://www.repetier.com/firmware/v092/
+
+Repetier default changes:
+
+Endstops:
+x,y,z max enabled
+all changed to Normally Closed
+

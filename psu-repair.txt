@@ -1,0 +1,8 @@
+https://www.mikesarcade.com/cgi-bin/spies.cgi?action=url&type=info&page=psrepair.txt
+
+
+test the output rectifiers
+all the output capacitors with low ESR caps,
+fire up the power supply.
+
+1 Ohm 50 Watt load

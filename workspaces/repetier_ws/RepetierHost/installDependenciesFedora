@@ -1,0 +1,20 @@
+#!/bin/sh
+
+sudo yum install git curl gcc-c++ perl-Wx \
+    perl-Module-Build perl-App-cpanminus perl-Moo perl-Encode-Locale \
+    perl-Math-PlanePath perl-Boost-Geometry-Utils perl-Math-Clipper \
+    perl-Math-ConvexHull perl-Math-Geometry-Voronoi perl-parent \
+    perl-Growl-GNTP perl-Class-XSAccessor perl-XML-SAX-ExpatXS \
+    perl-Math-ConvexHull-MonotoneChain perl-ExtUtils-XSpp \
+    perl-ExtUtils-CppGuess perl-ExtUtils-Typemaps-Default \
+    perl-Capture-Tiny perl-Test-Base perl-Test-Differences \
+    perl-Text-Diff perl-Module-Build-WithXSpp
+#sudo yum install git curl gcc-c++ perl-Wx perl-Module-Build perl-Net-DBus perl-App-cpanminus perl-Moo
+#curl -L http://cpanmin.us | perl - --sudo App::cpanminus
+#sudo cpanm Boost::Geometry::Utils Math::Clipper Math::ConvexHull Math::ConvexHull::MonotoneChain Math::Geometry::Voronoi Math::PlanePath parent
+#sudo usermod -a -G dialout $LOGNAME
+sudo yum install mono-devel
+cd Slic3r
+sudo perl Build.PL
+sudo perl Build.PL --gui
+cd ..

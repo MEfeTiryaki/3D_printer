@@ -1,0 +1,13 @@
+Printer checklist
+- motor  coupling tightness
+- linear bearing alignments
+- extruder heater nozzle and throat tightness
+- cooling of the extruder
+- stickiness of the table
+- extruder motor gear 
+
+troubleshotting
+- shifting problem (stop and send it to home) 
+
+Fan design
+- Small fans are not meant to pressurise the air, so not use small channels with them. Air will bounce from walls

@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?><translation revision="11" language="Dansk" languageInEnglish="Dansk" author="Repetier-Host og Eigil Oedegaard">
+<t id="M_FILE" ver="1.1">Fil</t>
+<t id="M_CONFIG" ver="1">Konfiguration</t>
+<t id="M_SLICER" ver="1">Slicer</t>
+<t id="M_TEMPERATURE" ver="1">Temperatur</t>
+<t id="M_PRINTER" ver="1">Printer</t>
+<t id="M_HELP" ver="1">Hjælp</t>
+<t id="M_LOAD_GCODE" ver="1">Hent G-kode fil</t>
+<t id="M_SHOW_WORKDIRECTORY" ver="1">Vis Arbejdsmappe</t>
+<t id="M_LANGUAGE" ver="1">Sprog</t>
+<t id="M_PRINTER_SETTINGS" ver="1">Printer Opsætning</t>
+<t id="M_EEPROM_SETTINGS" ver="1">Firmware EEPROM Konfiguration</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">3D View indstilling</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Repetier-Host generelle indstillinger</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">Test Case Slicing Parameter</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">Lyd indstillinger</t>
+<t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">Vis Ekstruder temperatur</t>
+<t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">Vis Varmebord temperatur</t>
+<t id="M_SHOW_TARGET_TEMPERATURES" ver="1">Vis Emne temperatur</t>
+<t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">Vis middel temperatur</t>
+<t id="M_SHOW_HEATER_POWER" ver="1">Vis Extruder energitilførsel </t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">Autoskaler Temperatur visning</t>
+<t id="M_TIMEPERIOD" ver="1">Tidsperiode</t>
+<t id="M_TEMPERATURE_ZOOM" ver="1">Tidsvindue</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">Vis Gennemsnit over ...</t>
+<t id="M_30_SECONDS" ver="1">30 Sekunder</t>
+<t id="M_1_MINUTE" ver="1"> 1 minut</t>
+<t id="M_2_MINUTES" ver="1"> 2 minutter</t>
+<t id="M_5_MINUTES" ver="1"> 5 minutter</t>
+<t id="M_10_MINUTES" ver="1">10 minutter</t>
+<t id="M_15_MINUTES" ver="1">15 minutter</t>
+<t id="M_30_MINUTES" ver="1">30 minutter</t>
+<t id="M_60_MINUTES" ver="1">60 minutter</t>
+<t id="M_CONTINUOUS_MONITORING" ver="1">Kontinuerlig overvågning</t>
+<t id="M_DISABLE" ver="1">Afbrudt</t>
+<t id="M_EXTRUDER_1" ver="1">Ekstruder 1</t>
+<t id="M_EXTRUDER_2" ver="1">Ekstruder 2</t>
+<t id="M_HEATED_BED" ver="1">Opvarmet Bord</t>
+<t id="M_PRINTER_INFORMATION" ver="1">Printer Information</t>
+<t id="M_JOB_STATUS" ver="1">Jobstatus</t>
+<t id="M_SD_CARD_MANAGER" ver="1">SD Kort Manager</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">SD Kort Management</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">Test Case Generator</t>
+<t id="M_SEND_SCRIPT_1" ver="1">Send Script 1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">Send Script 2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">Send Script 3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">Send Script 4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">Send Script 5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Repetier-Host Hjemmeside</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Repetier-Host Nedhentningsside</t>
+<t id="M_MANUAL" ver="1">Repetier-Host Manual</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Slic3r Hjemmeside</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Skeinforge Hjemmeside</t>
+<t id="M_REPRAP_WEBSITE" ver="1">RepRap Hjemmeside</t>
+<t id="M_REPRAP_FORUM" ver="1">RepRap Forum</t>
+<t id="M_THINGIVERSE_NEWEST" ver="1">Thingiverse Nyeste Ting</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse Populære Ting</t>
+<t id="M_ABOUT_REPETIER_HOST" ver="1">Om Repetier-Host</t>
+<t id="M_CHECK_FOR_UPDATES" ver="1">Tjek for opdateringer</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">Afbryd printer</t>
+<t id="L_CONNECT_PRINTER" ver="1">Tilslut printer</t>
+<t id="M_DISCONNECT" ver="1">Afbryd</t>
+<t id="M_CONNECT" ver="1">Tilslut</t>
+<t id="M_QUIT" ver="1">Afslut</t>
+<t id="TAB_3D_VIEW" ver="1">3D-visning</t>
+<t id="TAB_TEMPERATURE_CURVE" ver="1">Temperaturkurve</t>
+<t id="TAB_OBJECT_PLACEMENT" ver="1">Emne placering</t>
+<t id="TAB_SLICER" ver="1">Slicer</t>
+<t id="TAB_GCODE_EDITOR" ver="1">G-kode Editor</t>
+<t id="TAB_MANUAL_CONTROL" ver="1">Manuel Kontrol</t>
+<t id="M_EMERGENCY_STOP" ver="1">Nødstop:</t>
+<t id="M_LOAD" ver="1">Hent job</t>
+<t id="M_SAVE_JOB" ver="1">Gem Job</t>
+<t id="M_RUN_JOB" ver="1">Kør Job</t>
+<t id="M_PAUSE_JOB" ver="1">Pause i job</t>
+<t id="M_KILL_JOB" ver="1">Stop Job</t>
+<t id="M_SD_CARD" ver="1">SD-kort</t>
+<t id="M_TOGGLE_LOG" ver="1">Skift visning af Log</t>
+<t id="M_SHOW_FILAMENT" ver="1">Vis Plasttråd</t>
+<t id="M_HIDE_FILAMENT" ver="1">Skjul Plasttråd</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">Visning af printet Plast deaktiveret</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">Visning af printet Plast aktiveret</t>
+<t id="L_LOAD_FILE" ver="1">Hent fil</t>
+<t id="L_IMPORT_G_CODE" ver="1">Importer G-Kode</t>
+<t id="L_SAVE_G_CODE" ver="1">Gem G-Kode</t>
+<t id="L_ERROR" ver="1">Fejl</t>
+<t id="L_PAUSE_MSG" ver="1">Tryk på OK for at fortsætte. Du kan tilføje pauser i din kode med tekst som denne: @ pause</t>
+<t id="L_DISCONNECTED" ver="1">Afbrudt</t>
+<t id="L_UPDATING ... " ver = "1">Opdaterer ...</t>
+<t id="L_SLICE_WITH" ver="1">Slice med $1</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">Send Nødstop til printer. Du kan være nødt til at nulstille printeren med en genstart!</t>
+<t id="L_TRANSLATION:" ver="1">Oversættelse</t>
+<t id="L_SCALE:" ver="1">Skala</t>
+<t id="L_ROTATE:" ver="1">Rotation</t>
+<t id="L_STL_OBJECTS" ver="9">STL Emner</t>
+<t id="B_SAVE_AS_STL" ver="9">Exporter som STL</t>
+<t id="B_REMOVE_STL_OBJECT" ver="1">Fjern STL emne</t>
+<t id="B_ADD_STL_OBJECT" ver="1">Tilføj STL emne</t>
+<t id="B_AUTOPOSITION" ver="1">Autoposition</t>
+<t id="B_DROP_OBJECT" ver="1">Fjern emne</t>
+<t id="B_COPY_OBJECTS" ver="1">Kopier emne(r)</t>
+<t id="B_CENTER_OBJECT" ver="1">Centrer emne(r)</t>
+<t id="L_LOCK_ASPECT_RATIO" ver="1">Lås Aspekt Forhold</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">Stop Slicing</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">Skeinforge Opsætning</t>
+<t id="B_SETUP_SLIC3R" ver="1">Slic3R Opsætning</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">Konfigurer Skeinforge</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">Konfigurer Slic3R</t>
+<t id="B_ACTIVE" ver="1">Aktiv</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">Plasttråd Indstillinger:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">Printer Indstillinger :</t>
+<t id="L_PRINT_SETTINGS" ver="1">Udskriftsindstillinger :</t>
+<t id="L_PROFILE" ver="1">Profil:</t>
+<t id="B_SEND" ver="1">Send</t>
+<t id="B_SIMULATE_OK" ver="1">OK</t>
+<t id="B_STOP_MOTOR" ver="1">Stop Motorer</t>
+<t id="B_PARK" ver="1">Parker</t>
+<t id="B_RETRACT" ver="1">Tilbagetrækning</t>
+<t id="B_EXTRUDE" ver="1">Extruder</t>
+<t id="L_OUTPUT_PERCENT" ver="1">Udgang $1%</t>
+<t id="B_POWER" ver="1">Power</t>
+<t id="B_HEAT_EXTRUDER" ver="1">Opvarm Extruder</t>
+<t id="B_HEAT_PRINTBED" ver="1">Opvarm Printbord</t>
+<t id="B_FAN" ver="1">Blæser</t>
+<t id="B_DEBUG_ERRORS" ver="1">Fejl</t>
+<t id="B_DEBUG_ECHO" ver="1">Ekko</t>
+<t id="B_DRY_RUN" ver="1">Tør Print</t>
+<t id="B_DEBUG_INFO" ver="1">Info</t>
+<t id="L_EXTRUDER" ver="1">Extruder</t>
+<t id="L_PRINTBED" ver="1">Printbord</t>
+<t id="L_SPEED_MULTIPLY" ver="1">Print Multiplikator</t>
+<t id="L_EXTRUDE_MM" ver="1">Extrude [mm]</t>
+<t id="L_EXTRUDER_SPEED_MM_MIN" ver="1">Hastighed [mm/min]</t>
+<t id="L_RETRACT_MM" ver="1">Retur Træk [mm]</t>
+<t id="L_TEMP" ver="1">Temp.</t>
+<t id="L_CONNECTED" ver="1">Printer tilsluttet</t>
+<t id="L_HEATING_BED" ver="1">Start Varmebord</t>
+<t id="L_HEATING_EXTRUDER" ver="1">Opvarm Extruder</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">Print Job stoppet</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">Print Job sat på Pause</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">Print Job Færdigt</t>
+<t id="L_UPLOADING ... $1%" ver = "1">Oploader ...</t>
+<t id="L_PRINTING_JOB_ETA" ver="1">Udskrivning af ETA for job $1</t>
+<t id="L_IDLE" ver="1">Venter...</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 Kommando(er) i køen</t>
+<t id="L_EXTRUDER:" ver="1">ekstruder :</t>
+<t id="L_BED:" ver="1">Bed:</t>
+<t id="L_OFF" ver="1">Fra</t>
+<t id="L_NOT_A_NUMBER" ver="1">Ikke et tal</t>
+<t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">Positivt tal påkræves</t>
+<t id="L_NOT_AN_INTEGER" ver="1">Ikke et heltal</t>
+<t id="L_RESET_OUTPUT" ver="1">Nulstil udgang. Efter nogen ventetid, fik jeg kun $1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">Modtager kun fejlmeddelelser. Kommunikation stoppet.</t>
+<t id="L_PRINTING..ETA" ver="1">Udskriver ... ETA $1</t>
+<t id="L_LAYER_X/Y" ver="1">Lag $1/$2</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">Fejl ved afsendelse af data:</t>
+<t id="L_CONNECTION_ERROR" ver="1">Tilslutnings fejl</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">Seriel COM port fejl :</t>
+<t id="L_SHOW_IN_LOG" ver="1">Vis i Log:</t>
+<t id="B_ACK" ver="1">ACK</t>
+<t id="B_AUTO_SCROLL" ver="1">Auto Rul</t>
+<t id="B_COMMANDS" ver="1">Kommandoer</t>
+<t id="B_LOG_ERRORS" ver="1">Fejl</t>
+<t id="B_LOG_INFO" ver="1">Info</t>
+<t id="B_LOG_WARNINGS" ver="1">Advarsler</t>
+<t id="B_COPY" ver="1">Kopier</t>
+<t id="B_CLEAR_LOG" ver="1">Slet Log</t>
+<t id="L_COPY" ver="1">Kopier</t>
+<t id="L_CUT" ver="1">Klip</t>
+<t id="L_NEW_TEXT" ver="1">Ny tekst</t>
+<t id="L_SAVE" ver="1">Gem</t>
+<t id="L_PASTE" ver="1">Indsæt</t>
+<t id="L_UNDO" ver="1">Fortryd</t>
+<t id="L_REDO" ver="1">Genindsæt</t>
+<t id="L_AUTO_UPDATE_PREVIEW" ver="1">Autoopdatering forhåndsvisning</t>
+<t id="L_START_CODE" ver="1">Start Kode</t>
+<t id="L_END_CODE" ver="1">End Kode</t>
+<t id="L_RUN_ON_KILL" ver="1">Kør efter Stop</t>
+<t id="L_RUN_ON_PAUSE" ver="1">Kør efter Pause</t>
+<t id="L_SCRIPT_X" ver="1">Script $1</t>
+<t id="L_LAYER_X" ver="1">Lag $1</t>
+<t id="L_EXTRUDER_X" ver="1">Extruder $1</t>
+<t id="L_EDITOR_C" ver="1">C$1</t>
+<t id="L_EDITOR_R" ver="1">R$1</t>
+<t id="L_OVERWRITE" ver="1">Overskriv</t>
+<t id="L_INSERT" ver="1">Indsæt</t>
+<t id="L_SYNTAX" ver="1">Syntaks</t>
+<t id="TAB_HELP" ver="1">Hjælp</t>
+<t id="TAB_VISUALIZATION" ver="1">Visualisering</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">Vis komplet Kode</t>
+<t id="L_SHOW_LAYER_RANGE" ver="1">Vis Lag Område</t>
+<t id="L_SHOW_SINGLE_LAYER" ver="1">Vis Enkle Lag</t>
+<t id="L_FIRST_LAYER" ver="1">Første lag :</t>
+<t id="L_LAST_LAYER" ver="1">Sidste lag :</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1">Ønsker du virkelig at slette alle indstillinger for $1?</t>
+<t id="L_SECURITY_QUESTION" ver="1">Sikkerhedsspørgsmål</t>
+<t id="L_ADD_PRINTING_TIME" ver="1">Tilføj til Udskrivnings Tid</t>
+<t id="L_BAUD_RATE" ver="1">COM Port hastighed :</t>
+<t id="L_CACHE_SIZE_HINT" ver="1">Fra Arduino 1.0 til seneste version blev cachen reduceret fra 127 til 63 bytes!</t>
+<t id="L_CHECK_EVERY_X" ver="1">Kontroller hver $1 sekund.</t>
+<t id="L_CONNECTION_INFO" ver="1">Printerindstillingerne vil altid svare til den valgte printer i toppen. De gemmes med OK eller Anvend. Hvis du vil oprette en ny printer, indtast blot et nyt printer navn og tryk Anvend. Den nye printer vil starte med de sidste indstillinger der er valgt.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">Ekstruder standard temperatur :</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">Opvarmet Bord standard Temperatur:</t>
+<t id="L_DUMP_AREA_DEPTH" ver="1">Dump område Dybde:</t>
+<t id="L_DUMP_AREA_FRONT" ver="1">Dump område Forside :</t>
+<t id="L_DUMP_AREA_LEFT" ver="1">Dump område Venstre :</t>
+<t id="L_DUMP_AREA_WIDTH" ver="1">Dump område Bredde :</t>
+<t id="L_FILTER_INFO" ver="1">Du kan eksekvere et filter program efter hver Slicing. Filteret vil blive kørt med G-kode produceret af slicer. Brug #in og #out for at indsætte input og output filnavne som parameter.</t>
+<t id="L_FILTER_PATH_PARAM" ver="1">Filter Sti og Parameter :</t>
+<t id="L_PARITY" ver="1">Paritet:</t>
+<t id="L_PARK_POSITION" ver="1">Parkerings position:</t>
+<t id="L_PORT" ver="1">Aktiv COM Port:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">Print område Dybde:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1">Print område Højde:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">Print område Bredde :</t>
+<t id="L_PRINTER" ver="1">Aktiv Printer:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">Modtager Cache bytes:</t>
+<t id="L_STOPBITS" ver="1">Stopbit :</t>
+<t id="L_TRANSFER_PROTOCOL" ver="1">Kommunikation:</t>
+<t id="L_TRAVEL_FEED_RATE" ver="1">Max fremførings hastighed :</t>
+<t id="L_ZFEED_RATE" ver="1">Z-Akse fremførings hastighed :</t>
+<t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">Afbryd Extruder efter Job/Kill</t>
+<t id="L_DISABLE_MOTORS" ver="1">Afbryd Motorer efter Job/Kill</t>
+<t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">Afbryd Opvarmet bord efter Job/Kill</t>
+<t id="L_GO_PARK_POSITION" ver="1">Gå til Parkerings position efter Job/Kill</t>
+<t id="L_HAS_DUMP_AREA" ver="1">Har Dump område</t>
+<t id="L_HOME_X_MAX" ver="1">Hjem er ved X Max</t>
+<t id="L_HOME_Y_MAX" ver="1">Hjem er ved Y Max</t>
+<t id="L_HOME_Z_MAX" ver="1">Hjem er ved Z Max</t>
+<t id="L_PING_PONG_MODE" ver="1">Brug Ping-Pong Kommunikation (Send kun efter modtaget ok)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">Eksekver Filter efter hver Slice</t>
+<t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">Kontroller Extruder- og Varmebord Temperatur</t>
+<t id="L_REMOVE_M105_REQUEST_LOG" ver="1">Fjern temperatur rapporteringer fra Log</t>
+<t id="B_CANCEL" ver="1">Annuller</t>
+<t id="B_APPLY" ver="1">Anvend</t>
+<t id="B_OK" ver="1">OK</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">Slet Printer indstillinger</t>
+<t id="TAB_CONNECTION" ver="1">Tilslutning</t>
+<t id="TAB_PRINTER" ver="1">Printer</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">Printer størrelse</t>
+<t id="TAB_ADVANCED" ver="1">Avanceret</t>
+<t id="W_PRINTER_SETTINGS" ver="1">Printer indstillinger</t>
+<t id="L_POST_SLICE_FILTER" ver="1">Slice Post Filter</t>
+<t id="L_Z_MIN" ver="1">Z-Min</t>
+<t id="W_PRINT_PAUSED" ver="1">Print Pause</t>
+<t id="L_PAUSE_HINT" ver="1">Tip: Det er tilladt at flytte ekstruder rundt og at ekstrudere Plasttråd for evt at skifte farve eller blot genfylde dysen hvis drypning har tømt den for plastik. Host vil genoprette situationen ved starten af ??pause for dig.</t>
+<t id="B_CONTINUE_PRINTING" ver="1">Fortsæt udskrivning</t>
+<t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Repetier-Host Opdater Kontrol</t>
+<t id="B_DOWNLOAD" ver="1">Hent</t>
+<t id="B_REMIND_ME_LATER" ver="1">Påmind mig senere</t>
+<t id="B_SKIP_VERSION" ver="1">Hop over denne version</t>
+<t id="L_AVAILABLE_VERSION" ver="1">Tilgængelig Version :</t>
+<t id="L_INSTALLED_VERSION" ver="1">Version Installeret:</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">Oplysninger om opdatering</t>
+<t id="L_NO_NEW_UPDATES" ver="1">Ingen nye opdateringer tilgængelige. Du bruger den nyeste version.</t>
+<t id="L_UPDATE_STATUS" ver="1">Opdater status</t>
+<t id="W_SLICING_INFO" ver="1">Slicing Information</t>
+<t id="L_ACTION:" ver="1">Handling:</t>
+<t id="L_DURATION:" ver="1">Varighed:</t>
+<t id="L_SLICER:" ver="1">Slicer :</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">Start Job efter Slicing</t>
+<t id="W_ABOUT_REPETIER_HOST" ver="1">Om Repetier-Host</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">Licens og biblioteker</t>
+<t id="L_REPETIER_INFO" ver="1">Denne software er udviklet til styring af RepRap som 3D-printer. Det er bedst at bruge med Repetier-Firmware, som understøtter alle funktioner. Andre printerfirmware som Marlin, Teecup, Sprinter eller 5D GCode fortolkning forudsættes at have korrekte indstillinger.</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">Kopier markerede emner</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">Antal kopier :</t>
+<t id="L_AUTO_POSITION_AFTER_COPY" ver="1">Auto position efter Tilføjelse af objekter</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">udskrivning lag $1 på $2</t>
+<t id="L_BUILDING_PRINT_JOB ... " ver = "1">Opbygning af udskriftsjob ...</t>
+<t id="L_PRINTING ... " ver = "1" >Udskrivning ...</t>
+<t id="L_JOB_KILLED" ver="1">Job Afbrudt</t>
+<t id="L_PRINTJOB_FINISHED_AT" ver="1">Udskriftjob færdig på $1</t>
+<t id="L_PRINTING_TIME:" ver="1">Udskrivnings Tid : $1</t>
+<t id="L_LINES_SEND:X" ver="1">Linier Send : $1</t>
+<t id="L_FINISHED_IN" ver="1">Færdig på $1</t>
+<t id="L_TIME_H:" ver="1">$1t :</t>
+<t id="L_TIME_M:" ver="1">$1m :</t>
+<t id="L_TIME_S" ver="1">$1s</t>
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">Firmware EEPROM indstillinger</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">Generet G-kode ikke fundet</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">Forventet filnavn og en placering</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">Kunne ikke finde den genererede G-Kode-fil.
+Mulige årsager:
+- Det seneste slice job havde en fejl og blev ikke færdigt. Den gemte fil havde et uventet filnavn. Tjek log udskrift.</t>
+<t id="B_CLOSE" ver="1">Luk</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Repetier-Host indstillinger</t>
+<t id="L_BEHAVIOUR" ver="1">Adfærd</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">Filer og Mapper</t>
+<t id="L_GUI" ver="1">GUI</t>
+<t id="L_INFO_WORKDIR" ver="1">I arbejdsmappen, bliver logfilen og midlertidige filer til Slicing gemt.
+	Hvis logning er aktiveret, vil der være oprettet en repetier.log fil efter programmet er stoppet. 
+	Logfilen indeholder al kommunikation med printeren, selvom visning er deaktiveret i loggen. 
+	Lognings ændringer er aktive efter næste start. Start af programmet vil slette gamle logfiler ! </t>
+<t id="L_LOG_SESSION" ver="1">Log Session</t>
+<t id="REDUCE_TOOLBAR_SIZE" ver="1">Reducer størrelse af VærktøjsLinie</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">Deaktiver kvalitets Reduktion</t>
+<t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">Eksisterende arbejdsmappe påkrævet !</t>
+<t id="L_WORKDIR:" ver="1">Arbejdsmappe :</t>
+<t id="B_BROWSE" ver="1">Gennemse ...</t>
+<t id="L_SELECT_WORKING_DIRECTORY" ver="1">Vælg Arbejdsmappe</t>
+<t id="L_PAST_60_MINUTES" ver="1">Sidste 60 minuter</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">3D-visualisering, indstillinger</t>
+<t id="L_COLORS" ver="1">Farver</t>
+<t id="L_EDITOR" ver="1">Editor</t>
+<t id="L_VISUALIZATION" ver="1">Visualisering :</t>
+<t id="L_AMBIENT_COLOR" ver="1">Omgivelser Farve:</t>
+<t id="L_BACKGROUND" ver="1">Baggrund:</t>
+<t id="L_DIFFUSE_COLOR" ver="1">Diffus Farve:</t>
+<t id="L_DRAW_METHOD" ver="1">Tegne Metode:</t>
+<t id="L_EDGES" ver="1">Kanter :</t>
+<t id="L_EXTRUDER_X:" ver="1">Ekstruder $1 :</t>
+<t id="L_FACES" ver="1">Flader :</t>
+<t id="L_FILAMENT_VISUALIZATION_INFO" ver="1">Mængde af Plastfyld beregnes enten ved Bredde/Laghøjde eller fra plasttrådsdiameter, Bredde/Laghøjde og E-værdier i G-kode . Den sidste udgave giver bedre resultater, hvis lag/højde ændrer sig, hvilket bl.a. kan ske med nyere Skeinforge versioner.</t>
+<t id="L_FILAMENT_VISUALIZATION" ver="1">Plasttråd Visualisering :</t>
+<t id="L_HOT_FILAMENT" ver="1">Varm Plasttråd :</t>
+<t id="L_HOT_FILAMENT_LENGTH" ver="1">Visning af Varm Plasttrådslængde :</t>
+<t id="L_LIGHT_X" ver="1">Lys $1</t>
+<t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">Emner udenfor Printer Bord:</t>
+<t id="L_PRINTER_BASE" ver="1">Printer Base:</t>
+<t id="L_SELECTED_FACES" ver="1">Valgte kanter :</t>
+<t id="L_SELECTED_FILAMENT" ver="1">Valgt Plasttråd :</t>
+<t id="L_SPECULAR_COLOR" ver="1">Specular Farve:</t>
+<t id="L_WIDTH_OVER_THICKNESS" ver="1">Bredde over Tykkelse:</t>
+<t id="L_X_DIRECTION" ver="1">X Retning:</t>
+<t id="L_Y_DIRECTION" ver="1">Y Retning:</t>
+<t id="L_Z_DIRECTION" ver="1">Z Retning:</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">Fjern Plasttråd Visualisering</t>
+<t id="L_ENABLE_LIGHT" ver="1">Aktiver lys</t>
+<t id="L_SHOW_EDGES" ver="1">Vis kanter</t>
+<t id="L_SHOW_FACES" ver="1">Vis Flader</t>
+<t id="L_SHOW_PRINTBED" ver="1">Vis Printer Base</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">Pulsér hvis emnet ikke kan udskrives</t>
+<t id="TAB_GENERAL" ver="1">Generelt</t>
+<t id="TAB_FILAMENT" ver="1">Plasttråd</t>
+<t id="TAB_MODEL" ver="1">Emne</t>
+<t id="TAB_LIGHTS" ver="1">Lys</t>
+<t id="L_LAYER_HEIGHT" ver="1">Lag Højde:</t>
+<t id="L_FILAMENT_DIAMETER" ver="1">Plasttråd diameter :</t>
+<t id="L_DRAW_METHOD_AUTODETECT" ver="1">Automatisk</t>
+<t id="L_DRAW_METHOD_VBOS" ver="1">VBOs (Hurtigste )</t>
+<t id="L_DRAW_METHOD_ARRAYS" ver="1">Arrays (Medium)</t>
+<t id="L_DRAW_METHOD_IMMEDIATE" ver="1">Direkte (Langsom)</t>
+<t id="W_JOB_STATUS" ver="1">Jobstatus</t>
+<t id="L_ETA:" ver="1">ETA:</t>
+<t id="L_FINISH_TIME:" ver="1">Færdig Tid :</t>
+<t id="L_LINES_SEND:" ver="1">Linier sendt:</t>
+<t id="L_START_TIME:" ver="1">Start tid:</t>
+<t id="L_STATUS:" ver="1">Status:</t>
+<t id="L_TOTAL_LINES:" ver="1">Antal Linier totalt:</t>
+<t id="L_NO_JOB_DEFINED" ver="1">Ingen job Defineret</t>
+<t id="L_RUNNING ... " ver = "1">Arbejder ...</t>
+<t id="L_FINISHED" ver="1">Færdig</t>
+<t id="L_ABORTED" ver="1">Afbrudt</t>
+<t id="W_PRINTER_INFO" ver="1">Printer Information</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">Tilslutnings Information</t>
+<t id="L_PRINTER_DATA" ver="1">Printer data</t>
+<t id="L_BYTES_SEND:" ver="1">Bytes Sendt:</t>
+<t id="L_ERRORS_RECEIVED:" ver="1">Fejl Modtaget:</t>
+<t id="L_FIRMWARE:" ver="1">Firmware :</t>
+<t id="L_FIRMWARE_URL:" ver="1">Firmware URL:</t>
+<t id="L_MACHINE_TYPE:" ver="1">Maskin Type :</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">Antal ekstrudere :</t>
+<t id="L_PROTOCOL:" ver="1">Protokol:</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">Ikke et gyldigt 8,3 filnavn.</t>
+<t id="W_SD_CARD_UPLOAD" ver="1">SD-kort Opload</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">Oploaded Filnavn:</t>
+<t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">Medtag Job Færdig kommandoer</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">Medtag "Start" og "End" Kode</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">Opload ekstern fil</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">Opload Nuværende G-kode</t>
+<t id="L_FILE:" ver="1">Fil:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">Gem G-kode for Direkte Print</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">Denne gemme funktion er beregnet til at generere G-Kode filer, der kan køres fra et SD-kort. Derfor kan det tilføje start og slut kode sammen med de regelmæssige slut kommandoer som de udføres i løbet af en direkte print fra Host. Alle kommentarer og Host kommandoer bliver fjernet! Hvis du ønsker at gemme ændret G-kode i din editor, brug ikonet for Gem.</t>
+<t id="L_SAVE_AS_BINARY" ver="1">Gem i binært format (for Repetier-Firmware)</t>
+<t id="B_SAVE" ver="1">Gem</t>
+<t id="W_SD_CARD_MANAGER" ver="1">SD-Kort Manager</t>
+<t id="L_FILENAME" ver="1">Fil Navn</t>
+<t id="L_SIZE" ver="1">Størrelse</t>
+<t id="L_UPLOAD_FILE" ver="1">Opload fil</t>
+<t id="L_DELETE_FILE" ver="1">Slet fil</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">Fortsæt Udskrivning fra Job Pause</t>
+<t id="L_STOP_UPLOAD" ver="1">Pause/Stop for kørende Udskrivning fra SD-kort</t>
+<t id="L_MOUNT_SD_CARD" ver="1">Monter SD-kort</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">Demonter SD-kort</t>
+<t id="L_PRINT_FINISHED" ver="1">Udskrivning Færdig</t>
+<t id="L_UPLOAD_FINISHED" ver="1">Opload Afsluttet</t>
+<t id="L_SD_PRINTING ... " ver = "1">Printer fra SD-kort...</t>
+<t id="L_UPLOAD_FAILED" ver="1">Opload mislykkedes</t>
+<t id="L_FILE_DELETED" ver="1">Fil slettet</t>
+<t id="L_DELETE_FAILED" ver="1">Sletning mislykkedes</t>
+<t id=" L_UPLOADING_FILE ... " ver = "1">Opload fil ...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">Din sletning af Firmware blev ikke gennemført, filen er en ukendt version.</t>
+<t id="L_PRINT_ABORTED" ver="1">Print Afbrudt</t>
+<t id="L_PRINT_PAUSED" ver="1">Print Pause</t>
+<t id="L_REMOVE_SD_CARD" ver="1">Du kan fjerne SD-kortet.</t>
+<t id="L_INFORMATION" ver="1">Information</t>
+<t id="L_REALLY_DELETE_X" ver="1">Vil du virkelig slette $1</t>
+<t id="SOUND_CONFIGURATION" ver="1">Lyd Konfiguration</t>
+<t id="L_SOUNDS" ver="1">Lyde</t>
+<t id="L_ERROR_SOUND" ver="1">Lyd for opstået fejl</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">Lyd for afsluttet Print</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">Lyd for Print sat på Pause</t>
+<t id="L_SOUND_COMMAND_SOUND" ver="1">Lyd for @ lyd Kommando</t>
+<t id="L_FILE:X" ver="1">Fil:$1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">Vælg WAV-fil for afspilning</t>
+<t id="W_SLIC3R_SETUP" ver="1">Slic3r opsætning</t>
+<t id="L_SLIC3R_SETUP" ver="1">Slic3r opsætning</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="6">Efterlad mappe tom for at bruge den medfølgende eller systemets version.</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Slic3r Konfigurations mappe</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Slic3r eksekverbar fil</t>
+<t id="L_SLIC3R_INFO" ver="1">Med disse indstillinger, er du i stand til at bruge forskellige versioner af Slic3r. Du kan hente nye versioner fra http://www.slic3r.org Den mindste version, der kræves, er 0.9.0. Lad alle felter forblive tomme for at bruge den medfølgende Slic3R version.</t>
+<t id="L_SLIC3R_BLANK_CONFIG" ver="1">Blank bruges til at gættet placering.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Marlin Firmware EEPROM indstillinger</t>
+<t id="L_M_ACCELERATION" ver="1">Acceleration:</t>
+<t id="L_M_ADVANCED_VARIABLES" ver="1">Avancerede variable:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">Printer Home Offset:</t>
+<t id="L_M_MAX_ACCELERATION" ver="1">Maksimal acceleration [mm/s/s]:</t>
+<t id="L_M_MAX_FEEDRATE" ver="1">Maksimal hastighed [mm/s]:</t>
+<t id="L_M_MAX_XY_JERK" ver="1">Maksimal XY "jerk" [mm/s]</t>
+<t id="L_M_MAX_Z_JERK" ver="1">Maksimal Z "jerk" [mm/s]</t>
+<t id="L_M_MIN_FEEDRATE" ver="1">Minimum Print hastighed [mm/s]</t>
+<t id="L_M_MIN_SEGMENT_TIME" ver="1">Minimum segment tid [ ms ]</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">Minimum Transport hastighed [mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">Extruder PID indstillinger:</t>
+<t id="L_M_STEPS_PER_MM" ver="1">Step Motor Pulser/mm :</t>
+<t id="L_M_RETRACT_ACCELERATION" ver="1">Retur Acceleration (Z):</t>
+<t id="B_M_LOAD" ver="1">Genindlæs konfiguration</t>
+<t id="B_M_RESTORE" ver="1">Gendan fabriksindstillinger</t>
+<t id="B_M_SAVE" ver="1">Gem i EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">Ønsker du at gemme Indstillinger i EEPROM?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">Indstillinger Gemt</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">Gem hentede ændringer i EEPROM ?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">Fabriksindstillinger hentet</t>
+<t id="L_SLICING_STL_FILE ... " ver = "1">Slicer STL fil ...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">Sidste Slice job kører stadig. Kørsel af nyt job er annulleret.</t>
+<t id="L_SKEIN_KILLED" ver="1">$1 Skeinforge stoppet på brugerens anmodning.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Skeinforge/SFACT Indstillinger</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Skeinforge Anvendelse:</t>
+<t id="L_SKEIN_CRAFT" ver="1">Skeinforge program :</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">Vælg profiler undermappe i Skeinforge konfigurations mappe. Dette er normalt HOME/.skeinforge/profiler. For nogle tilpassede versioner ligesom SFACT stien kan variere.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">Profiler mappe:</t>
+<t id="L_SKEIN_PYPY" ver="1">pypy :</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">Hvis du har PYPY kompiler installeret, vil Skeinforge slices køre 3-4 gange hurtigere. Hvis du ikke har PYPY compiler installeret, lad det da forblive tomt, så vil python tolkning blive brugt i stedet. Du kan hente den nyeste PYPY på http://www.pypy.org/</t>
+<t id="L_SKEIN_PYTHON" ver="1">Python Interpreter :</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">Arbejdsmappe afgør, hvor Skeinforge gemmer profiler!</t>
+<t id="L_SKEIN_WORKING_DIRECTORY" ver="1">Arbejdsmappe:</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Skeinforge Startmappe</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Python Interpreter</t>
+<t id="L_SKEIN_OPEN_CRAFT" ver="1">Skeinforge Craft Application</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">pypy Python Interpreter</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">Vælg profil mappe</t>
+<t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">Vælg arbejdsmappe</t>
+<t id="L_FEEDRATE:" ver="1">Print hastighed :</t>
+<t id="L_FLOWRATE:" ver="1">Extrude faktor :</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">Kunne ikke opnå forbindelse til opdateringsserveren!</t>
+<t id="L_MOVE_CAMERA" ver="1">Flyt kamera</t>
+<t id="L_MOVE_OBJECT" ver="1">Flyt Emne</t>
+<t id="L_MOVE_VIEWPOINT" ver="1">Flyt Visningspunkt</t>
+<t id="L_RESET_VIEW" ver="1">Reset Visning</t>
+<t id="L_ROTATE" ver="1">Roter</t>
+<t id="L_TOP_VIEW" ver="1">Vis Oppefra</t>
+<t id="T_ZOOM_VIEW" ver="1">Zoom</t>
+<t id="T_CLEAR_OBJECTS" ver="1">Slet</t>
+<t id="L_DEBUG_OPTIONS" ver="2">Debug Optioner</t>
+<t id="L_X_MIN:" ver="3">X Min</t>
+<t id="L_X_MAX:" ver="3">X Max</t>
+<t id="L_Y_MIN:" ver="3">Y Min</t>
+<t id="L_Y_MAX:" ver="3">Y Max</t>
+<t id="L_BED_LEFT:" ver="3">Bord Venstre :</t>
+<t id="L_BED_FRONT:" ver="3">Bord Foran :</t>
+<t id="L_SHAPE_INFO" ver="3">MIN- og MAX-værdier definerer mulige ekstruder koordinater. Disse koordinater kan godt være negative og udgøre positioner under print bordet. Bord venstre/foran definerer koordinaterne hvor printbord selv starter. Ved at ændre min/max værdier kan du flytte opstart til midten af print bordet, hvis det understøttes af den installerede Firmware.</t>
+<t id="L_SELECTION_BOX" ver="3">Valgt Boks :</t>
+<t id="L_FILAMENT_NONE" ver="3">Ingen/Samme som Ekstruder 1</t>
+<t id="L_REALLY_QUIT" ver="3">Udskrivning ikke færdig. Afslut alligevel?</t>
+<t id="M_DONATE" ver="3">Donere via PayPal</t>
+<t id="L_FAN" ver="4">Blæser</t>
+<t id="L_HOME_X:" ver="4">Hjem X:</t>
+<t id="L_HOME_Y:" ver="4">Hjem Y:</t>
+<t id="L_HOME_Z:" ver="4">Hjem Z:</t>
+<t id="L_MIN" ver="4">Min</t>
+<t id="L_MAX" ver="4">Max</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">Printeren anmodet om en pause .</t>
+<t id="L_CREATE_FOLDER" ver="4">Opret ny mappe</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">Indtast mappenavn i 8,3 notation :</t>
+<t id="L_UPLOADING_TIME" ver="4">Opload tid : $1</t>
+<t id="L_FILAMENT_POS" ver="4">Fil : $1</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">Visning af transport veje deaktiveret</t>
+<t id="M_HIDE_TRAVEL" ver="4">Skjul visning af flytning af printerhoved</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">Aktiver visning af flytning af printerhoved</t>
+<t id="M_SHOW_TRAVEL" ver="4">Vis mellem distanser</t>
+<t id="L_TRAVEL_MOVES:" ver="4">Transport veje :</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">Fjern visning af transport veje</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">Antal ekstrudere :</t>
+<t id="L_NEW_FOLDER" ver="5">Ny mappe</t>
+<t id="L_USE_PARALLEL_PROJECTION" ver="5">Brug parallel projektion</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">Brug Røde/Grønne knapper ( kræver genstart)</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">Slic3r program ikke fundet.</t>
+<t id="L_ANALYSING_STL" ver="6">Analyserer STL fil ...</t>
+<t id="L_SLICING_STL" ver="6">Slicer STL fil ...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">Pypy eller Python fortolker ikke fundet.</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">Skeinforge program ikke fundet.</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">Python fortolker ikke fundet.</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">Skeinforge program ikke fundet.</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">Skeinforge/SFACT profil mappe ikke fundet .</t>
+<t id="B_REFRESH_PORTS" ver="6">Opdater COM Porte</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">Maximum Print Højde:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">Maximum Print Radius:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">Klassisk Printer</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">Klassisk Printer ( med dump område )</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Rostock Printer ( cirkulær print form)</t>
+<t id="L_CORRECT_NORMALS" ver="7">Brug korrekte normals ( ser bedre ud, men bruger mere hukommelse )</t>
+<t id="L_WARNING" ver="8">Advarsel</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">Nogle varmelegemer er stadig tændt. Skal de afbrydes ?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">Mindst eet emne er uden for udskriftsområdet. Afbryd Slicing ?</t>
+<t id="L_CNC_ROUTER" ver="8">CNC Router</t>
+<t id="L_SLIC3R_VERSION" ver="8">Slic3R version</t>
+<t id="L_MODEL_ERRORS" ver="9">Emne Fejl :</t>
+<t id="L_SPLIT" ver="9">Split</t>
+<t id="L_YES" ver="9">Ja</t>
+<t id="L_NO" ver="9">Nej</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9">En eller flere emne filer er ændret. \r\nGenindlæs emne(r) ?</t>
+<t id="L_FILES_CHANGED" ver="9">Filer ændret</t>
+<t id="L_INNER_FACES" ver="9">Indersider :</t>
+<t id="L_BACKGROUND_TOP" ver="9">Baggrund Top:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">Baggrund Nederst:</t>
+<t id="L_PRINTER_FRAME" ver="9">Printer Ramme:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">Isometrisk</t>
+<t id="L_BOTTOM_VIEW" ver="9">Vis Nedefra</t>
+<t id="L_LEFT_VIEW" ver="9">Vis fra Venstre</t>
+<t id="L_RIGHT_VIEW" ver="9">Vis fra Højre</t>
+<t id="L_FRONT_VIEW" ver="9">Vis Forfra</t>
+<t id="L_BACK_VIEW" ver="9">Vis Bagfra</t>
+<t id="M_VIEW" ver="9">Vis</t>
+<t id="M_SHOW_EDGES" ver="9"> Vis Kanter</t> 
+<t id="M_SHOW_FACES" ver="9"> Vis Flader</t> 
+<t id="L_ANA_MODIFIED" ver="9"> Modificeret:</t> 
+<t id="L_ANA_MANIFOLD" ver="9"> Manifold:</t> 
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9"> Skærende trekanter:</t> 
+<t id="L_ANA_NORMALS" ver="9"> Normals:</t> 
+<t id="L_ANA_LOOP_EDGES" ver="9"> Loop Kanter:</t> 
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9"> Meget Forbundne Kanter:</t> 
+<t id="L_ANA_VERTICES" ver="9"> Punkt:</t> 
+<t id="L_ANA_EDGES" ver="9"> Kanter:</t> 
+<t id="L_ANA_FACES" ver="9"> Flader:</t> 
+<t id="L_ANA_SHELLS" ver="9"> Vægge:</t> 
+<t id="L_ANA_ORIENTED" ver="9"> Orienteret</t> 
+<t id="L_ANA_NOT_ORIENTED" ver="9"> Ikke Orienteret</t> 
+<t id="M_TOOLS" ver="9"> Værktøjer</t> 
+<t id="M_BELT_CALCULATOR" ver="9"> Bælte Regnemaskine</t> 
+<t id="M_LEADSCREW_CALCULATOR" ver="9"> Gevindskrue Regnemaskine</t> 
+<t id="L_MOTOR_STEP_ANGLE" ver="9"> Stepmotor vinkel/step</t> 
+<t id="L_DRIVER_MICROSTEPPING" ver="9"> Stepmotor microstep/step</t> 
+<t id="L_BELT_PITCH" ver="9"> Bælte pitch</t> 
+<t id="L_TOOTH_COUNT" ver="9"> Antal tænder</t> 
+<t id="B_CALCULATE" ver="9"> Beregn</t> 
+<t id="L_STEPS_PER_MM" ver="9"> Værdi for trin pr mm</t> 
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9"> Antal tænder, skal være heltal</t> 
+<t id="L_LEADSCREW_PITCH" ver="9"> Gevindskrue gevindstigning</t> 
+<t id="L_GEAR_RATIO" ver="9"> Udveksling</t> 
+<t id="L_SERIAL_CONNECTION" ver="9"> Seriel forbindelse</t> 
+<t id="L_VIRTUAL_CONNECTION" ver="9"> Virtuel Printer</t> 
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9"> Repetier-Server</t> 
+<t id="L_CONNECTOR" ver="9"> Tilsluttet</t> 
+<t id="L_DISABLED" ver="9"> Afbrudt</t> 
+<t id="L_DTR_LOW_HIGH" ver="9"> DTR høj>lav</t> 
+<t id="L_DTR_LOW_HIGH_LOW" ver="9"> DTR lav>høj->lav</t> 
+<t id="L_DTR_TOGGLE" ver="9"> DTR toggle</t> 
+<t id="L_RESET_ON_CONNECT" ver="9"> Reset ved Tilslutning:</t> 
+<t id="L_RESET_ON_EMERGENCY" ver="9"> Aktion ved Nødstop:</t> 
+<t id="L_SEND_EMERGENCY_CMD" ver="9"> Send Nødstop kommando</t> 
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">Send Nødstop kommando + DTR høj>lav</t> 
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Send Nødstop kommando og tilslut igen</t> 
+<t id="L_FILE_ASSOCIATIONS" ver="9"> Filtype associationer</t> 
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9"> Associerede Filtyper</t> 
+<t id="L_CONNECTION_FAILED" ver="9"> Forbindelsen mislykkedes med følgende fejl: $1. Kontroller at printeren er tilsluttet, tændt og indstillet korrekt. Åbn printerindstillinger?</t> 
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9"> Aktiver parallel tilstand i top visning</t> 
+<t id="L_RESET_DEFAULTS" ver="9"> Reset til standard indstilling</t> 
+<t id="L_REMOVED_DEGENERATED" ver="9">Degenererede trekanter fjernet:</t> 
+<t id="L_REMOVED_ISOLATED" ver="9"> Isolerede trekanter fjernet:</t> 
+<t id="L_REMOVED_DOUBLE" ver="9"> Dobbelte trekanter fjernet:</t> 
+<t id="L_STARTING_ANALYSER" ver="9"> Start objekt analysator ...</t> 
+<t id="L_ANALYSER_FINISHED" ver="9"> Analyse færdig.</t><t id="L_LOADING_3D_FAILED" ver="9"> Hentning af 3D-fil $1 mislykkedes.</t> 
+<t id="L_OBJECT_INFORMATIONS" ver="9">Emne Information</t> 
+<t id="L_MINIMUM:" ver="9"> Minimum:</t> 
+<t id="L_MAXIMUM:" ver="9"> Maksimum:</t>
+<t id="L_SIZE:" ver="9"> Størrelse:</t> 
+<t id="L_VOLUME:" ver="9"> Volumen:</t> 
+<t id="L_SURFACE:" ver="9">Overflade:</t> 
+<t id="L_DIMENSIONS:" ver="9"> Mål:</t> 
+<t id="L_SPLIT_OBJECT" ver="9"> Adskil emner</t> 
+<t id="L_FIX_NORMALS" ver="9"> Fyld Normals</t> 
+<t id="M_FIT_PRINTER" ver="9"> Tilpas Printer</t> 
+<t id="M_FIT_OBJECTS" ver="9"> Tilpas Emne(r)</t> 
+<t id="IMPORTING_1" ver="9"> Importerer $1</t>
+<t id="L_LOADING ..." ver = "9"> Hentning ...</t> 
+<t id="L_INTERSECTION_TESTS" ver="9"> Intersection tester</t>
+<t id="L_FIXING_NORMALS" ver="9">Fastsættelse af defaults</t> 
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Faste kolineære trekanter:</t> 
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9"> Korrigerede normale retningslinjer:</t> 
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Emne er vandtæt.</t> 
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Emne er ikke-vandtæt (non-manifold). Slicing kan producere forkerte resultater. Reparer emne fil før slicing.</t> 
+<t id="L_SHOW_COMPASS" ver="9">Vis Kompas </t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Er du sikker på du ønsker at slette job $1?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">Status blev gemt</t>
+<t id="M_POSPONED_JOBS" ver="10">Udsatte Jobs</t>
+<t id="M_RESUME_JOB" ver="10">Genoptag</t>
+<t id="M_POSTPONE_JOB" ver="10">Udskyd nuværende job</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">Udsatte udskrivningsopgaver</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">Genoptag udskudt Job</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">Stop udskudt Job</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">Omdøb udskudt Job</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">Udskudt Job navn</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10">Venligst navngiv udskudt Job</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">Udskudt Job tilstand gemmes, når det aktuelle lag er afsluttet. Du kan også gennemtvinge jobbets tilstand nu, eller genoptage udskrivningen.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">Forcer udskudt job</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">Genoptag printning</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Udskyd Print Job</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Toggle vist Printer-ID</t>
+<t id="L_PRINTER_ID" ver="10">Printer-ID</t>
+<t id="L_BGCOLOR:" ver="10">Baggrundsfarve:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Editer Printer-ID</t>
+<t id="L_ANAYLSING" ver="10">Analyse</t>
+<t id="L_NOT_TESTED" ver="10">Ikke testet</t>
+<t id="L_CONNECTOR:" ver="10">Tilslutning:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normal korrektion ikke muligt for ikke-manifold objekter.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Bord højde kort</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">Opret Højde Kort</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">Mål Bordhøjder</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">Kopier resultat til udklipsholder</t>
+<t id="L_SCAN_AREA" ver="10">Scan Areal</t>
+<t id="L_SCAN_RESULTS" ver="10">Scan Resultater</t>
+<t id="L_X_POINTS:" ver="10">X punkter:</t>
+<t id="L_Y_POINTS:" ver="10">Y punkter:</t>
+<t id="L_Z_MIN:" ver="10">Z min: </t>
+<t id="L_Z_MAX:" ver="10">Z max: </t>
+<t id="L_Z_AVG:" ver="10">Z gennemsnit :</t>
+<t id="L_Z_CENTER:" ver="10">Z center</t>
+<t id="L_CUT_FACES" ver="10">Klip emner</t>
+<t id="L_CUT_POSITION" ver="10">Position</t>
+<t id="L_CUT_INCLINATION" ver="10">Hældning</t>
+<t id="L_CUT_AZIMUTH" ver="10">Azimuth</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">Enheder af importerede emner</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">Emner vises i millimeter</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">Emner vises i tommer</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">Emner vises i fod </t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">Emner vises i meter</t>
+<t id="B_RESET" ver="10">Reset</t>
+<t id="L_SLIC3R_INFO2" ver="10">Slic3r er et eksternt program, som også kan køres separat. For yderligere informationer, kan du besøge følgende webside: http://www.slic3r.org</t>
+<t id="L_SKEINFORGE_INFO" ver="10">Skeinforge er et eksternt program, som også kan køres separat.
+	For yderligere informationer, kan du besøge følgende hjemmeside: http://fabmetheus.crsndoo.com/</t>
+<t id="L_PRINT_SETTINGS:" ver="10">Print indstillinger :</t>
+<t id="L_PRINTER_SETTINGS:" ver="10">Printer indstillinger :</t>
+<t id="L_OVERRIDE_SLIC3R_SETTINGS" ver="10">Overskriv Slic3r indstillinger</t>
+<t id="B_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="10">Kopier Udskriftsindstillinger for overskrivning</t>
+<t id="L_ENABLE_SUPPORT" ver="10">Aktiver Support</t>
+<t id="L_ENABLE_COOLING" ver="10">Aktiver Køling</t>
+<t id="L_LAYER_HEIGHT:" ver="10">Lag Højde: </t>
+<t id="L_INFILL_DENSITY" ver="10">Opfyldningsgrad</t>
+<t id="L_INFILL_ANGLE" ver="10">Opfyldnings vinkel</t>
+<t id="L_INFILL_PATTERN:" ver="10">Opfyldnings Mønster:</t>
+<t id="L_SOLID_INFILL_PATTERN:" ver="10">Massiv Opfyldning:</t>
+<t id="L_SHOW_EXTRUDER" ver="10">Vis Extruder</t>
+<t id="L_SHOW_BED" ver="10">Vis Varmebord</t>
+<t id="L_SHOW_OUTPUT" ver="10">Vis Energi tilførsel</t>
+<t id="L_SHOW_TARGET_TEMPERATURES" ver="10">Temperatur indstilling</t>
+<t id="L_SHOW_AVERAGE_TEMPERATURES" ver="10">Middel temperatur</t>
+<t id="L_NOT_VALID_SD_FILENAME" ver="10">Filnavnet indeholder ulovlige tegn eller er for lang. Brug ikke mere end 26 tegn.</t>
+<t id="B_ADD_SLICER" ver="10">Tilføj ny Slicer</t>
+<t id="B_DELETE" ver="10">SLET</t>
+<t id="L_SLICER" ver="10">Slicer</t>
+<t id="L_CONFIGURATION:" ver="10">Konfiguration :</t>
+<t id="L_SETUP" ver="10">Setup</t>
+<t id="L_SLICER_CONFIGURATIONS" ver="10">Slicer konfiguration</t>
+<t id="L_NAME" ver="10">Navn</t>
+<t id="L_SLICER_MANAGER" ver="10">Slicer Manager</t>
+<t id="L_ASK_LOAD_GCODE" ver="10">Slicer kreerede ny g-kode fil. Skal den hentes ?</t>
+<t id="L_QUESTION" ver="10">Spørgsmål</t>
+<t id="L_FILE_TYPES:" ver="10">Fil Type :</t>
+<t id="L_WATCHDIRECTORY_INFO" ver="10">Overvågnings mappen viser de filtyper, der er defineret ovenfor. Adskil flere typer med et semikolon som &quot;g;gcode&quot;. Hver printer har sin egen mappe indstilling, som bliver overvåget. Hvis en fil er ny eller ændret, når du skifter til Repetier-Host vil filerne blive vist som fremhævet for umiddelbar Import.</t>
+<t id="B_LOAD" ver="10">Hent</t>
+<t id="L_CHANGED" ver="10">ændret</t>
+<t id="L_NEW" ver="10">Ny</t>
+<t id="L_DIRECTORY:" ver="10">Mappe:</t>
+<t id="L_ACTION" ver="10">Aktion</t>
+<t id="L_FILE" ver="10">Fil</t>
+<t id="L_STATUS" ver="10">Status</t>
+<t id="L_SEND_ETA_DISPLAY" ver="10">Send ETA til printerens LCD display</t>
+<t id="L_ETA_SHORT$1" ver="10">ETA $1</t>
+<t id="L_ETE_SHORT$1" ver="10">ETE $1</t>
+<t id="L_CACHING ..." ver = " 10">Caching ... $1%</t>
+<t id="M_MAKE_SCREENSHOT" ver="10">Gem Skærmbillede</t>
+<t id="PNG_FILTER" ver="10">PNG-billed|*.png</t>
+<t id="L_INVALID_FILENAME" ver="10">Ugyldigt filnavn.</t>
+<t id="L_EEPROM_IMPORT_FAILED" ver="10">Import af EEPROM data mislykkedes. Ugyldigt filformat.</t>
+<t id="L_EXPORT_EEPROM_DATA" ver="10">Exporter EEPROM data</t>
+<t id="L_IMPORT_EEPROM_DATA" ver="10">Importer EEPROM data</t>
+<t id="L_TIME_H" ver="10">$ 1t</t>
+<t id="L_TIME_M" ver="10">$ 1m</t>
+<t id="L_SHOW_OUTPUT_EXTRUDER" ver="10">Extruder energi %</t>
+<t id="L_SHOW_OUTPUT_BED" ver="10">Varmebord energi %</t>
+<t id="M_SHOW_BED_POWER" ver="10">Vis Varmebord energi tilførsel</t>
+<t id="L_ENABLE_ANTI_ALIAS" ver="10">Aktiver anti-aliasering hvis muligt ( påvirker opdaterings hastighed ), genstart nødvendig</t>
+
+<t id="L_MODEL_ERRORS_EDGE:" ver="10">Model har fejl (kanter):</t>
+<t id="L_CUT_FACES:" ver="10">Afskårne flader:</t>
+<t id="L_NOT_MANIFOLD_INFO" ver="11">Modellen er ikke vandtæt (not manifold).
+ Dette vil normalt give problemer for den valgte Slicer, 
+ med uventet resultat som følge, selvom Slicer normalt
+ vil reparere en del fejl. Det anbefales at reparere sådanne filer først.
+ En gratis service for dette findes her: https://netfabb.azurewebsites.net
+ </t>
+<t id="L_EXPERT_MODE" ver="11">Ekspert Tilstand</t>
+<t id="L_CURAENGINE_EXECUTABLE" ver="11">CuraEngine eksekverbar</t>
+<t id="L_CURAENGINE_INFO" ver="11">Cura-Engine er et separat externt program kreeret af David Braam.
+ For flere informationer besøg https://www.ultimaker.com</t>
+<t id="L_CURAENGINE_NOT_FOUND" ver="11">Cura-Engine blev ikke fundet.</t>
+<t id="L_ANY_EXTRUDER" ver="11">Vilkårlig Extruder</t>
+<t id="L_PUSH_MESSAGES" ver="11">Push-beskeder</t>
+<t id="L_INFORMER_ACTIVE" ver="11">Aktiver Push-beskeder</t>
+<t id="L_INFORMER_GROUP" ver="11">Informer-Group:</t>
+<t id="L_PUSH_PRINT_FINISHED" ver="11">Print job afsluttet</t>
+<t id="L_PUSH_PRINT_PAUSED" ver="11">Print job sat på Pause</t>
+<t id="L_PUSH_PRINT_STARTED" ver="11">Print job Startet</t>
+<t id="L_PUSH_PRINT_STOPPED" ver="11">Print job Stoppet</t>
+<t id="L_PUSH_SLICING_FINISHED" ver="11">Slicer afsluttet</t>
+<t id="L_PUSH_FATAL_ERRORS" ver="11">Fatale fejl</t>
+<t id="L_PUSH_SEND_FOR" ver="11">Send beskeder for disse begivenheder:</t>
+<t id="L_TEST" ver="11">Test</t>
+<t id="L_INFORMER_INSTRUCTIONS" ver="11">Repetier-Informer er en smartphone applikation (App) der tillader dig at modtage "push" beskeder. I denne "App" kan du oprette nye grupper eller bruge delte grupperinger.
+	Her kan du vælge gruppen du ønsker at sende besked til. Alle medlemmer af gruppen vil modtage de sendte beskeder.</t>
+<t id="L_VISIT_INFORMER" ver="11">Besøg Repetier-Informer hjemmeside</t>
+<t id="L_HOST_NAME:" ver="11">Host navn:</t>
+<t id="L_PUSH_HEAD_STARTED" ver="11">Print job startet</t>
+<t id="L_PUSH_MSG_STARTED" ver="11">Print job for printer $1 startet. The print will be finished around $2.</t>
+<t id="L_PUSH_HEAD_PAUSED" ver="11">Print job sat på pause</t>
+<t id="L_PUSH_MSG_PAUSED" ver="11">Print job for printer $1 er sat på pause. Besked: $2</t>
+<t id="L_PUSH_HEAD_FINISHED" ver="11">Print afsluttet</t>
+<t id="L_PUSH_MSG_FINISHED" ver="11">Print job for printer $1 er færdigt. Print tid: $2. Antal linier sendt til printer: $3</t>
+<t id="L_PUSH_HEAD_KILLED" ver="11">Print job stoppet</t>
+<t id="L_PUSH_MSG_KILLED" ver="11">Print job for printer $1 blev stoppet før det var færdigt.</t>
+<t id="L_PUSH_HEAD_SLICING" ver="11">Slicer er færdig</t>
+<t id="L_PUSH_MSG_SLICING" ver="11">Slice job for printer $1 er færdigt.</t>
+<t id="L_PUSH_HEAD_FATAL" ver="11">Fatal fejl</t>
+<t id="L_PUSH_MSG_FATAL" ver="11">Fatal fejl opstod for printer $1. Besked: $2</t>
+<t id="L_CURA_EXTRUDER_INFO" ver="11">CuraEngine supporterer kun een extruder diameter og flow værdi, fordi det forudsætter identiske extrudere. Hvis du har setup for flere extrudere med forskellige værdier, vil værdierne for den første extruder blive brugt. Print temperaturer bliver sat i begyndelsen af G-koden, så det at bruge forskellige temperaturer for forskellige materialer er ikke noget problem. For køling vælges den højeste værdi af alle extrudere.</t>
+<t id="L_TCPIP_CONNECTION" ver="11">TCP/IP forbindelse</t>
+<t id="L_IP_ADDRESS:" ver="11">IP adresse:</t>
+<t id="L_INFORMER_GROUP_INFO" ver="11">Målgruppe ID fra din app.</t>
+<t id="L_INFORMER_HOST_NAME_INFO" ver="11">Host navn Tilføjes som titel til afsendte beskeder.</t>
+<t id="L_INFORMER_TEST_FAILED" ver="11">Informer server svarer ikke.</t>
+<t id="L_OBJECT_GROUP_%" ver="11">Objekt gruppe $1</t>
+  <t id="L_NOT_COMPUTED" ver="11">Ikke beregnet</t>
+  <t id="L_ANALYSE" ver="11">Analyse</t>
+  <t id="L_ANALYSIS" ver="11">Analyse</t>
+  <t id="L_SETTINGS" ver="11">Indstillinger</t>
+  <t id="L_FILENAME:" ver="11">Filnavn:</t>
+  <t id="L_ASSIGNED_EXTRUDER:" ver="11">Tildelt Extruder:</t>
+  <t id="L_ASSIGNED_OBJECT:" ver="11">Tildelt Object:</t>
+  <t id="L_EXTRACT_FROM_GROUP" ver="11">Udskilt fra gruppe</t>
+  <t id="L_SHOW_PLATER" ver="11">Vis Plater fane i Slic3r program</t>
+  <t id="L_PRINT" ver="11">Print</t>
+  <t id="L_SPEED_AND_QUALITY" ver="11">Hastighed og kvalitet</t>
+  <t id="L_EXTRUSION" ver="11">Extrusion</t>
+  <t id="L_STRUCTURES" ver="11">Strukturer</t>
+  <t id="L_G-CODES" ver="11">G-koder</t>
+  <t id="L_COOLING" ver="11">Køling</t>
+  <t id="L_GENERAL_EXTRUDER_SETTINGS" ver="11">Generelle Extruder indstillinger</t>
+  <t id="L_INFILL" ver="11">Opfyldning</t>
+  <t id="L_MESH_ERRORS" ver="11">Mesh type fejl</t>
+  <t id="L_MULTI_EXTRUDER_SETTINGS" ver="11">Multi Extruder indstillinger</t>
+  <t id="L_QUALITY" ver="11">Kvalitet</t>
+  <t id="L_RAFT" ver="11">Raft</t>
+  <t id="L_SELECTED_QUALITY_SETTING" ver="11">Valg af Kvalitets indstilling</t>
+  <t id="L_SKIRT_AND_BRIM" ver="11">"Skørt" og "Brim"</t>
+  <t id="L_SPEED" ver="11">Hastighed</t>
+  <t id="L_SUPPORT" ver="11">Support</t>
+  <t id="L_BED_TEMPERATURE:" ver="11">Temperatur på Varmebord:</t>
+  <t id="L_BRIM_WIDTH:" ver="11">"Brim" vidde:</t>
+  <t id="L_INFILL_DENSITY:" ver="11">Infill tæthed:</t>
+  <t id="L_INFILL_OVERLAP:" ver="11">Infill Overlap:</t>
+  <t id="L_INFILL_TYPE:" ver="11">Infill Mønster:</t>
+  <t id="L_MAX_FAN_SPEED:" ver="11">Max. Fan hastighed:</t>
+  <t id="L_MIN_FAN_SPEED:" ver="11">Min. Fan hastighed:</t>
+  <t id="L_MIN_EXTR_BEFORE_RETRACT:" ver="11">Min Extrusion før tilbagetrækning:</t>
+  <t id="L_MIN_LAYER_TIME:" ver="11">Minimum Tid/lag:</t>
+  <t id="L_MIN_SKIRT_LENGTH:" ver="11">Minimum Skørt længde:</t>
+  <t id="L_MIN_TRAVEL_BEFORE_RETRACT:" ver="11">Min længde før tilbagetrækning:</t>
+  <t id="L_OVERHANG_ANGLE:" ver="11">Vinkel på overhæng:</t>
+  <t id="L_PRINT_SPEED:" ver="11">Print hastighed:</t>
+  <t id="L_PRINT_TEMPERATURE:" ver="11">Extruder print temperatur:</t>
+  <t id="L_NAME:" ver="11">Navn:</t>
+  <t id="L_EXTRA_MARGIN:" ver="11">Extra Margin:</t>
+  <t id="L_BASE_LINE_WIDTH:" ver="11">Basis Linie bredde:</t>
+  <t id="L_LINE_SPACING:" ver="11">Basis linie afstand:</t>
+  <t id="L_BASE_LINE_THICKNESS:" ver="11">Basis Linie lag højde:</t>
+  <t id="L_INTERFACE_LINE_WIDTH:" ver="11">Interface Linie bredde:</t>
+  <t id="L_INTERFACE_THICKNESS:" ver="11">Interface Tykkelse:</t>
+  <t id="L_RETRACTION_DISTANCE:" ver="11">Tilbagetræknings længde :</t>
+  <t id="L_RETRACTION_ON_EXTRUDER_SWITCH:" ver="11">Tilbagetræk ved Extruder skift:</t>
+  <t id="L_RETRACTION_SPEED:" ver="11">Tilbagetræknings hastighed:</t>
+  <t id="L_SKIRT_DISTANCE:" ver="11">Skørt Længde:</t>
+  <t id="L_SKIRT_LINE_COUNT:" ver="11">Skørt, antal linier:</t>
+  <t id="L_FAST" ver="11">Hurtig</t>
+  <t id="L_SLOW" ver="11">Langsom</t>
+  <t id="L_INNER_PERIMETER:" ver="11">Indre Perimeter</t>
+  <t id="L_OUTER_PERIMETER:" ver="11">Ydre Perimeter</t>
+  <t id="L_SUPPORT_EXTRUDER:" ver="11">Valg af Support Extruder:</t>
+  <t id="L_SUPPORT_TYPE:" ver="11">Support type:</t>
+  <t id="L_TOP/BOTTOM_THICKNESS:" ver="11">Top/Bund Tykkelse:</t>
+  <t id="L_VOLUME_OVERLAP:" ver="11">Volumen overlap:</t>
+  <t id="L_WIPE_AND_PRIME_VOLUME:" ver="11">"Wipe" og "Prime" Volumen:</t>
+  <t id="L_Z_HOP:" ver="11">Z Hop:</t>
+  <t id="L_SHELL_THICKNESS:" ver="11">Gods tykkelse:</t>
+  <t id="L_DISTANCE_XY:" ver="11">Afstand XY:</t>
+  <t id="L_DISTANCE_Z:" ver="11">Afstand Z:</t>
+  <t id="L_GCODE_FLAVOUR:" ver="11">G-kode variation:</t>
+  <t id="L_FLOW:" ver="11">Flow:</t>
+  <t id="L_DEFAULT_QUALITY:" ver="11">Default Kvalitet:</t>
+  <t id="L_FIRST_LAYER_HEIGHT:" ver="11">Højde af 1. Lag:</t>
+  <t id="L_COMBINE_EVERYTHING_A" ver="11">Kombiner alt (Type A)</t>
+  <t id="L_COMBINE_EVERYTHING_B" ver="11">Kombiner alt (Type B)</t>
+  <t id="L_MINIMIZE_CROSSING_PERIMETERS" ver="11">Undgå at krydse ydre Perimetre</t>
+  <t id="L_ENABLE_RETRACTION" ver="11">Aktiver Tilbagetrækning</t>
+  <t id="L_EXTENSIVE_STITCHING" ver="11">Udvidet Stitching</t>
+  <t id="L_KEEP_OPEN_FACES" ver="11">Behold åbne flader</t>
+  <t id="L_CREATE_OOZE_SHIELD" ver="11">Generér "Ooze" beskyttelse</t>
+  <t id="L_CREATE_WIPE_PRIME" ver="11">Generér "Wipe" og "Prime" tårn</t>
+  <t id="L_SPIRALIZE_CONTOUR" ver="11">Print endeløs Spiral</t>
+  <t id="L_SOLID_TOP_INFILL" ver="11">Solid Top udfyldning</t>
+  <t id="L_SOLID_BOTTOM_INFILL" ver="11">Solid Bund udfyldning</t>
+  <t id="L_COOL_HEAD_LIFT" ver="11">Cool Head Lift</t>
+  <t id="L_FILL_AMOUNT:" ver="11">Fyld mængde:</t>
+  <t id="L_CURAENGINE_SETTINGS" ver="11">CuraEngine indstillinger</t>
+  <t id="L_PRINT_CONFIGURATION:" ver="11">Print konfiguration:</t>
+  <t id="L_ADHESION_TYPE:" ver="11">Hæfte type:</t>
+  <t id="L_SPEED:" ver="11">Hastighed:</t>
+  <t id="B_SAVE_AS" ver="11">Gem som ...</t>
+  <t id="L_AIR_GAP:" ver="11">Luft gab:</t>
+  <t id="L_NUM_SURFACE_LAYER:" ver="11">Antal Overflade lag:</t>
+  <t id="L_NONE" ver="11">Ingen</t>
+  <t id="L_BRIM" ver="11">Brim</t>
+  <t id="L_GRID" ver="11">Net</t>
+  <t id="L_LINES" ver="11">Linier</t>
+  <t id="L_TOUCHING_BED" ver="11">Bund kontakt</t>
+  <t id="L_EVERYWHERE" ver="11">Overalt</t>
+  <t id="L_AUTOMATIC" ver="11">Automatisk</t>
+  <t id="L_CONCENTRIC_LINES" ver="11">Koncentriske Linier</t>
+  <t id="L_CURACODEHINTS" ver="11">
+Du kan tilføje dynamiske værdier, som kan erstattes under slicing.
+
+Temperaturer:
+{TEMP0}, {TEMP1}
+{BED}
+
+Hastigheder:
+{Z_TRAVEL_SPEED}
+{TRAVEL_SPEED}
+
+Du kan også tilføje en linie hvis der er en Extruder eller Varmebord tilstede. Tilføj een af disse koder i starten af linien:
+{IF_BED}
+{IF_EXT0}
+
+Brug "Create Default" for at få et nyttigt udgangspunkt der kan ændres til det du ønsker at opnå.
+  </t>
+  <t id="H_RETRACTION_SPEED" ver="11">.
+    Hastighed for tilbagetrækning.
+	Stor hastighed er bedst, men hvis valgt for stor 
+	kan fremføring gnave sig igennem plasttråden
+	så udprintning stopper (jam).
+  </t>
+  <t id="H_RETRACTION_DISTANCE" ver="11">
+    Længde af tilbagetræk. Set 0 for ingen tilbagetræk.
+    Typiske værdier fra 2 mm for direkte extrudere
+    til 7 mm for Bowden type extrudere.
+  </t>
+  <t id="H_FIRST_LAYER_HEIGHT" ver="11">
+    Højde af nederste lag (første).
+	Et tykkere første lag kompenserer bedre for
+	uregelmæssigheder i planet på varmebordet.
+  </t>
+  <t id="H_CUT_OFF_OBJECT_BOTTOM" ver="11">
+	Afskær bunden af emne. Det kan være nyttigt hvis
+	emnet ikke har en plan bund der kan hæfte på 
+	printerbord fordi bundflade er for lille.
+  </t>
+  <t id="H_VOLUME_OVERLAP" ver="11">
+	Denne størrelse giver et vist overlap når der benyttes
+	flere farver ved skift til andet printerhovede, dette
+	sikrer en bedre sammensmeltning.
+  </t>
+  <t id="H_TRAVEL_SPEED" ver="11">
+	Denne hastighed benyttes når Printerhoved flyttes
+	fra et punkt til et andet uden at printe (travel).
+	Den kan vælges ligeså hurtigt som printeren kan klare,
+	men for hurtige hastigheder kan gøre at der mistes
+	nogle steppulser og derved er printer ikke kalibreret mere.
+  </t>
+  <t id="H_FIRST_LAYER_SPEED" ver="11">
+    Print hastighed for første lag. Skal være relativ
+	langsom for at kunne hæfte bedre til varmebord.
+  </t>
+  <t id="H_INFILL_SPEED" ver="11">
+	Hastighed for indre opfyldning. Stor hastighed kan
+	forkorte den totale print tid, men med stor fare
+	for at kvaliteten derved reduceres.
+  </t>
+  <t id="H_OUTER_PERIMETER_SPEED" ver="11">
+	Hastighed for de yderste perimetre. Stor hastighed kan
+	forkorte den totale print tid, men med stor fare for
+	at kvaliteten derved reduceres, også hvis forskellen 
+	mellem indre og ydre printhastighed bliver for stor.
+  </t>
+  <t id="H_INNER_PERIMETER_SPEED" ver="11">
+	Hastighed for indre perimetre. Stor hastighed kan
+	forkorte den totale print tid, men med stor fare
+	for at kvaliteten derved reduceres. Hastigheden
+	bør ligge mellem de ydre perimetre og opfyldning.
+  </t>
+  <t id="H_MINIMUM_LAYER_TIME_COOLING" ver="11">
+	Minimum print tid for eet lag. Tiden skal være
+	stor nok til at sikre at det enkelte lag når at størkne.
+	Hvis print hastigheden er sat for stor vil den blive
+	reduceret indtil denne tid er overholdt.
+  </t>
+  <t id="H_ENABLE_COOLING" ver="11">
+	Aktiverer blæser for køling af printet plastik
+	under printning. Kan forøge printkvaliteten
+	betragteligt især for PLA og ved broer og overhæng.
+  </t>
+  <t id="H_LAYER_HEIGHT" ver="11">
+	Med højde af lagene i mm vælges print opløsning i
+	Z-retning. Små værdier giver bedste kvalitet men
+	tager længere tid at printe.
+	Typiske værdier kan være 0.1-0.4 mm, men skal altid
+	være mindre end udgangshul i printerhovede.
+  </t>
+  <t id="H_SHELL_THICKNESS" ver="11">
+	Godstykkelse i mm af det printede emne i horizontalt plan.
+	Programmet bestemmer ud fra printhovede huldiameter
+	hvor mange perimetre der skal bruges for at opnå
+	tilnærmelsesvis denne godstykkelse.
+  </t>
+  <t id="H_ENABLE_RETRACTION" ver="11">
+	Tillader tilbagetrækning af plasttråd når printhovede
+	flyttes over et ikke printet område. Dette mindsker de
+	utilsigtede strenge der ellers kan komme fra extruder hovede
+	fordi det varme plastik drypper.
+  </t>
+  <t id="H_TOP_BOTTOM_THICKNESS" ver="11">
+	Dette sætter antal lag der skal printes for top og bund,
+	og sættes til passende størrelse for at give styrke og 
+	for at man ikke skal se opfyldnings mønster igennem lagene.	
+	1 mm kan være et godt udgangspunkt.
+  </t>
+  <t id="H_INFILL_DENSITY" ver="11">
+	Her sættes graden af indre opfyldning. For massive
+	emner sættes den til 100% og for hule emner 0%.
+	Jo højere opfyldnings grad jo stærkere emne, men der
+	kan spares en del print tid og materiale ved at sætte
+	denne passende lav. Typiske værdier kan være fra 20-30%. 
+  </t>
+  <t id="H_PRINT_SPEED" ver="11">
+    Print hastigheder for typer der ikke har separat hastigheds indstilling.
+  </t>
+  <t id="H_PRINT_TEMPERATURE" ver="11">
+    Temperaturen afhænger af den brugte plastik og printerens egenskaber. 
+	Mange plastik fabrikanter specifiserer som regel et område af egnede
+	print temperaturer.
+  </t>
+  <t id="H_SUPPORT_TYPE" ver="11">
+     Valg af Support type.
+
+    "Ingen" fravælger support.
+
+    "Bund kontakt" er den mest almindelige indstilling.
+	Der genereres kun support materiale hvor emnet har
+	kontakt med varmebord.
+     
+	"Overalt" genererer support alle steder på emnet 
+	også ovenpå flader hvis det skønnes nødvendigt.
+  </t>
+  <t id="H_ADHESION_TYPE" ver="11">
+	Hjælper med at forbedre hæftning på printerbord.
+
+    "Ingen" generer ikke nogen support..
+
+    "Brim" tilføjer et enkelt lag omkring det
+	 printede emne,der let kan fjernes.
+	
+    "Raft" tilføjer et tykt raster lag under emnet, 
+	som så senere skal fjernes efter printning.
+	Dette kan være nødvendigt hvis du har et ujævnt
+	underlag eller emnet er så lille at der ikke er
+	areal nok til en god vedhæftning under udprintning.
+  </t>
+  <t id="H_FILAMENT_DIAMETER" ver="11">
+    Diameter på plasttråd, skal angives så nøjagtigt som muligt for
+	at kunne udregne nødvendig mængde af plastik for udprintning.
+  </t>
+  <t id="H_FLOW" ver="11">
+    Den extruderede mængde plastik ganges med denne værdi.
+	Normalt bør den være tæt på 100%, men kan benyttes til
+	at kompensere for unøjagtigheder i printermekanik.
+  </t>
+  <t id="L_OUTER_PERIMETER_SPEED:" ver="11">Ydre Perimeter hastighed:</t>
+  <t id="L_INFILL_SPEED:" ver="11">Infill hastighed:</t>
+  <t id="L_PRINT:" ver="11">Print:</t>
+  <t id="L_SUPPORT_PATTERN:" ver="11">Support mønster:</t>
+  <t id="L_TRAVEL:" ver="11">Hurtig flytning uden print:</t>
+  <t id="L_CUTOFF_BOTTOM" ver="11">Fraskær Objekt Bund:</t>
+  <t id="L_ESTIMATED_PRINTING_TIME:" ver="11">Estimeret print tid:</t>
+  <t id="L_LAYER_COUNT:" ver="11">Antal lag:</t>
+  <t id="L_FILAMENT_NEEDED:" ver="11">Plastik forbrug:</t>
+  <t id="L_FAN_FULL_AT_HEIGHT:" ver="11">Højde hvor blæser går på Max:</t>
+  <t id="L_MINIMUM_SPEED:" ver="11">Minimum Hastighed:</t>
+  <t id="H_MINIMUM_TRAVEL_BEFORE_RETRACT" ver="11">Minimum print længde for at aktivere tilbagetræk i extruder.</t>
+  <t id="L_PREVIEW" ver="11">Preview</t>
+  <t id="L_SCALE_OBJECT" ver="11">Skalér Objekt</t>
+  <t id="L_ROTATE_OBJECT" ver="11">Rotér Objekt</t>
+  <t id="H_MINIMIZE_CROSSING_PERIMETERS" ver="11">
+	Hvis der kan findes en transportvej til det næste punkt indenfor
+	objekt areal, vælges denne. Hvis deaktiveret vil den korteste vej
+	vælges, hvilket kan forårsage dryp fra printhoved undervejs.
+  </t>
+  <t id="H_MINIMUM_EXTRUSION_BEFORE_RETRACT" ver="11">
+	Minimum længde af extrudering før næste tilbagetrækning
+	kan udføres. Hvis en tilbagetrækning behøves vil denne
+	blive ignoreret. Hvis der tilbagetrækkes flere gange på
+	samme strækning af plasttråd kan denne beskadiges og
+	blokere yderligere udprintning.
+  </t>
+  <t id="H_Z_HOP" ver="11">
+	Printhovede løftes med denne afstand under transport uden
+	at printe. Dette kan have positive effekt for printere
+	med særlig hurtig Z-akse som Delta printere.
+  </t>
+  <t id="H_SKIRT_LINE_COUNT" ver="11">
+	Skørt er linier der printes på det første lag omkring objektet
+	der skal printes og bruges til at sikre at Extruder er fyldt 
+	med plastik inden den egentlige udprintning starter. Vælg 
+	antal linier eller 0 for deaktivering
+  </t>
+  <t id="H_SKIRT_DISTANCE" ver="11">Afstanden mellem skørt og objekt.
+  </t>  
+  <t id="H_MINIMUM_SKIRT_LENGTH" ver="11">
+	Minimum længde på "skørt". Hvis denne længde
+	ikke opnåes, tilføjes yderligere linier. Hvis
+	værdien er 0 ignoreres dette krav. 
+  </t>
+  <t id="H_FAN_FULL_ON_AT_HEIGHT" ver="11">
+	Ved denne højde sættes blæser til maximum.
+	For lagene før skaleres blæser hastighed
+	lineært fra 0 ved første lag.
+  </t>
+  <t id="H_MIN_FAN_SPEED" ver="11">
+	Dette er minimum blæser hastighed for køling.
+	Hvis print tid for det enkelte lag ar lavere end
+	minimum tid for det enkelte lag, nedsættes print og
+	og blæser hastighed der interpoleres til en værdi
+	mellem min og max.
+  </t> 
+  <t id="H_MAX_FAN_SPEED" ver="11"> 
+	Dette er max blæser hastighed for køling.
+	Det kan opnåes hvis tiden for det enkelte 
+	lag er reduceret med mere end 50%.
+  </t>
+  <t id="H_COOL_HEAD_LIFT" ver="11">
+	Løfter printhovede hvis udprintning med minimum 
+	hastighed er hurtigere end minimum print tid for
+	det enkelte lag.
+  </t>
+  <t id="H_MINIMUM_COOLING_SPEED" ver="11">
+	Den mindste valgte tid for det enkelte lag kan være så
+	langsom at varmen fra printhovede degenererer objektet.
+	Denne mindste hastighed kan forhindre dette, så selv om
+	kølingsfunktionen sætter hastigheden ned kan hastigheden
+	ikke blive mindre end denne.
+	</t> 
+  <t id="H_SOLID_TOP_INFILL" ver="11">
+	Printer en solid top overflade. Hvis deaktiveret
+	benyttes den valgte udfyldningsgrad istedet. 
+	God til lukkede modeller der kræver solid udfyldning.
+  </t>
+  <t id="H_SOLID_BOTTOM_INFILL" ver="11">
+	Printer en solid bundflade (100%). Hvis deaktiveret
+	vil den valgte udfyldningsgrad blive brugt.
+	God til vaser og lignende der kræver udfyldning.
+  </t>
+  <t id="H_INFILL_OVERLAP" ver="11">
+	Denne værdi bestemmer overlap mellem udfyldning og vægge.
+	Der bør være et let overlap så væggene får en god forbindelse
+	med udfyldningen.
+  </t>
+  <t id="H_SUPPORT_PATTERN" ver="11">
+    Valg mellem Support mønstre:
+
+    "Net" er meget solidt og kan fjernes i eet stykke.
+	Til tider kan det være FOR solidt.
+	
+    "Linier" er enkelt sidede linier som brækkes af een af gangen.
+	Det giver mere arbejde med at fjerne dem, men de er mindre
+	robuste og virker godt på lidt mere avancerede modeller.
+  </t>
+  <t id="H_OVERHANG_ANGLE" ver="11">
+    Den mindste vinkel for overhæng for at producere support.
+	0° er horsontalt og 90° er vertikalt.
+  </t>
+  <t id="H_SUPPORT_FILL_AMOUNT" ver="11">
+    Tæthed af Support struktur. Mindre materiale giver svagere
+	Support som er lettere at fjerne. 15% kan være godt udgangspunkt.
+  </t>
+  <t id="H_DISTANCE_XY" ver="11">
+	Afstand fra objekt til support struktur i X-Y retninger.
+	0.8mm er en god erfarings værdi som forhindrer support i
+	en for stærk binding.
+  </t>
+  <t id="H_DISTANCE_Z" ver="11">
+	Afstanden fra top/bund på objekt til support struktur.
+	Et lille gab gør det lettere at fjerne support struktur.
+  </t>
+  <t id="H_SPIRALIZE_CONTOUR" ver="11">
+	Denne funktion konverterer et normalt printet objekt
+	til en enkelt vægs print hvor Z-aksen øges kontinuerligt
+	og derved skaber et sømløst enkelt vægget print.
+	Denne funktion benyttes typisk ved udprintning af 
+	vaser og lignende tynde konstruktioner.
+  </t>
+  <t id="H_BRIM_WIDTH" ver="11">
+    Bredde på "brim". Bred "brim" er med til at sikre
+	større hæftning for objekt, men dette reducerer så
+	til gengæld tilbageværende printareal. 
+  </t>
+  <t id="H_RAFT_EXTRA_MARGIN" ver="11">
+	Dette er et ekstra "Raft" areal rundt om det printede
+	emne der kan være en fordel ved mindre emner, men det
+	går selvfølgelig fra det tilgængelige printareal.
+  </t>
+  <t id="H_RAFT_LINE_SPACING" ver="11">Dette er afstanden mellem de linier der danner basis laget.</t>
+  <t id="H_RAFT_BASE_LINE_THICKNESS" ver="11">Dette er tykkelsen på basis laget.</t>
+  <t id="H_RAFT_BASE_LINE_WIDTH" ver="11">Dette er bredden på de linier der danner basis laget.</t>
+  <t id="H_RAFT_INTERFACE_THICKNESS" ver="11">Dette er tykkelsen af kontakt laget.</t>
+  <t id="H_RAFT_INTERFACE_LINE_WIDTH" ver="11">Dette er bredden på de linier der danner kontakt laget.</t>
+  <t id="H_RAFT_AIG_GAP" ver="11">
+	Dette er gabet mellem "Raft" og det printede emne.
+	Jo større gabet er jo lettere bliver det at frigøre
+	det fra det printede emne, men det skal dog have en
+	afstand, der stadig støtter det printede emne ovenpå.
+  </t>
+  <t id="H_RAFT_NUM_SURFACE_LAYER" ver="11">
+	Overflade lag er de øverste lag på "Raft".
+	De udfyldes 100% for at give det mest plane
+	lag at printe det egentlige objekt ovenpå.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_A" ver="11">
+	Denne avancerede option lægger alle dele i modellen
+	sammen. Resultatet er som regel at alle interne
+	hulheder forsvinder. Afhængig af modellen kan det
+	være tiltænkt eller ej. Valg af denne option er på
+	egen risiko.
+	Type-A er en del afhængig af modeltypen og prøver
+	at holde interne huller intakte.
+	Type-B ignorerer alle interne huller og prøver kun 
+	at holde styr på den den ydre form i hvert lag.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_B" ver="11">
+	Denne avancerede option lægger alle dele i modellen
+	sammen. Resultatet er som regel at alle interne
+	hulheder forsvinder. Afhængig af modellen kan det
+	være tiltænkt eller ej. Valg af denne option er på
+	egen risiko.
+	Type-A er en del afhængig af modeltypen og prøver
+	at holde interne huller intakte.
+	Type-B ignorerer alle interne huller og prøver kun 
+	at holde styr på den den ydre form i hvert lag.
+  </t>
+  <t id="H_KEEP_OPEN_FACES" ver="11">
+	Denne avancerede option beholder alle åbne dele på
+	modellen intakt. Normalt vil CURA prøve at lukke
+	sådanne små huller og fjerne alt med store huller,
+	men med denne option prøver CURA at bibeholde dele
+	der ikke har nogen klar sammenhæng med resten.
+	Normalt vil det nok ikke være det man ønsker, men
+	kan måske redde nogle emner som ellers ikke lader
+	sig slice.
+	Men som med alle avancerede optioner, så kan
+	resultaterne variere og benyttelsen af den er
+	helt på egen risiko.
+  </t>
+  <t id="H_EXTENSIVE_STITCHING" ver="11">
+	Extensiv lukning af åbne huller i emnet ved at lukke
+	alle huller, der er berørt af omliggende polygoner.
+	Denne algorithme er meget computer krævende og øger
+	slice tiden betydeligt.
+	Men som med alle avancerede optioner, så kan
+	resultaterne variere og benyttelsen af den er
+	helt på egen risiko.
+  </t>
+  <t id="L_CREATE_DEFAULT" ver="11">Sæt til Default</t>
+  <t id="H_NAME_SELECTED_QUALITY_SETTING" ver="11">Vælg et beskrivende navn før gem.</t>
+  <t id="H_INFILL_PATTERN" ver="11">
+	"Automatisk vælger "Linier" eller "Net" passende til den valgte tæthed.
+
+    "Net" giver en stabil struktur.
+
+    "Linier" er paralelle og tættere sammen.
+
+    "Koncentriske Linier" giver linier med reduceret udlæg.
+  </t>
+  <t id="H_CREATE_WIPE_AND_PRIME_TOWER" ver="11">
+	"Wipe" og "Prime" tårn er et tårn der printes lag på
+	lag ved siden af emne og benyttes ved skift mellem
+	flere Printhoveder.
+	Det foregående benyttede printhovede tørres af på
+	tårnet og det nye sættes igang med at printe på samme
+	så det er parat til at starte udprintning på emnet.
+  </t>
+  <t id="H_OOZE_SHIELD" ver="11">
+	Dryppe (Ooze) beskyttelsen er en 1 lags tyk skal
+	der printes rundt om emnet i en afstand af få mm.
+  </t>
+  <t id="H_RETRACTION_ON_EXTRUDER_SWITCH" ver="11">
+	Tilbagetræknings længde for plasttråd når
+	du skifter imellem forskellige printhoveder. 
+	Sæt til 0 hvis ingen tilbagetrækning ønskes.
+  </t>
+  <t id="H_WIPE_AND_PRIME_VOLUME" ver="11">
+	Mængden af materiale til at generere "Wipe" og "Prime" tårn.
+	Angives i volumen fordi det forventes at en vis mængde 
+	plastik skal til for at få extruder igang, uafhængigt af
+	højden på lagene. Ved tynde tynde lag vil tårnet derfor
+	blive kraftigere.
+  </t>
+  <t id="L_AIR_GAP_LAYER0:" ver="11">Luft gab for lag 0:</t>
+  <t id="H_AIR_GAP_OTHER_LAYERS" ver="11">
+	Det forventede luftgab mellem Raft lag og andet lag på emnet.
+	Ideelt er dette gab 0 og forventningen er at luftgabet efter
+	det første lag er 0, da det næste lag placeres ovenpå Raft
+	laget og vil falde ned og dermed lukke gabet.
+	</t> 
+    <t id="H_SLIC3R_OVERRIDE_SLIC3R_SETTINGS" ver="11">
+	Overskriver indstillinger som vist ovenfor med de valgte værdier herunder.
+  </t>
+    <t id="H_SLIC3R_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="11">
+	Erstatter værdierne vist herunder med værdier fra konfiguration valgt ovenover.
+  </t>  
+    <t id="H_SLIC3R_ENABLE_SUPPORT" ver="11">
+	Tilføjer Support struktur hvor det er nødvendigt for udprintning.
+  </t> 
+    <t id="H_SLIC3R_ENABLE_COOLING" ver="11">
+	Aktiverer blæser for køling af objekt under printning.
+	Dette kan forbedre print kvaliteten især med PLA
+	og ved printning af broer og overhængende strukturer.
+  </t>  
+    <t id="H_SLIC3R_LAYER_HEIGHT" ver="11">
+	Højde af det enkelte lag i millimeter hvilket er
+	printer opløsning på Z-akse retning. Lave værdier
+	kan øge print kvaliteten men vil så tage længere 
+	tid at printe. Normale værdier kan være mellem
+	0.1 mm og 0.4 mm, men afhænger også af extruder diameter.
+  </t>  
+  <t id="H_SLIC3R_INFILL_DENSITY" ver="11">
+	Her sættes graden af udfyldning. 100% betyder massive
+	objekter og 0% betyder hule objekter (ingen udfyldning).
+	Jo højere udfyldningsgrad des mere solide print. Med en lav
+	udfyldningsgrad kan der dog spares meget printtid og materiale.
+	Almindeligt brugte værdier kunne være 20-30%.
+ 	 </t>
+  <t id="H_SLIC3R_INFILL_PATTERN" ver="11">
+	Valg af mønster på udprintning af fyld af indre struktur.
+  </t>
+  <t id="H_SLIC3R_SOLID_INFILL_PATTERN" ver="11">
+    Her vælges mønster for udfyldning af objekt.
+  </t>
+  <t id="B_CONFIGURE" ver="11">Konfiguration</t>
+  <t id="B_CURA_FAST" ver="11">Hurtig</t> 
+  <t id="B_CURA_SLOW" ver="11">Langsom</t> 
+<t id="L_SCALE_TO_MAX" ver="11">Skalér til Maximum</t>
+<t id="L_RESET_ROTATION" ver="11">Reset Rotation</t>
+<t id="L_LAY_FLAT" ver="11">Læg Flad</t>
+  <t id="L_PREFERENCES" ver="11">Preferenser</t>
+  <t id="L_BASIC_SETTINGS" ver="11">Grund Indstillinger</t>
+  <t id="L_3D_VISUALIZATION" ver="11">3D Visualisering</t>
+  <t id="L_SHOW_HELP_BUBBLES" ver="11">Vis Hjælpe Bobler (genstart nødvendig)</t>
+  <t id="L_MAX_EXTRUDER_TEMP:" ver="11">Max. Extruder Temperatur:</t>
+  <t id="L_MAX_BED_TEMP:" ver="11">Max. Varmebord Temperatur:</t>
+  <t id="L_HAS_MIXING_EXTRUDER" ver="11">Printer har kun een Extruder (een Extruder for alle farver)</t>
+  <t id="L_MANUAL_EXTRUSION_SPEED:" ver="11">Manuel Extruderings hastighed:</t>
+  <t id="L_MANUAL_RETRACTION_SPEED:" ver="11">Manuel Tilbagetræknings hastighed:</t>
+  <t id="L_INVERT_MOVEMENT_DIRECTION_FOR_MANUAL_CONTROL" ver="11">Invertér bevægelses retning for manuel kontrol:</t>
+  <t id="L_X_AXIS" ver="11">X-Akse</t>
+  <t id="L_Y_AXIS" ver="11">Y-Akse</t>
+  <t id="L_Z_AXIS" ver="11">Z-Akse</t>
+  <t id="H_CONTROL_POWER" ver="11">
+    Nogle printere benytter en "Switch Mode" strømforsyning (PC),
+	som kan tændes og slukkes ved aktivering af denne knap.
+  </t>
+
+  <t id="H_CONTROL_MOTOR" ver="11">
+    Slukker for tomgangsstrøm for alle motorer, hvilket
+	kan medføre at Extruder ikke kan fastholde sin position.
+	Printeren kan derfor ikke længere betragtes som kalibreret.
+	Derfor bør denne funktion ikke aktiveres under kørende job.
+    Motorer aktiveres igen hvis en ny position startes.
+  </t>
+
+  <t id="H_CONTROL_PARKING" ver="11">
+    Flytter aktiv Extruder til angivet parkerings position.
+  </t>
+
+  <t id="H_CONTROL_SCRIPTX" ver="11">
+	Denne knap sender kommando Script $1 til printer for udførelse.
+	Du kan se de mulige Scripts og redigere dem i droplisten til
+	G-kode editor.
+  </t>
+
+  <t id="H_CONTROL_SPEED" ver="11">
+	Her kan du løbende ændre på den benyttede printhastighed. 
+	Kun hastigheder for positionsændringer i G-kode programmet
+	ændres med denne faktor. Mængden af plastik til printhovede
+	berøres ikke.
+	Vær opmærksom på at print kvalitet kan ændres betydeligt ved
+	valg af højere hastighed.
+  </t>
+
+  <t id="H_CONTROL_FLOW" ver="11">
+	Her kan du løbende ændre mængden af tilført plastik
+	under udprintning. En større værdi vil give en federe
+	printet streg.
+  </t>
+
+  <t id="H_CONTROL_FAN" ver="11">
+	Her kan du løbende ændre hastigheden på køle blæseren
+	for det printede plastik.
+	Effektiv køling kan forbedre print kvaliteten betydeligt,
+	især for broer og overhæng og små detaljer.
+  </t>
+
+  <t id="H_CONTROL_BED" ver="11">
+  	Her kan du tænde og slukke eller sætte temperaturen på
+	Varmebord. Typiske værdier vil ligge mellem 50-60°C for
+	PLA typer og mellem 100-120°C FOR ABS.
+  </t>
+
+  <t id="H_CONTROL_EXTRUDER" ver="11">
+	Her kan du tænde og slukke og sætte temperaturen på
+	den enkelte Extruder. Typiske værdier vil ligge mellem
+	180-220°C for PLA og mellem 220-260°C for ABS afhængig
+	af den benyttede plastiktråd. 
+	Andre værdier kan gælde for specielle plastiktyper.
+  </t>
+
+  <t id="H_PS_CONNECTOR" ver="11">
+	Tilslutnings type for printer, som regel seriel.
+	Tilslutning af virtuel printer forudsætter at
+	en sådan er tilstede.
+  </t>
+
+  <t id="H_PS_PORT" ver="11">
+	Vælg en port som host kan kommunikere med printer over.
+	Typisk er det den port der blev installeret af printerdriver.
+	Hvis du ikke kender porten kan du prøve at se hvilken port
+	der bliver tilført din liste på PC Kontrol Panel når 
+	printer USB kabel bliver tilsluttet PC.
+	Hvis der ikke vises nogen ny port ved tilslutning har du måske
+	ikke installeret korrekt USB driver for printeren.
+  </t>
+
+  <t id="H_PS_BAUD_RATE" ver="11">
+	Hastigheden som benyttes mellem Repetier-Host og tilsluttet
+	printer. De mest brugte er 250000 eller 115200. Der vælges
+	den største værdi hvor kommunikationen er stabil og uden udfald.
+	Valg af forkert hastighed er een af de mest almindelige fejl
+	ved opsætning af printer tilslutning.
+  </t>
+
+  <t id="H_PS_TRANSFER_PROTOCOL" ver="11">
+	Kommunikations protokol for udveksling af data
+	mellem Host program og Printer. Den binære protokol er
+	den hurtigste men kan kun benyttes med Repetier-Firmware.
+	"Automatisk" vælger selv den optimale kommunikation.
+  </t>
+
+  <t id="L_AUTODETECT" ver="11">
+    Automatisk
+  </t>
+
+  <t id="L_REPETIER_PROTOCOL" ver="11">
+    Repetier FW Protokol
+  </t>
+
+  <t id="H_PS_RESET_ON_CONNECT" ver="11">
+	De fleste printer styringer tillader at blive Resat ved at
+	skifte niveau på DTR eller RTS signalet på den serielle linie.
+	Hvis printer ikke supporterer dette kan det fravælges her.
+	Som grundregel bør printer resettes når den forbindes til
+	Host for at sikre en kendt opstarts tilstand.
+  </t>
+
+  <t id="H_PS_RESET_ON_EMERGENCY" ver="11">
+	Her besluttes det hvad der skal ske når Nødstop knappen aktiveres.
+    Da knappen først bliver registreret når printerbuffer er tømt, vil
+	det være en fordel at der også udløses en reset af printer.
+  </t>
+
+  <t id="H_PS_RECEIVE_CACHE_SIZE" ver="11">
+	For at forhindre små pauser under udprintning, sender Host
+	programmet flere kommandoer afsted på een gang. Disse bliver
+	opfanget i en buffer i printeren for senere eksekvering. Du må
+	her angive hvor mange din printer kan acceptere uden at blive
+	løbet over ende. De fleste printere har en buffer (cache) der
+	kan klare 127 karakterer (bytes) medens andre kun klarer 63.
+	Hvis Host melder kommunikations fejl under udprintning kan
+	det måske hjælpe at nedsætte denne værdi.
+  </t>
+
+  <t id="H_PS_USE_PING_PONG_COMMUNICATION" ver="11">
+	Ping-pong kommunikation sender een kommando ad gangen
+	til printer som skal kvittere hver gang.
+	Derfor er denne form meget langsom og bør ikke 
+	vælges med mindre det er nødvendigt for stabil
+	kommunikation.
+  </t>
+
+  <t id="H_PS_IP_ADDRESS" ver="11">
+	Med denne IP adresse kan printeren forbindes over
+	virtuel COM port knyttet til denne adresse.
+  </t>
+
+  <t id="H_PS_IP_PORT" ver="11">
+    Dette er COM porten som printeren skal kommunikere over. 
+  </t>
+
+  <t id="H_PS_VIRTUAL_BAUD_RATE" ver="11">
+	Hastighed for simuleret printer tilslutning.
+	For baudrate over 250000 er der ingen ventetid,
+	men for mindre hastigheder indsættes pauser mellem
+	kommandoer.
+    t>
+  </t>
+  
+  <t id="H_PS_TRAVEL_FEED_RATE" ver="11">
+ 	Printer hovede (extruder) flytter sig med denne hastighed
+	i X og Y retning når manuelle kontroller benyttes.
+  </t>
+
+  <t id="H_PS_Z_AXIS_FEED_RATE" ver="11">
+	Extruder flytter sig med denne hastighed
+	i Z retning når manuel kontrol benyttes.
+  </t>
+
+  <t id="H_PS_MANUAL_EXTRUSION_SPEED" ver="11">
+	Extrudering (smeltning af plastik) foregår med denne
+	hastighed når knap for manuel extrudering benyttes.
+  </t>
+
+  <t id="H_PS_MANUAL_RETRACTION_SPEED" ver="11">
+	Plastik tilbagetrækkes  i print hovede med denne
+	hastighed når knap for manuel tilbagetrækning benyttes.
+  </t>
+
+  <t id="H_PS_DEFAULT_EXTRUDER_TEMPERATURE" ver="11">
+    Denne temperatur for Extruder foreslåes benyttet
+	når Printer tilsluttes.
+	
+  </t>
+
+  <t id="H_PS_DEFAULT_HEAT_BED_TEMPERATURE" ver="11">
+    Denne temperatur på Varmebord foreslåes benyttet
+	når printer tilsluttes.
+  </t>
+
+  <t id="H_PS_CHECK_EXTRUDER_AND_BED_TEMPERATURE" ver="11">
+    Dette er er nødvendigt for at vise og kontrollere
+	temperaturer og forudsættes at være aktiveret.
+  </t>
+
+  <t id="H_PS_REMOVE_TEMPERATURE_REQUEST_FROM_LOG" ver="11">
+    Fjerner skrivning til log af temperaturer for
+	Extruder og Varmebord for en mere enkelt logning.
+  </t>
+
+  <t id="H_PS_CHECK_EVERY" ver="11">
+	Her kan du indstille hvor tit temperaturer
+	for extruder og Varmebord skal aflæses.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_X" ver="11">
+    Denne X-position benyttes ved parkering af Extruder.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Y" ver="11">
+    Denne Y-position benyttes ved parkering af Extruder.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Z_MIN" ver="11">
+    Denne Z-position benyttes ved parkering af Extruder.
+  </t>
+
+  <t id="H_PS_SEND_ETA_TO_PRINTER_DISPLAY" ver="11">
+	Sender tilbageværende eller udregnet print tid til 
+	printer display for det kørende print job. 
+	Dette vises også på Host status bar og kan skiftes
+	ved at klikke på den viste tid med musen.
+  </t>
+
+  <t id="H_PS_DISABLE_EXTRUDER_AFTER_JOB_KILL" ver="11">
+    Denne funktion vil afbryde strømforsyningen til
+	Extruder når print job er afsluttet eller Nødstop
+	knappen aktiveres.
+  </t>
+
+  <t id="H_PS_DISABLE_MOTORS_AFTER_JOB_KILL" ver="11">
+    Denne funktion vil afbryde strømforsyningen til
+	Motorer	når print job er afsluttet eller Nødstop
+	knappen aktiveres.
+  </t>
+
+  <t id="H_PS_DISABLE_HEATED_BED_AFTER_JOB_KILL" ver="11">
+    Denne funktion vil afbryde strømforsyningen til
+	Varmebord når print job er afsluttet eller Nødstop
+	knappen aktiveres.
+  </t>
+
+  <t id="H_PS_ADD_TO_COMP_PRINTING_TIME" ver="11">
+	Denne værdi adderes til den udregnede værdi for
+	udprintningstiden og er nødvendig for en mere akkurat
+	tidsangivelse, da acceleration og struktur af den
+	printede model varierer meget er det ikke muligt
+	at udregne denne nøjagtigt.
+  </t>
+
+  <t id="H_PS_GO_TO_PARK_POSITION_AFTER_JOB_KILL" ver="11">
+	Denne position benyttes til at parkere printhoved,
+	når et print job er afsluttet eller Nødstop knappen
+	har været aktiveret.
+  </t>
+
+  <t id="H_PS_INVERT_MOVEMENT_DIRECTION" ver="11">
+	Denne funktion vender bevægelses retningen
+	for de anvendte knapper på kontrol panelet.
+  </t>
+
+  <t id="H_PS_NUMBER_OF_EXTRUDERS" ver="11">
+    Her kan du vælge antal installerede Extrudere (printhoveder).
+  </t>
+
+  <t id="H_PS_MAX_EXTRUDER_TEMPERATURE" ver="11">
+    Her angiver du maximum temperatur for Extruder (printhovede),
+	så det kan undgåes at du kommer til at overophede dette
+	ved forkerte indstillinger.
+  </t>
+
+  <t id="H_PS_MAX_BED_TEMPERATURE" ver="11">
+	Her angiver du maximum temperatur for Varmebord,
+	så det kan undgåes at du kommer til at overophede dette
+	ved forkerte indstillinger.
+  </t>
+
+  <t id="H_PS_PRINTER_HAS_MIXING_EXTRUDER" ver="11">
+	Hvis du benytter en multi-farve Extruder, 
+	hvor alle farver printes af samme printhovede, 
+	skal du aktivere denne funktionialitet her.
+  </t>
+
+  <t id="H_PS_NAME" ver="11">
+    Selv-valgt navn, som benyttes ved objekt placering.
+  </t>
+
+  <t id="H_PS_DIAMETER" ver="11">
+    Diameter af Extruder udgangshul.
+  </t>
+
+  <t id="H_PS_TEMPERATURE_OFFSET" ver="11">
+    Denne temperatur offset lægges til den valgte plastik temperatur.
+	Derved kan du benytte forskellige extrudere med samme opsætning for plastik.
+  </t>
+
+  <t id="H_PS_OFFSET_X" ver="11">
+	Offset for Extruder X-position når flere er i brug
+	og dette ikke er indstillet i Firmware.
+  </t>
+
+  <t id="H_PS_OFFSET_Y" ver="11">
+	Offset for Extruder Y-position når flere Extrudere er i brug
+	og dette ikke er indstillet i printerens Firmware.
+  </t>
+
+  <t id="H_PS_COLOR" ver="11">
+    Denne plastik farve benyttes ved Preview.
+  </t>
+
+  <t id="H_PS_PRINTER_TYPE" ver="11">
+    Her kan du angive din printer type.
+  </t>
+
+  <t id="H_PS_HOME" ver="11">
+    Her kan du angive positionen, hvor extruder parkeres efter "Home" kommando.
+  </t>
+  
+  <t id="L_PRINT_BED" ver="11">Printer varmebord</t>
+  <t id="L_DUMP_AREA" ver="11">Dump område</t>
+  <t id="L_PRINTER_TYPE:" ver="11">Printer Type:</t>
+  <t id="L_START_GCODE" ver="11">Start G-Kode</t>
+  <t id="L_END_GCODE" ver="11">Slut G-Kode</t>
+  <t id="L_BEFORE_EXTRUDER_SWITCH" ver="11">Før Extruder skift</t>
+  <t id="L_AFTER_EXTRUDER_SWITCH" ver="11">Efter Extruder skift</t>
+<t id="L_INVERT_DIRECTION_FOR" ver="11">Invertér retning på manuelle Kontrol funktioner</t>
+<t id="L_EXPORTING_MODEL_FOR_SLICING" ver="11">Eksporter Model til Slicer</t>
+  <t id="L_MAX_VOLUME_PER_SECOND" ver="11">Max. volumen per sekund:</t>
+  <t id="H_PS_MAX_VOLUME_PER_SECOND" ver="11">
+	Denne værdi kan benyttes af Slicer til at begrænse Print hastighed
+    baseret på beregning af nødvendig plastik volumen.
+    Normalt kan du printe ca 12mm³/s, men jo højere print hastighed
+	jo mere varme og kraft behøves for at skubbe den smeltede plastik
+	igennem print hovede.
+  </t>
+  <t id="L_SHOW_TRAVEL_MOVES" ver="11">Vis Transport Veje</t>
+  <t id="L_PRINTING_STATISTICS" ver="11">Print Statistik</t>
+</translation>

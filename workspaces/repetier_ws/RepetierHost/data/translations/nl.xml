@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="5" language="Nederlands" languageInEnglish="Dutch" author="M3chTroniC;FELIXprinters">
+<t id="M_FILE" ver="1">Bestand</t>
+<t id="M_CONFIG" ver="1">Configuratie</t>
+<t id="M_SLICER" ver="1">Slicer</t>
+<t id="M_TEMPERATURE" ver="1">Temperatuur</t>
+<t id="M_PRINTER" ver="1">Printer</t>
+<t id="M_HELP" ver="1">Help</t>
+<t id="M_LOAD_GCODE" ver="1">Laad G-Code</t>
+<t id="M_SHOW_WORKDIRECTORY" ver="1">Werkmap Tonen</t>
+<t id="M_LANGUAGE" ver="1">Taal</t>
+<t id="M_PRINTER_SETTINGS" ver="1">Printer Instellingen</t>
+<t id="M_EEPROM_SETTINGS" ver="1">Firmware EEPROM Configuratie</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">3D Beeld Configureren</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Repetier Algemene instellingen</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">Test Model Slicing Parameter</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">Geluids Configuratie</t>
+<t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">Toon Extruder Temperatuur</t>
+<t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">Toon Printbed Temperatuur</t>
+<t id="M_SHOW_TARGET_TEMPERATURES" ver="1">Toon Doel Temperatuur</t>
+<t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">Toon Gemiddelde Temperatuur</t>
+<t id="M_SHOW_HEATER_POWER" ver="1">Toon verwarmings vermogen</t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">Autoscroll Temperatuur venster</t>
+<t id="M_TIMEPERIOD" ver="1">Periode</t>
+<t id="M_TEMPERATURE_ZOOM" ver="1">Tijd interval</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">Weergave Over ...</t>
+<t id="M_30_SECONDS" ver="1">30 Seconden</t>
+<t id="M_1_MINUTE" ver="1">1 Minuut</t>
+<t id="M_2_MINUTES" ver="1">2 Minuten</t>
+<t id="M_5_MINUTES" ver="1">5 Minuten</t>
+<t id="M_10_MINUTES" ver="1">10 Minuten</t>
+<t id="M_15_MINUTES" ver="1">15 Minuten</t>
+<t id="M_30_MINUTES" ver="1">30 Minuten</t>
+<t id="M_60_MINUTES" ver="1">60 Minuten</t>
+<t id="M_CONTINUOUS_MONITORING" ver="1">Monitor Continu</t>
+<t id="M_DISABLE" ver="1">Uitschakelen</t>
+<t id="M_EXTRUDER_1" ver="1">Extruder 1</t>
+<t id="M_EXTRUDER_2" ver="1">Extruder 2</t>
+<t id="M_HEATED_BED" ver="1">Verwarmd Bed</t>
+<t id="M_PRINTER_INFORMATION" ver="1">Printer Informatie</t>
+<t id="M_JOB_STATUS" ver="1">Taak Status</t>
+<t id="M_SD_CARD_MANAGER" ver="1">SD Kaart Beheerder</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">SD Kaart Beheren</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">Test Model Generator</t>
+<t id="M_SEND_SCRIPT_1" ver="1">Zend Script 1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">Zend Script 2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">Zend Script 3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">Zend Script 4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">Zend Script 5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Repetier-Host Homepage</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Repetier-Host Download</t>
+<t id="M_MANUAL" ver="1">Repetier-Host Handleiding</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Slic3r Homepage</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Skeinforge Homepage</t>
+<t id="M_REPRAP_WEBSITE" ver="1">RepRap Homepage</t>
+<t id="M_REPRAP_FORUM" ver="1">RepRap Forum</t>
+<t id="M_THINGIVERSE_NEWEST" ver="1">Thingiverse Nieuwste dingen</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse Populaire dingen</t>
+<t id="M_ABOUT_REPETIER_HOST" ver="1">Over Repetier-Host</t>
+<t id="M_CHECK_FOR_UPDATES" ver="1"> Controleer op Updates</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">Printer Ontkoppelen</t>
+<t id="L_CONNECT_PRINTER" ver="1">Printer Koppelen</t>
+<t id="M_DISCONNECT" ver="1">Ontkoppelen</t>
+<t id="M_CONNECT" ver="1">Koppelen</t>
+<t id="M_QUIT" ver="1">Afsluiten</t>
+<t id="TAB_3D_VIEW" ver="1">3D Weergave</t>
+<t id="TAB_TEMPERATURE_CURVE" ver="1">Temperatuur Curve</t>
+<t id="TAB_OBJECT_PLACEMENT" ver="1">Object Plaatsing</t>
+<t id="TAB_SLICER" ver="1">Slicer</t>
+<t id="TAB_GCODE_EDITOR" ver="1">G-Code Bewerken</t>
+<t id="TAB_MANUAL_CONTROL" ver="1">Handmatige Besturing</t>
+<t id="M_EMERGENCY_STOP" ver="1">Noodstop</t>
+<t id="M_LOAD" ver="1">Laden</t>
+<t id="M_SAVE_JOB" ver="1">Opslaan</t>
+<t id="M_RUN_JOB" ver="1">Start Print</t>
+<t id="M_PAUSE_JOB" ver="1">Pauzeren</t>
+<t id="M_KILL_JOB" ver="1">Stoppen</t>
+<t id="M_SD_CARD" ver="1">SD Kaart</t>
+<t id="M_TOGGLE_LOG" ver="1">Log aan/uit</t>
+<t id="M_SHOW_FILAMENT" ver="1">Toon Filament</t>
+<t id="M_HIDE_FILAMENT" ver="1">Verberg Filament</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">Filament Visualisatie uit</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">Filament Visualisatie Aan</t>
+<t id="L_LOAD_FILE" ver="1">Laad Bestand</t>
+<t id="L_IMPORT_G_CODE" ver="1">Importeer G-Code</t>
+<t id="L_SAVE_G_CODE" ver="1">G-Code Opslaan</t>
+<t id="L_ERROR" ver="1">Fout!</t>
+<t id="L_PAUSE_MSG" ver="1">Klik OK om door te gaan. 
+Je kan een pauze in de code inbouwen. 
+@pause Dit als voorbeeld</t>
+<t id="L_UPDATING..." ver="1">Updaten ...</t>
+<t id="L_SLICE_WITH" ver="1">Slice met $1</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">Zend een noodstop naar de printer. Mogelijk moet de printer ge-reset worden voor een herstart!</t>
+<t id="L_TRANSLATION:" ver="1">Transleren</t>
+<t id="L_SCALE:" ver="1">Schaal</t>
+<t id="L_ROTATE:" ver="1">Roteren</t>
+<t id="L_STL_OBJECTS" ver="1">STL Objecten</t>
+<t id="B_SAVE_AS_STL" ver="1">Opslaan als STL</t>
+<t id="B_REMOVE_STL_OBJECT" ver="1">Verwijder Object</t>
+<t id="B_ADD_STL_OBJECT" ver="1">Object Toevoegen</t>
+<t id="B_AUTOPOSITION" ver="1">Auto Positioneren</t>
+<t id="B_DROP_OBJECT" ver="1">Plaats Object</t>
+<t id="B_COPY_OBJECTS" ver="1">Kopieer Object(en)</t>
+<t id="B_CENTER_OBJECT" ver="1">Centreer Object</t>
+<t id="L_LOCK_ASPECT_RATIO" ver="1">Behoud Aspect Ratio</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">Stop Slicen</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">Instellen</t>
+<t id="B_SETUP_SLIC3R" ver="1">Instellen</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">Configureren</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">Configureren</t>
+<t id="B_ACTIVE" ver="1">Actief</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">Filament Instellingen:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">Printer Instellingen:</t>
+<t id="L_PRINT_SETTINGS" ver="1">Print Instellingen:</t>
+<t id="L_PROFILE" ver="1">Profiel:</t>
+<t id="B_SEND" ver="1">Versturen</t>
+<t id="B_SIMULATE_OK" ver="1">OK</t>
+<t id="B_STOP_MOTOR" ver="1">Stop Motor</t>
+<t id="B_PARK" ver="1">Parkeer</t>
+<t id="B_RETRACT" ver="1">Terugtrekken</t>
+<t id="B_EXTRUDE" ver="1">Extruderen</t>
+<t id="L_OUTPUT_PERCENT" ver="1">Capaciteit $1%</t>
+<t id="B_POWER" ver="1">Aan/Uit</t>
+<t id="B_HEAT_EXTRUDER" ver="1">Verwarm Extruder</t>
+<t id="B_HEAT_PRINTBED" ver="1">Verwarm Printbed</t>
+<t id="B_FAN" ver="1">Ventilator</t>
+<t id="B_DEBUG_ERRORS" ver="1">Fouten</t>
+<t id="B_DEBUG_ECHO" ver="1">Echo</t>
+<t id="B_DRY_RUN" ver="1">Droog Printen</t>
+<t id="B_DEBUG_INFO" ver="1">Info</t>
+<t id="L_EXTRUDER" ver="1">Extruder</t>
+<t id="L_PRINTBED" ver="1">Printbed</t>
+<t id="L_SPEED_MULTIPLY" ver="1">Snelheid Instellen</t>
+<t id="L_EXTRUDE_MM" ver="1">Extruderen [mm]</t>
+<t id="L_EXTRUDER_SPEED_MM_MIN" ver="1">Snelheid [mm/min]</t>
+<t id="L_RETRACT_MM" ver="1">Terugtrekking [mm]</t>
+<t id="L_TEMP" ver="1">Temp.</t>
+<t id="L_DISCONNECTED" ver="1">Niet verbonden</t>
+<t id="L_CONNECTED" ver="1">Verbonden</t>
+<t id="L_HEATING_BED" ver="1">Verwarmen Bed</t>
+<t id="L_HEATING_EXTRUDER" ver="1">Verwarmen Extruder</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">Printtaak gestopt</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">Printtaak gepauzeerd</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">Printtaak klaar</t>
+<t id="L_UPLOADING..." ver="1">Uploaden ... $1%</t>
+<t id="L_PRINTING_JOB_ETA" ver="1">Printtaak ETA $1</t>
+<t id="L_IDLE" ver="1">Wachtend</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 Commando's verwacht</t>
+<t id="L_EXTRUDER:" ver="1">Extruder:</t>
+<t id="L_BED:" ver="1">Bed:</t>
+<t id="L_OFF" ver="1">Uit</t>
+<t id="L_NOT_A_NUMBER" ver="1">Geen getal</t>
+<t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">Positief getal vereist</t>
+<t id="L_NOT_AN_INTEGER" ver="1">Geen integer</t>
+<t id="L_RESET_OUTPUT" ver="1">Reset output. Na enige tijd wachten, krijg ik alleen $1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">Ontvang alleen foutmeldingen. Communicatie gestopt.</t>
+<t id="L_PRINTING..ETA" ver="1">Printen...ETA $1</t>
+<t id="L_LAYER_X/Y" ver="1">Laag $1/$2</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">Fout in versturen data:</t>
+<t id="L_CONNECTION_ERROR" ver="1">Verbindings fout</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">Seriele communicatie fout:</t>
+<t id="L_SHOW_IN_LOG" ver="1">Toon in Log:</t>
+<t id="B_ACK" ver="1">ACK</t>
+<t id="B_AUTO_SCROLL" ver="1">Auto Scroll</t>
+<t id="B_COMMANDS" ver="1">Opdrachten</t>
+<t id="B_LOG_ERRORS" ver="1">Fouten</t>
+<t id="B_LOG_INFO" ver="1">Infos</t>
+<t id="B_LOG_WARNINGS" ver="1">Waarschuwingen</t>
+<t id="B_COPY" ver="1">Kopieer</t>
+<t id="B_CLEAR_LOG" ver="1">Log opschonen</t>
+<t id="L_COPY" ver="1">Kopieeren</t>
+<t id="L_CUT" ver="1">Knippen</t>
+<t id="L_NEW_TEXT" ver="1">Nieuwe Tekst</t>
+<t id="L_SAVE" ver="1">Opslaan</t>
+<t id="L_PASTE" ver="1">Plakken</t>
+<t id="L_UNDO" ver="1">Ongedaan maken</t>
+<t id="L_REDO" ver="1">Opnieuw</t>
+<t id="L_AUTO_UPDATE_PREVIEW" ver="1">Auto update beeld</t>
+<t id="L_START_CODE" ver="1">Start Code</t>
+<t id="L_END_CODE" ver="1">Eind Code</t>
+<t id="L_RUN_ON_KILL" ver="1">Uitvoeren na Afbreken</t>
+<t id="L_RUN_ON_PAUSE" ver="1">Uitvoeren na Pauze</t>
+<t id="L_SCRIPT_X" ver="1">Script $1</t>
+<t id="L_LAYER_X" ver="1">Laag $1</t>
+<t id="L_EXTRUDER_X" ver="1">Extruder $1</t>
+<t id="L_EDITOR_C" ver="1">C$1</t>
+<t id="L_EDITOR_R" ver="1">R$1</t>
+<t id="L_OVERWRITE" ver="1">Overschrijven</t>
+<t id="L_INSERT" ver="1">Invoegen</t>
+<t id="L_SYNTAX" ver="1">Syntax</t>
+<t id="TAB_HELP" ver="1">Help</t>
+<t id="TAB_VISUALIZATION" ver="1">Visualisatie</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">Toon complete code</t>
+<t id="L_SHOW_LAYER_RANGE" ver="1">Toon geselecteerde lagen</t>
+<t id="L_SHOW_SINGLE_LAYER" ver="1">Toon enkele laag</t>
+<t id="L_FIRST_LAYER" ver="1">Eerste laag:</t>
+<t id="L_LAST_LAYER" ver="1">Laatste laag:</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1">Wil je echt alle instellingen verwijderen voor $1?</t>
+<t id="L_SECURITY_QUESTION" ver="1">Veiligheidsvraag</t>
+<t id="L_ADD_PRINTING_TIME" ver="1">Tel bij berekende printtijd</t>
+<t id="L_BAUD_RATE" ver="1">Baud Rate:</t>
+<t id="L_CACHE_SIZE_HINT" ver="1">Van Arduino 1 is het ontvangst cache gereduceerd van 127 tot 63 bytes!</t>
+<t id="L_CHECK_EVERY_X" ver="1">Controleer elke $1 seconden.</t>
+<t id="L_CONNECTION_INFO" ver="1">De printer instellingen corresponderen altijd met de gekozen printer aan de top. 
+Zij worden opgeslagen bij iedere OK of Toepassen. Om een nieuwe printer aan 
+te maken, type een nieuwe printernaam en klik Toepassen. De nieuwe printer 
+start met de laatst geselecteerde instellingen.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">Basis Extrudeer Temperatuur:</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">Basis Printbed Temperatuur:</t>
+<t id="L_DUMP_AREA_DEPTH" ver="1">Parkeeropening Diepte:</t>
+<t id="L_DUMP_AREA_FRONT" ver="1">Parkeeropening Voorzijde:</t>
+<t id="L_DUMP_AREA_LEFT" ver="1">Parkeeropening Linkerzijde:</t>
+<t id="L_DUMP_AREA_WIDTH" ver="1">Parkeeropening Breedte:</t>
+<t id="L_FILTER_INFO" ver="1">Je kan een filterprogramma laten draaien na iedere slice-actie. Het programma bewerkt de G-code
+die geproduceerd is door de slicer. Gebruik de #in en #out om de in- en output bestandsnamen als parameter toe te voegen.</t>
+<t id="L_FILTER_PATH_PARAM" ver="1">Filter Pad en Parameter:</t>
+<t id="L_PARITY" ver="1">Pariteit:</t>
+<t id="L_PARK_POSITION" ver="1">Parkeer Positie:</t>
+<t id="L_PORT" ver="1">Poort:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">Printvlak Diepte:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1">Printvlak Hoogte:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">Printvlak Breedte:</t>
+<t id="L_PRINTER" ver="1">Printer:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">Onvangst Cache Grootte</t>
+<t id="L_STOPBITS" ver="1">Stop Bits:</t>
+<t id="L_TRANSFER_PROTOCOL" ver="1">Transfer Protocol:</t>
+<t id="L_TRAVEL_FEED_RATE" ver="1">Verplaatsings Snelheid:</t>
+<t id="L_ZFEED_RATE" ver="1">Z-as Snelheid:</t>
+<t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">Schakel Extruder-verwarming af na Taak/Stop</t>
+<t id="L_DISABLE_MOTORS" ver="1">Schakel motoren af na Taak/Stop</t>
+<t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">Schakel bedverwarming af na Taak/Stop</t>
+<t id="L_GO_PARK_POSITION" ver="1">Ga naar parkeerpositie na Taak/Stop</t>
+<t id="L_HAS_DUMP_AREA" ver="1">Heeft dump gebied</t>
+<t id="L_HOME_X_MAX" ver="1">Thuis is op X Max</t>
+<t id="L_HOME_Y_MAX" ver="1">Thuis is op Y Max</t>
+<t id="L_HOME_Z_MAX" ver="1">Thuis is op Z Max</t>
+<t id="L_PING_PONG_MODE" ver="1">Gebruik Ping-Pong Communicatie (Verstuur alleen na ok)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">Start filter na iedere laag</t>
+<t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">Controleer Extruder &amp;&amp; Bed Temperatuur</t>
+<t id="L_REMOVE_M105_REQUEST_LOG" ver="1">Verwijder M105 vragen uit Log</t>
+<t id="B_CANCEL" ver="1">Annuleren</t>
+<t id="B_APPLY" ver="1">Toepassen</t>
+<t id="B_OK" ver="1">OK</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">Verwijder deze print instelling</t>
+<t id="TAB_CONNECTION" ver="1">Verbinding</t>
+<t id="TAB_PRINTER" ver="1">Printer</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">Printer Soort</t>
+<t id="TAB_ADVANCED" ver="1">Geavanceerd</t>
+<t id="W_PRINTER_SETTINGS" ver="1">Printer Instellingen</t>
+<t id="L_POST_SLICE_FILTER" ver="1">Post Slice Filter</t>
+<t id="L_Z_MIN" ver="1">Z-Min</t>
+<t id="W_PRINT_PAUSED" ver="1">Print Gepauzeerd</t>
+<t id="L_PAUSE_HINT" ver="1">Hint: Je kan vrijelijk de extruder verplaatsen om b.v. storingen in de toevoer van filament te verhelpen en/of nieuw filament in te voeren. Het Host-programma zal de uitgangspositie van voor de pauze voor je herstellen na opheffing van de pauze.</t>
+<t id="B_CONTINUE_PRINTING" ver="1">Vervolg Printen</t>
+<t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Repetier-Host Update Controle</t>
+<t id="B_DOWNLOAD" ver="1">Download</t>
+<t id="B_REMIND_ME_LATER" ver="1">Herinner me Later</t>
+<t id="B_SKIP_VERSION" ver="1">Sla deze Versie over</t>
+<t id="L_AVAILABLE_VERSION" ver="1">Versie Beschikbaar:</t>
+<t id="L_INSTALLED_VERSION" ver="1">Versie geïnstalleerd:</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">Informatie over Update</t>
+<t id="L_NO_NEW_UPDATES" ver="1">Geen nieuwe updates beschikbaar. 
+Je gebruikt de laatste versie.</t>
+<t id="L_UPDATE_STATUS" ver="1">Update Status</t>
+<t id="W_SLICING_INFO" ver="1">Slicing Info</t>
+<t id="L_ACTION:" ver="1">Actie:</t>
+<t id="L_DURATION:" ver="1">Tijdsduur:</t>
+<t id="L_SLICER:" ver="1">Slicer:</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">Start Taak Na Slicing</t>
+<t id="W_ABOUT_REPETIER_HOST" ver="1">Over Repetier-Host</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">Licenties en Bibliotheken</t>
+<t id="L_REPETIER_INFO" ver="1">Deze software is ontwikkeld voor het besturen van RepRap-achtige 3D printers. Het is het best te gebruiken in combinatie met Repetier-Firmware. welke alle functies ondersteund. Andere Firmware zoals Marlin, Teacup, Sprinter of 5D G-code interpreter zouden met de juiste instellingen moeten kunnen werken.</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">Kopieer gemarkeerde Objecten</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">Aantal kopieen:</t>
+<t id="L_AUTO_POSITION_AFTER_COPY" ver="1">Auto Positioneren na toevoegen Objecten</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">Print laag $1 van $2</t>
+<t id="L_BUILDING_PRINT_JOB..." ver="1">Bouwt print taak...</t>
+<t id="L_PRINTING..." ver="1">Print...</t>
+<t id="L_JOB_KILLED" ver="1">Taak gestopt</t>
+<t id="L_PRINTJOB_FINISHED_AT" ver="1">Printtaak beeindigd op $1</t>
+<t id="L_PRINTING_TIME:" ver="1">Printtijd:$1</t>
+<t id="L_LINES_SEND:X" ver="1">Regels verstuurd:$1</t>
+<t id="L_FINISHED_IN" ver="1">Beeindigd in $1</t>
+<t id="L_TIME_H:" ver="1">$1U:</t>
+<t id="L_TIME_M:" ver="1">$1m:</t>
+<t id="L_TIME_S" ver="1">$1s</t>
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">Firmware EEPROM Instellingen</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">Gegenereerde G-Code niet gevonden</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">Verwachtte bestandsnaam en locatie</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">Kan het gegenereerde G-code bestand niet vinden. 
+
+Mogelijke redenen:
+- De Slice-programma genereerde een fout en heeft de taak niet afgemaakt Controleer het Log-bestand
+- Het Slice-programma heeft een afwijkende bestandsnaam gebruikt</t>
+<t id="B_CLOSE" ver="1">Sluiten</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Repetier Instellingen</t>
+<t id="L_BEHAVIOUR" ver="1">Gedrag</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">Bestanden en mappen</t>
+<t id="L_GUI" ver="1">GUI</t>
+<t id="L_INFO_WORKDIR" ver="1">Het Log-bestand en tijdelijke bestanden van het Slice-programma worden opgeslagen in de werkmap wanneer 
+het loggen is aangezet. Het Log-bestand wordt opgelagen onder de naam Repetier.log nadat het programma is beeindigd. 
+het starten van het programma wist het oude log-bestand! Het log-bestand bevat alle communicatie met de printer, ook als het logvenster 
+is gesloten. Log-wijzigingen worden actief na herstart.</t>
+<t id="L_LOG_SESSION" ver="1">Log Sessie</t>
+<t id="REDUCE_TOOLBAR_SIZE" ver="1">Verklein Knoppenbalk</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">Uitschakelen Kwaliteits Reductie</t>
+<t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">Bestaande werkmap verplicht!</t>
+<t id="L_WORKDIR:" ver="1">Werkmap:</t>
+<t id="B_BROWSE" ver="1">Bladeren...</t>
+<t id="L_SELECT_WORKING_DIRECTORY" ver="1">Selecteer Werkmap</t>
+<t id="L_PAST_60_MINUTES" ver="1">Laatste 60 Minuten</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">3D Visualisatie Instellingen</t>
+<t id="L_COLORS" ver="1">Kleuren</t>
+<t id="L_EDITOR" ver="1">Teksbewerking</t>
+<t id="L_VISUALIZATION" ver="1">Visualisatie:</t>
+<t id="L_AMBIENT_COLOR" ver="1">Omgevingskleur:</t>
+<t id="L_BACKGROUND" ver="1">Achtergrond:</t>
+<t id="L_DIFFUSE_COLOR" ver="1">Diffuus kleur:</t>
+<t id="L_DRAW_METHOD" ver="1">Tekenstijl:</t>
+<t id="L_EDGES" ver="1">Randen:</t>
+<t id="L_EXTRUDER_X:" ver="1">Extruder $1:</t>
+<t id="L_FACES" ver="1">Vlakken:</t>
+<t id="L_FILAMENT_VISUALIZATION_INFO" ver="1">De vorm van het filament is berekend of in laaghoogte en breedte over dikte of van de 
+filament-diameter, Breedte over dikte en E-waarden in de G-code. De tweede versie geeft 
+betere resultaten als de laagdikte wijzigd, wat kan gebeuren in de nieuwste Skeinforge versies.</t>
+<t id="L_FILAMENT_VISUALIZATION" ver="1">Filament Visualisatie:</t>
+<t id="L_HOT_FILAMENT" ver="1">Warm Filament:</t>
+<t id="L_HOT_FILAMENT_LENGTH" ver="1">Lengte Warm Filament:</t>
+<t id="L_LIGHT_X" ver="1">Licht $1</t>
+<t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">Object(en) Buiten het Printvlak:</t>
+<t id="L_PRINTER_BASE" ver="1">Printvlak:</t>
+<t id="L_SELECTED_FACES" ver="1">Geselecteerde vlakken:</t>
+<t id="L_SELECTED_FILAMENT" ver="1">Geselecteerd Filament:</t>
+<t id="L_SPECULAR_COLOR" ver="1">Spiegelende kleur:</t>
+<t id="L_WIDTH_OVER_THICKNESS" ver="1">Breedte over Dikte:</t>
+<t id="L_X_DIRECTION" ver="1">X Richting:</t>
+<t id="L_Y_DIRECTION" ver="1">Y Richting:</t>
+<t id="L_Z_DIRECTION" ver="1">Z Richting:</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">Uitschakelen Filament Visualisatie</t>
+<t id="L_ENABLE_LIGHT" ver="1">Licht Aan</t>
+<t id="L_SHOW_EDGES" ver="1">Toon Randen</t>
+<t id="L_SHOW_FACES" ver="1">Toon Vlakken</t>
+<t id="L_SHOW_PRINTBED" ver="1">Toon Printerbed</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">Pulseer bij niet printbaar Object</t>
+<t id="TAB_GENERAL" ver="1">Algemeen</t>
+<t id="TAB_FILAMENT" ver="1">Filament</t>
+<t id="TAB_MODEL" ver="1">Model</t>
+<t id="TAB_LIGHTS" ver="1">Lichten</t>
+<t id="L_LAYER_HEIGHT" ver="1">Laag Hoogte:</t>
+<t id="L_FILAMENT_DIAMETER" ver="1">Filament Diameter:</t>
+<t id="L_DRAW_METHOD_AUTODETECT" ver="1">Detecteer beste</t>
+<t id="L_DRAW_METHOD_VBOS" ver="1">VBOs (Snelst)</t>
+<t id="L_DRAW_METHOD_ARRAYS" ver="1">Arrays (Medium)</t>
+<t id="L_DRAW_METHOD_IMMEDIATE" ver="1">Direct (Traag)</t>
+<t id="W_JOB_STATUS" ver="1">Taak Status</t>
+<t id="L_ETA:" ver="1">ETA:</t>
+<t id="L_FINISH_TIME:" ver="1">Eindtijd:</t>
+<t id="L_LINES_SEND:" ver="1">Regels verstuurd:</t>
+<t id="L_START_TIME:" ver="1">Start Tijd:</t>
+<t id="L_STATUS:" ver="1">Status:</t>
+<t id="L_TOTAL_LINES:" ver="1">Regels Totaal:</t>
+<t id="L_NO_JOB_DEFINED" ver="1">Geen Taak bepaald</t>
+<t id="L_RUNNING..." ver="1">Bezig ...</t>
+<t id="L_FINISHED" ver="1">Klaar</t>
+<t id="L_ABORTED" ver="1">Afgebroken</t>
+<t id="W_PRINTER_INFO" ver="1">Printer Informatie</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">Verbindings Informatie</t>
+<t id="L_PRINTER_DATA" ver="1">Printer Data</t>
+<t id="L_BYTES_SEND:" ver="1">Bytes Verstuurd:</t>
+<t id="L_ERRORS_RECEIVED:" ver="1">Fouten ontvangen:</t>
+<t id="L_FIRMWARE:" ver="1">Firmware:</t>
+<t id="L_FIRMWARE_URL:" ver="1">Firmware URL:</t>
+<t id="L_MACHINE_TYPE:" ver="1">Machine Type:</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">Aantal Extruders:</t>
+<t id="L_PROTOCOL:" ver="1">Protocol:</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">Geen geldige 8.3 bestandsnaam.</t>
+<t id="W_SD_CARD_UPLOAD" ver="1">SD-Kaart Upload</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">geüploadde  bestandsnaam:</t>
+<t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">Incl.beeindigde taak commandos</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">Incl. "Start" en "Eind" Code</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">Verstuur extern bestand</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">Upload huidige G-Code</t>
+<t id="L_FILE:" ver="1">Bestand:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">G-Code Opslaan voor Direct Printen</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">Deze bewaar functie is bedoeld G-code bestanden te genereren die vanaf een SD kaart kunnen draaien. Om die reden worden alle start en eind-codes samengevoegd met de reguliere code zodat het lijkt of de totale code direct door de Host is verstuurd. Alle commentaar en host-codes worden verwijderd!. Als je alleen je gegenereerde G-code in wil bewaren, kies dan het bewaren-icoon in de G-code bewerkings tab.</t>
+<t id="L_SAVE_AS_BINARY" ver="1">Opslaan in Binair Formaat (voor Repetier-Firmware)</t>
+<t id="B_SAVE" ver="1">Opslaan</t>
+<t id="W_SD_CARD_MANAGER" ver="1">SD Card Beheer</t>
+<t id="L_FILENAME" ver="1">Bestandsnaam</t>
+<t id="L_SIZE" ver="1">Grootte</t>
+<t id="L_UPLOAD_FILE" ver="1">Upload Bestand</t>
+<t id="L_DELETE_FILE" ver="1">Wis Bestand</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">Start geselecteerd bestand/Continueer gepauzeerde Print</t>
+<t id="L_STOP_UPLOAD" ver="1">Pauzeer/Stop draaiende SD Print</t>
+<t id="L_MOUNT_SD_CARD" ver="1">Mount SD Kaart</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">Unmount SD Kaart</t>
+<t id="L_PRINT_FINISHED" ver="1">Print Klaar</t>
+<t id="L_UPLOAD_FINISHED" ver="1">Uploaden Klaar</t>
+<t id="L_SD_PRINTING..." ver="1">SD Printen ...</t>
+<t id="L_UPLOAD_FAILED" ver="1">Uploaden mislukt</t>
+<t id="L_FILE_DELETED" ver="1">Bestand gewist</t>
+<t id="L_DELETE_FAILED" ver="1">Wissen mislukt</t>
+<t id="L_UPLOADING_FILE..." ver="1">Uploaden Bestand ...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">Je Firmware heeft geen of een onbekende Wis Bestand implementatie.</t>
+<t id="L_PRINT_ABORTED" ver="1">Print Gestopt</t>
+<t id="L_PRINT_PAUSED" ver="1">Print Gepauzeerd</t>
+<t id="L_REMOVE_SD_CARD" ver="1">Je kan de SD kaart verwijderen.</t>
+<t id="L_INFORMATION" ver="1">Informatie</t>
+<t id="L_REALLY_DELETE_X" ver="1">Echt $1 wissen</t>
+<t id="SOUND_CONFIGURATION" ver="1">Geluids Configuratie</t>
+<t id="L_SOUNDS" ver="1">Geluiden</t>
+<t id="L_ERROR_SOUND" ver="1">Geluid bij Fout</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">Geluid bij Einde print</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">Geluid bij print gepauzeerd</t>
+<t id="L_SOUND_COMMAND_SOUND" ver="1">Geluid bij @sound Commando</t>
+<t id="L_FILE:X" ver="1">Bestand:$1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">Selecteer WAV bestand</t>
+<t id="W_SLIC3R_SETUP" ver="1">Slic3r Setup</t>
+<t id="L_SLIC3R_SETUP" ver="1">Slic3r Setup</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="1">Laat leeg voor gebruik gebundelde versie.</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Slic3r Configuratie map</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Slic3r Programma</t>
+<t id="L_SLIC3R_INFO" ver="1">Met deze instellingen je verschillende versie van Slic3r kiezen. Je kan de nieuwste versie halen van http://www.slic3r.org De minimum versie benodigd is 0.9.0. Laat alle velden leeg om de gebundelde versie te gebruiken.</t>
+<t id="L_SLIC3R_BLANK_CONFIG" ver="1">Laat leeg om een standaard locatie te gebruiken.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Marlin Firmware EEPROM Instellingen</t>
+<t id="L_M_ACCELERATION" ver="1">Versnellen:</t>
+<t id="L_M_ADVANCED_VARIABLES" ver="1">Geavanceerde variabelen:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">Thuis verplaatsing:</t>
+<t id="L_M_MAX_ACCELERATION" ver="1">Maximum Acceleratie [mm/s²]:</t>
+<t id="L_M_MAX_FEEDRATE" ver="1">Maximum snelheden [mm/s]:</t>
+<t id="L_M_MAX_XY_JERK" ver="1">Maximum X-Y jerk [mm/s]</t>
+<t id="L_M_MAX_Z_JERK" ver="1">Maximum Z jerk [mm/s]</t>
+<t id="L_M_MIN_FEEDRATE" ver="1">Min snelheid [mm/s]</t>
+<t id="L_M_MIN_SEGMENT_TIME" ver="1">Minimum segment tijd [ms]</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">Min verplaats snelheid [mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">PID instellingen:</t>
+<t id="L_M_STEPS_PER_MM" ver="1">Stappen per mm:</t>
+<t id="L_M_RETRACT_ACCELERATION" ver="1">Terugtrek Acceleratie:</t>
+<t id="B_M_LOAD" ver="1">Herlaad Configuratie</t>
+<t id="B_M_RESTORE" ver="1">Herstel fabrieks instellingen</t>
+<t id="B_M_SAVE" ver="1">Opslaan naar EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">Instellingen opgeslagen in huidge config. 
+Wijzigingen naar EEPROM schrijven?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">Instellingen opgeslagen</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">Gevonden wijzigingen oplaan in EEPROM?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">Fabrieks instelling teruggezet</t>
+<t id="L_SLICING_STL_FILE..." ver="1">Slicing STL Bestand ...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">Laatste slice taak nog bezig. Slicing van nieuwe taak geannuleerd.</t>
+<t id="L_SKEIN_KILLED" ver="1"> $1 slicing proces op verzoek gebruiker gestopt.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Skeinforge/SFACT Instellingen</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Skeinforge Programma:</t>
+<t id="L_SKEIN_CRAFT" ver="1">Skeinforge Craft:</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">Selecteer de profielen map in de Skienforge configuration map. Dit is normaal gesproken OME/.skeinforge/profiles. For speciale versies zoals SFACT, kan het pad varieëren.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">Profielen Map:</t>
+<t id="L_SKEIN_PYPY" ver="1">PyPy:</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">Als je pypy geïnstalleerd hebt, zullen Skeinforge slices 3-4 maal sneller verlopen. Als je pypy niet hebt geïnstalleerd laat het leeg en de python vertaler zal dan gebruikt worden. Je kan de laatste pypy vinden op http://www.pypy.org/</t>
+<t id="L_SKEIN_PYTHON" ver="1">Python Vertaler:</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">De werkmap bepaald, waar SFACT zijn profielen opslaat!</t>
+<t id="L_SKEIN_WORKING_DIRECTORY" ver="1">Werkmap</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Skeinforge Programma</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Python Vertaler</t>
+<t id="L_SKEIN_OPEN_CRAFT" ver="1">Skeinforge Craft Programma</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">Pypy Python Vertaler</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">Select profielen Map</t>
+<t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">Selecteer werkmap</t>
+<t id="L_FEEDRATE:" ver="1">Verplaatsing:</t>
+<t id="L_FLOWRATE:" ver="1">Flow snelheid:</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">Kan geen verbinding maken met de update server!</t>
+<t id="L_MOVE_CAMERA" ver="1">Verplaats Camera</t>
+<t id="L_MOVE_OBJECT" ver="1">Verplaats Object</t>
+<t id="L_MOVE_VIEWPOINT" ver="1">Verplaats zichtpunt</t>
+<t id="L_RESET_VIEW" ver="1">Reset aanzicht</t>
+<t id="L_ROTATE" ver="1">Roteren</t>
+<t id="L_TOP_VIEW" ver="1">Boven Aanzicht</t>
+<t id="T_ZOOM_VIEW" ver="1">Zoom</t>
+<t id="T_CLEAR_OBJECTS" ver="1">Wissen</t>
+<t id="L_DEBUG_OPTIONS" ver="2">Debug opties</t>
+<t id="L_X_MIN:" ver="3">X Min</t>
+<t id="L_X_MAX:" ver="3">X Max</t>
+<t id="L_Y_MIN:" ver="3">Y Min</t>
+<t id="L_Y_MAX:" ver="3">Y Max</t>
+<t id="L_BED_LEFT:" ver="3">Bed Links:</t>
+<t id="L_BED_FRONT:" ver="3">Bed Voorzijde:</t>
+<t id="L_SHAPE_INFO" ver="3">De min and max waarden definieeren de mogelijke extruder coordinaten. Deze coordinaten kunnen negatief zijn en buiten het printbed liggen. Bed links/voor definieeren de coordinaten waar het printbed zelf begint. Door de min/max waarden te wijzigen kan je zelfs het midden van het print bed aangeven, mits de firmware dit ondersteund.</t>
+<t id="L_SELECTION_BOX" ver="3">Selectie Box:</t>
+<t id="L_FILAMENT_NONE" ver="3">Geen/Gelijk aan Extruder 1</t>
+<t id="L_REALLY_QUIT" ver="3">Printen niet klaar. Toch stoppen?</t>
+<t id="M_DONATE" ver="3">Doneren via PayPal</t>
+<t id="L_FAN" ver="4">Ventilator</t>
+<t id="L_HOME_X:" ver="4">Home X:</t>
+<t id="L_HOME_Y:" ver="4">Home Y:</t>
+<t id="L_HOME_Z:" ver="4">Home Z:</t>
+<t id="L_MIN" ver="4">Min</t>
+<t id="L_MAX" ver="4">Max</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">Uw printer vraagt een pause.</t>
+<t id="L_CREATE_FOLDER" ver="4">Nieuwe Map maken</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">Geef map naam in 8.3 notatie:</t>
+<t id="L_UPLOADING_TIME" ver="4">Upload tijd: $1</t>
+<t id="L_FILAMENT_POS" ver="4">Fil: $1</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">Verplaatsing visualisatie uit</t>
+<t id="M_HIDE_TRAVEL" ver="4">Verberg verplaatsing</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4"> Verplaatsing visualisatie aan</t>
+<t id="M_SHOW_TRAVEL" ver="4">Toon verplaatsing</t>
+<t id="L_TRAVEL_MOVES:" ver="4">Verplaatsingstap:</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">Verplaatsingstap visualisatie uit</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">Aantal Extruders:</t>
+<t id="L_NEW_FOLDER" ver="5">Nieuwe Map</t>
+<t id="L_USE_PARALLEL_PROJECTION" ver="5">Parallelle projectie</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">Gebruik rood/groen keuze knoppen (herstart nodig)</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">Slic3r not found.</t>
+<t id="L_ANALYSING_STL" ver="6">Analyzing STL file ...</t>
+<t id="L_SLICING_STL" ver="6">Slicen STL bestand ...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">Pypy or Python vertaler niet gevonden.</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">Skeinforge craft niet gevonden.</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">Python vertaler niet gevonden.</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">Skeinforge niet gevonden.</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">Skeinforge/SFACT profielen map niet gevonden.</t>
+<t id="B_REFRESH_PORTS" ver="6">Ververs Poorten</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">Printbare Hoogte:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">Printbare Radius:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">Klassieke Printer</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">Klassieke Printer (met dump gebied)</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Rostock Printer (circulaire print vorm)</t>
+<t id="L_CORRECT_NORMALS" ver="7">Gebruik correcte normaal vlakken (Ziet er beter uit, gebruikt meer geheugen)</t>
+<t id="L_WARNING" ver="8">Waarschuwing</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">Sommige verhittings elementen zijn nog aan. Zal ik ze uitdoen?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">Minimaal een van de objecten is buiten het printbare gebied. Afbreken van slicen?</t>
+<t id="L_CNC_ROUTER" ver="8">CNC Router</t>
+<t id="L_SLIC3R_VERSION" ver="8">Slic3r Versie</t>
+<t id="L_MODEL_ERRORS" ver="9">Model Fouten:</t>
+<t id="L_SPLIT" ver="9">Delen</t>
+<t id="L_YES" ver="9">Ja</t>
+<t id="L_NO" ver="9">Nee</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9"><![CDATA[Een of meer object bestanden zijn veranderd.
+Herladen van Objecte?]]></t>
+<t id="L_FILES_CHANGED" ver="9">Bestanden veranderd</t>
+<t id="L_INNER_FACES" ver="9">Interne Vlakken:</t>
+<t id="L_BACKGROUND_TOP" ver="9">Achtergrond Boven:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">Achtergrond bodem:</t>
+<t id="L_PRINTER_FRAME" ver="9">Printer Frame:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">Isometrisch aanzicht</t>
+<t id="L_BOTTOM_VIEW" ver="9">Bodem Aanzicht</t>
+<t id="L_LEFT_VIEW" ver="9">Links Aanzicht</t>
+<t id="L_RIGHT_VIEW" ver="9">Rechts Aanzicht</t>
+<t id="L_FRONT_VIEW" ver="9">Voor Aanzicht</t>
+<t id="L_BACK_VIEW" ver="9">Achter Aanzicht</t>
+<t id="M_VIEW" ver="9">Aanzicht</t>
+<t id="M_SHOW_EDGES" ver="9">Toon Randen</t>
+<t id="M_SHOW_FACES" ver="9">Toon Vlakken</t>
+<t id="L_ANA_MODIFIED" ver="9">Aangepast:</t>
+<t id="L_ANA_MANIFOLD" ver="9">Manifold:</t>
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9">Kruisende driehoeken:</t>
+<t id="L_ANA_NORMALS" ver="9">Normalen:</t>
+<t id="L_ANA_LOOP_EDGES" ver="9">Loop Randen:</t>
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9">Sterk Verbonden Randen:</t>
+<t id="L_ANA_VERTICES" ver="9">Punten:</t>
+<t id="L_ANA_EDGES" ver="9">Randen:</t>
+<t id="L_ANA_FACES" ver="9">Vlakken:</t>
+<t id="L_ANA_SHELLS" ver="9">Omhulsel:</t>
+<t id="L_ANA_ORIENTED" ver="9">Georienteerd</t>
+<t id="L_ANA_NOT_ORIENTED" ver="9">Niet Georienteerd</t>
+<t id="M_TOOLS" ver="9">Tools</t>
+<t id="M_BELT_CALCULATOR" ver="9">Tandriem Calculator</t>
+<t id="M_LEADSCREW_CALCULATOR" ver="9">Spindel Calculator</t>
+<t id="L_MOTOR_STEP_ANGLE" ver="9">Motor stap hoek</t>
+<t id="L_DRIVER_MICROSTEPPING" ver="9">Aansturing Microstepping</t>
+<t id="L_BELT_PITCH" ver="9">Tandriem Pitch</t>
+<t id="L_TOOTH_COUNT" ver="9">Tanden aantal</t>
+<t id="B_CALCULATE" ver="9">Calculeer</t>
+<t id="L_STEPS_PER_MM" ver="9">Waarde stappen per mm</t>
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9">Tanden aantal moet een int zijn</t>
+<t id="L_LEADSCREW_PITCH" ver="9">Spindel spoed</t>
+<t id="L_GEAR_RATIO" ver="9">Overbrengings verhouding</t>
+<t id="L_SERIAL_CONNECTION" ver="9">Seriële verbinding</t>
+<t id="L_VIRTUAL_CONNECTION" ver="9">Virtuele Printer</t>
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9">Repetier-Server</t>
+<t id="L_CONNECTOR" ver="9">Connector</t>
+<t id="L_DISABLED" ver="9">Uitgeschakeld</t>
+<t id="L_DTR_LOW_HIGH" ver="9">DTR hoog->laag</t>
+<t id="L_DTR_LOW_HIGH_LOW" ver="9">DTR laag->hoog->laag</t>
+<t id="L_DTR_TOGGLE" ver="9">DTR toggle</t>
+<t id="L_RESET_ON_CONNECT" ver="9">Reset bij verbinding</t>
+<t id="L_RESET_ON_EMERGENCY" ver="9">Reset bij Noodstop</t>
+<t id="L_SEND_EMERGENCY_CMD" ver="9">Stuur noodstop commando</t>
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">Stuur noodstop commando + DTR hoog->laag</t>
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Stuur noodstop commando en opnieuw verbinden</t>
+<t id="L_FILE_ASSOCIATIONS" ver="9">Bestands-associatie</t>
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9">Associeer bestands extensie</t>
+<t id="L_CONNECTION_FAILED" ver="9">De verbing is gefaald met fout: $1. Weet zeker dat de printer verbonden is, ingeschakeld en de verbindings data goed is ingesteld. Open printer instellingen?</t>
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9">Inschakelen parallelle modus in boven aanzicht</t>
+<t id="L_RESET_DEFAULTS" ver="9">Herstel standaard waarden</t>
+<t id="L_REMOVED_DEGENERATED" ver="9">Verwijder gedegenereerde driehoeken:</t>
+<t id="L_REMOVED_ISOLATED" ver="9">Verwijder geisoleerde driehoeken:</t>
+<t id="L_REMOVED_DOUBLE" ver="9">Verwijderde dubbele driehoeken:</t>
+<t id="L_STARTING_ANALYSER" ver="9">Starten van object analyse ...</t>
+<t id="L_ANALYSER_FINISHED" ver="9">Analyse afgerond.</t>
+<t id="L_LOADING_3D_FAILED" ver="9">Laden van 3d bestand $1 is mislukt.</t>
+<t id="L_OBJECT_INFORMATIONS" ver="9">Object Informatie</t>
+<t id="L_MINIMUM:" ver="9">Minimum:</t>
+<t id="L_MAXIMUM:" ver="9">Maximum:</t>
+<t id="L_SIZE:" ver="9">Grootte:</t>
+<t id="L_VOLUME:" ver="9">Volume:</t>
+<t id="L_SURFACE:" ver="9">Oppervlak:</t>
+<t id="L_DIMENSIONS:" ver="9">Dimensies:</t>
+<t id="L_SPLIT_OBJECT" ver="9">Deel Object</t>
+<t id="L_FIX_NORMALS" ver="9">Repareer Normalen</t>
+<t id="M_FIT_PRINTER" ver="9">Toon Printvolume</t>
+<t id="M_FIT_OBJECTS" ver="9">Toon Objecten</t>
+<t id="IMPORTING_1" ver="9">Importeren $1</t>
+<t id="L_LOADING..." ver="9">Laden ...</t>
+<t id="L_INTERSECTION_TESTS" ver="9">Intersectie testen</t>
+<t id="L_FIXING_NORMALS" ver="9">Repareer Normalen</t>
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Gerapereerde collineaire driehoeken:</t>
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9">Gerpeareerde normale orientaties:</t>
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Object is veelvoudig.</t>
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Object is niet-veelvoudig. Slicing may produce wrong results. Please repair object file first.</t>
+<t id="L_SHOW_COMPASS" ver="9">Toon Compas</t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Weet je zeker dat je taak $1 wilt verwijderen?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">Status is succesvol opgeslagen</t>
+<t id="M_POSPONED_JOBS" ver="10">Uitgestelde taken</t>
+<t id="M_RESUME_JOB" ver="10">Hervatten</t>
+<t id="M_POSTPONE_JOB" ver="10">Stel huidige taak uit</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">Uitgestelde print taken</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">Herstel Taak</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">Verwijder Taak</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">Hernoem Taak</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">Taak Naam</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10">Geef de Taak aub een naam</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">De Taak status zal worden opgeslagen als de huidige laag afgemaakt is. Je kan de taak status ook nu geforceerd opslaan, of doorgaan met printen.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">&amp;Forceer</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">&amp; Hervat</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Uitstellen Print Taak</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Toon printer ID aan/uit</t>
+<t id="L_PRINTER_ID" ver="10">Printer ID</t>
+<t id="L_BGCOLOR:" ver="10">Achtergrond Kleur:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Aanpassen Printer ID</t>
+<t id="L_ANAYLSING" ver="10">Analyseren</t>
+<t id="L_NOT_TESTED" ver="10">Niet getest</t>
+<t id="L_CONNECTOR:" ver="10">Connector:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normalen correctie niet mogelijk voor niet meervoudige meshes.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Bed Hoogte kaart</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">Maak Hoogte Kaart</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">Meet Hoogtes</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">Resultaten naar Clipbord</t>
+<t id="L_SCAN_AREA" ver="10">Scan Gebied</t>
+<t id="L_SCAN_RESULTS" ver="10">Scan Resultaten</t>
+<t id="L_X_POINTS:" ver="10">X punten:</t>
+<t id="L_Y_POINTS:" ver="10">Y punten:</t>
+<t id="L_Z_MIN:" ver="10">Z min:</t>
+<t id="L_Z_MAX:" ver="10">Z max:</t>
+<t id="L_Z_AVG:" ver="10">Z avg:</t>
+<t id="L_Z_CENTER:" ver="10">Z centrum</t>
+<t id="L_CUT_FACES" ver="10">Knip Objecten</t>
+<t id="L_CUT_POSITION" ver="10">Positie</t>
+<t id="L_CUT_INCLINATION" ver="10">Helling</t>
+<t id="L_CUT_AZIMUTH" ver="10">Azimuth</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">Eenheden van geïmporteerde objecten</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">Objecten zijn in millimeters</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">Objecten zijn in inches</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">Objecten zijn in feet</t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">Objecten zijn in meters</t>
+<t id="B_RESET" ver="10">Herstel</t>
+<t id="L_SLIC3R_INFO2" ver="10">Slic3r is een zelfstandige, extern programma, die ook zelfstandig gestart worden kan. Voor meer informatie over dit programma bezoek de volgende website: http://www.slic3r.org</t>
+<t id="L_SKEINFORGE_INFO" ver="10">Skeinforge is een zelfstandige, extern programma, die ook zelfstandig gestart worden kan. Voor meer informatie over dit programma bezoek de volgende website: http://http://fabmetheus.crsndoo.com/</t>
+<t id="L_PRINT_SETTINGS:" ver="10">Print Instellingen:</t>
+<t id="L_PRINTER_SETTINGS:" ver="10">Printer instellingen:</t>
+<t id="L_OVERRIDE_SLIC3R_SETTINGS" ver="10">Overrulen Slic3r instellingen</t>
+<t id="B_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="10">Kopieer overrulende print instellingen</t>
+<t id="L_ENABLE_SUPPORT" ver="10">Activeer Support</t>
+<t id="L_ENABLE_COOLING" ver="10">Activeer Koeling</t>
+<t id="L_LAYER_HEIGHT:" ver="10">Laag Hoogte:</t>
+<t id="L_INFILL_DENSITY" ver="10">Invullings Dichtheid</t>
+<t id="L_INFILL_ANGLE" ver="10">Invullings Hoek</t>
+<t id="L_INFILL_PATTERN:" ver="10">Invullings Patroon:</t>
+<t id="L_SOLID_INFILL_PATTERN:" ver="10">Solide Invullings Patroon:</t>
+<t id="L_SHOW_EXTRUDER" ver="10">Toon Extruder</t>
+<t id="L_SHOW_BED" ver="10">Toon Bed</t>
+<t id="L_SHOW_OUTPUT" ver="10">Toon Output</t>
+<t id="L_SHOW_TARGET_TEMPERATURES" ver="10">Doel Temperaturen</t>
+<t id="L_SHOW_AVERAGE_TEMPERATURES" ver="10">Gemiddelde Temperaturen</t>
+  <t id="L_NOT_VALID_SD_FILENAME" ver="10">Bestandsnaam bevat niet geldige karakters of is te lang. Gebruik maximaal 26 karakters.</t>
+  <t id="B_ADD_SLICER" ver="10">Voeg slicer toe</t>
+  <t id="B_DELETE" ver="10">Verwijder</t>
+  <t id="L_SLICER" ver="10">Slicer</t>
+  <t id="L_CONFIGURATION:" ver="10">Configuratie:</t>
+  <t id="L_SETUP" ver="10">Instellingen</t>
+  <t id="L_SLICER_CONFIGURATIONS" ver="10">Slicer Configuraties</t>
+  <t id="L_NAME" ver="10">Naam</t>
+  <t id="L_SLICER_MANAGER" ver="10">Slicer Manager</t>
+  <t id="L_ASK_LOAD_GCODE" ver="10">De slicer heeft een nieuw g-code bestand gecreerd. Zal ik het laden?</t>
+  <t id="L_QUESTION" ver="10">Vraag</t>
+  <t id="L_FILE_TYPES:" ver="10">Bestands Typen:</t>
+  <t id="L_WATCHDIRECTORY_INFO" ver="10">De bekijkmap laat de bovenstaande bestandtypen zien. Separeer meerdere bestandstypen met een semicolon bijv. &quot;g;gcode&quot;. Elke printer heeft zijn eigen map instellingen, die in de gaten worden gehouden. Als een bestand nieuw of veranderd en je schakeld naar Repetier-Host dan worden de bestanden gehighlight om snel te kunnen importeren.</t>
+  <t id="B_LOAD" ver="10">Laden</t>
+  <t id="L_CHANGED" ver="10">Veranderd</t>
+  <t id="L_NEW" ver="10">Nieuw</t>
+  <t id="L_DIRECTORY:" ver="10">Map:</t>
+  <t id="L_ACTION" ver="10">Actie</t>
+  <t id="L_FILE" ver="10">Bestand</t>
+  <t id="L_STATUS" ver="10">Status</t>
+  <t id="L_SEND_ETA_DISPLAY" ver="10">Stuur ETA naar printer display</t>
+  <t id="L_ETA_SHORT$1" ver="10">ETA $1</t>
+  <t id="L_ETE_SHORT$1" ver="10">ETE $1</t>
+  <t id="L_CACHING..." ver="10">Caching ... $1%</t>
+  <t id="M_MAKE_SCREENSHOT" ver="10">Opslaan Screenshot</t>
+  <t id="PNG_FILTER" ver="10">PNG-afbeeldingen|*.png</t>
+  <t id="L_INVALID_FILENAME" ver="10">Ongeldige bestandsnaam.</t>
+  <t id="L_EEPROM_IMPORT_FAILED" ver="10">Importeren van eeprom data is mislukt. Ongeldig bestands formaat.</t>
+  <t id="L_EXPORT_EEPROM_DATA" ver="10">Exporteren EEPROM Data</t>
+  <t id="L_IMPORT_EEPROM_DATA" ver="10">Importeren EEPROM Data</t>
+<t id="L_TIME_H" ver="10">$1u </t>
+<t id="L_TIME_M" ver="10">$1m </t>
+<t id="L_SHOW_OUTPUT_EXTRUDER" ver="10">Output Extruder</t>
+<t id="L_SHOW_OUTPUT_BED" ver="10">Output Bed</t>
+<t id="M_SHOW_BED_POWER" ver="10">Toon Bed Vermogen</t>
+  <t id="L_ENABLE_ANTI_ALIAS" ver="10">Inschakelen anti-aliasing als mogelijk is (vertraagt visualisaties, herstart benodigd)</t>
+  <t id="L_MODEL_ERRORS_EDGE:" ver="10">Model fouten (rand):</t>
+  <t id="L_CUT_FACES:" ver="10">Snijden vlakken:</t>
+  <t id="L_NOT_MANIFOLD_INFO" ver="11">Het object is niet manifold. Dit komt erop neer dat het niet waterdicht is. Dit veroorzaakt normaal gesproken problemen bij slicen en resulteert in ongewilde resultaten. We bevelen het ten zeerste aan om het bestand te repareren. Een gratis reparatie service is: https://netfabb.azurewebsites.net </t>
+  <t id="L_EXPERT_MODE" ver="11">Expert Modus</t>
+<t id="L_CURAENGINE_EXECUTABLE" ver="11">CuraEngine Uitvoerend Bestand</t>
+<t id="L_CURAENGINE_INFO" ver="11">CuraEngine is een apart, extern programma ontwikkeld door David Braam. Voor meer informatie bezoek https://www.ultimaker.com</t>
+<t id="L_CURAENGINE_NOT_FOUND" ver="11">CuraEngine niet gevonden.</t>
+  <t id="L_ANY_EXTRUDER" ver="11">Elke Extruder</t>
+  <t id="L_PUSH_MESSAGES" ver="11">Push-Berichten</t>
+  <t id="L_INFORMER_ACTIVE" ver="11">Activeer Push-Berichten</t>
+  <t id="L_INFORMER_GROUP" ver="11">Informer-Groep:</t>
+  <t id="L_PUSH_PRINT_FINISHED" ver="11">Print Afgerond</t>
+  <t id="L_PUSH_PRINT_PAUSED" ver="11">Print Gepauzeerd</t>
+  <t id="L_PUSH_PRINT_STARTED" ver="11">Print Started</t>
+  <t id="L_PUSH_PRINT_STOPPED" ver="11">Print Gestopt</t>
+  <t id="L_PUSH_SLICING_FINISHED" ver="11">Slicen Afgerond</t>
+  <t id="L_PUSH_FATAL_ERRORS" ver="11">Fatale Fouten</t>
+  <t id="L_PUSH_SEND_FOR" ver="11">Stuur berichten voor deze gebeurtenissen:</t>
+  <t id="L_TEST" ver="11">Test</t>
+  <t id="L_INFORMER_INSTRUCTIONS" ver="11">Repetier-Informer is een smartphone app dat je de mogelijkhed geeft om push berichten te ontvangen. In de app kan je nieuwe groepen creeren of gedeelde groepen gebruiken. Geef hier de groep in welke je wilt waar de host berichten naartoe kan zenden. Alle leden van de groep zullen de verzonden berichten ontvangen.</t>
+  <t id="L_VISIT_INFORMER" ver="11">Bezoek de Repetier-Informer Website</t>
+  <t id="L_HOST_NAME:" ver="11">Host Naam:</t>
+  <t id="L_PUSH_HEAD_STARTED" ver="11">Print gestart</t>
+  <t id="L_PUSH_MSG_STARTED" ver="11">Print voor printer $1 gestart. De print zal klaar zijn rond $2.</t>
+  <t id="L_PUSH_HEAD_PAUSED" ver="11">Print gepauzeerd</t>
+  <t id="L_PUSH_MSG_PAUSED" ver="11">Print voor printer $1 is gepauzeerd. Bericht: $2</t>
+  <t id="L_PUSH_HEAD_FINISHED" ver="11">Print afgerond</t>
+  <t id="L_PUSH_MSG_FINISHED" ver="11">Print voor printer $1 is afgerond. Print tijd: $2. Regels verzonden naar printer: $3</t>
+  <t id="L_PUSH_HEAD_KILLED" ver="11">Print gestopt</t>
+  <t id="L_PUSH_MSG_KILLED" ver="11">Print voor printer $1 was gestopt voordat hij was afgerond.</t>
+  <t id="L_PUSH_HEAD_SLICING" ver="11">Slicen afgerond</t>
+  <t id="L_PUSH_MSG_SLICING" ver="11">Slicen voor printer $1 is nu afgerond.</t>
+  <t id="L_PUSH_HEAD_FATAL" ver="11">Fatale fout</t>
+  <t id="L_PUSH_MSG_FATAL" ver="11">Een fatale fout voor printer $1 is opgetreden. Bericht: $2</t>
+  <t id="L_CURA_EXTRUDER_INFO" ver="11">CuraEngine ondersteund alleen een enkele extruder diameter and flow waarde, het gaat uit van identieke extruders. Als je een multi-extruder opstelling hebt, met verschillende waarden, zullen de waarden van eerste extruder gebruikt worden voor alle. Print temperaturen worden ingesteld in de start g-code, dus het gebruiken van verschillende temperaturen voor verschillende materialen is geen probleem. Voor de koeling, word de hoogste waarden van alle extruders gebruikt.</t>
+  <t id="L_TCPIP_CONNECTION" ver="11">TCP/IP Verbinding</t>
+  <t id="L_IP_ADDRESS:" ver="11">IP Adres:</t>
+  <t id="L_INFORMER_GROUP_INFO" ver="11">Doel groep id van je app.</t>
+  <t id="L_INFORMER_HOST_NAME_INFO" ver="11">Optioneel. Word toegevoegd aan de titel van verzonden berichten.</t>
+  <t id="L_INFORMER_TEST_FAILED" ver="11">Kan informer server niet bereiken.</t>
+<t id="L_OBJECT_GROUP_%" ver="11">Object Groep $1</t>
+  <t id="L_NOT_COMPUTED" ver="11">Niet berekend</t>
+  <t id="L_ANALYSE" ver="11">Analyseren</t>
+  <t id="L_ANALYSIS" ver="11">Analyse</t>
+  <t id="L_SETTINGS" ver="11">Instellingen</t>
+  <t id="L_FILENAME:" ver="11">Bestandsnaam:</t>
+  <t id="L_ASSIGNED_EXTRUDER:" ver="11">Geselecteerde Extruder:</t>
+  <t id="L_ASSIGNED_OBJECT:" ver="11">Geselecteerd Object:</t>
+  <t id="L_EXTRACT_FROM_GROUP" ver="11">Verkrijgen uit groep</t>
+  <t id="L_SHOW_PLATER" ver="11">Laat Plater zien in Slic3r</t>
+  <t id="L_PRINT" ver="11">Print</t>
+  <t id="L_SPEED_AND_QUALITY" ver="11">Snelheid en Kwaliteit</t>
+  <t id="L_EXTRUSION" ver="11">Extrusie</t>
+  <t id="L_STRUCTURES" ver="11">Structuren</t>
+  <t id="L_G-CODES" ver="11">G-Codes</t>
+  <t id="L_COOLING" ver="11">Koeling</t>
+  <t id="L_GENERAL_EXTRUDER_SETTINGS" ver="11">Algemene Extruder Instellingen.</t>
+  <t id="L_INFILL" ver="11">Invulling</t>
+  <t id="L_MESH_ERRORS" ver="11">Mesh Fouten</t>
+  <t id="L_MULTI_EXTRUDER_SETTINGS" ver="11">Multi Extruder Instellingen</t>
+  <t id="L_QUALITY" ver="11">Kwaliteit</t>
+  <t id="L_RAFT" ver="11">Raft</t>
+  <t id="L_SELECTED_QUALITY_SETTING" ver="11">Geselecteerde Kwaliteit Instellingen.</t>
+  <t id="L_SKIRT_AND_BRIM" ver="11">Skirt and Brim</t>
+  <t id="L_SPEED" ver="11">Snelheid</t>
+  <t id="L_SUPPORT" ver="11">Ondersteuning</t>
+  <t id="L_BED_TEMPERATURE:" ver="11">Bed Temperatuur:</t>
+  <t id="L_BRIM_WIDTH:" ver="11">Brim Breedte:</t>
+  <t id="L_INFILL_DENSITY:" ver="11">Invullings Dichtheid:</t>
+  <t id="L_INFILL_OVERLAP:" ver="11">Invullings Overlap:</t>
+  <t id="L_INFILL_TYPE:" ver="11">Invullings Patroon:</t>
+  <t id="L_MAX_FAN_SPEED:" ver="11">Max. Fan Snelheid:</t>
+  <t id="L_MIN_FAN_SPEED:" ver="11">Min. Fan Snelheid:</t>
+  <t id="L_MIN_EXTR_BEFORE_RETRACT:" ver="11">Minimale Extrusie voor Terugtrekken:</t>
+  <t id="L_MIN_LAYER_TIME:" ver="11">Minimale Laag Tijd:</t>
+  <t id="L_MIN_SKIRT_LENGTH:" ver="11">Minimale Skirt Lengte:</t>
+  <t id="L_MIN_TRAVEL_BEFORE_RETRACT:" ver="11">Minimale Beweging voor Terugtrekken:</t>
+  <t id="L_OVERHANG_ANGLE:" ver="11">Overhellings Hoek:</t>
+  <t id="L_PRINT_SPEED:" ver="11">Print Snelheid:</t>
+  <t id="L_PRINT_TEMPERATURE:" ver="11">Print Temperatuur:</t>
+  <t id="L_NAME:" ver="11">Naam:</t>
+  <t id="L_EXTRA_MARGIN:" ver="11">Extra Marge:</t>
+  <t id="L_BASE_LINE_WIDTH:" ver="11">Basis Lijn Breedte:</t>
+  <t id="L_LINE_SPACING:" ver="11">Lijn afstand:</t>
+  <t id="L_BASE_LINE_THICKNESS:" ver="11">Basis Lijn Dikte:</t>
+  <t id="L_INTERFACE_LINE_WIDTH:" ver="11">Interface Lijn Breedte:</t>
+  <t id="L_INTERFACE_THICKNESS:" ver="11">Interface Dikte:</t>
+  <t id="L_RETRACTION_DISTANCE:" ver="11">Terugtrek Afstand:</t>
+  <t id="L_RETRACTION_ON_EXTRUDER_SWITCH:" ver="11">Terugtrekking Bij Extruder Wissel:</t>
+  <t id="L_RETRACTION_SPEED:" ver="11">Terugtrekkingssnelheid:</t>
+  <t id="L_SKIRT_DISTANCE:" ver="11">Skirt Afstand:</t>
+  <t id="L_SKIRT_LINE_COUNT:" ver="11">Skirt Regel Aantal:</t>
+  <t id="L_FAST" ver="11">Snel</t>
+  <t id="L_SLOW" ver="11">Langzaam</t>
+  <t id="L_INNER_PERIMETER:" ver="11">Binnenste Perimeter</t>
+  <t id="L_OUTER_PERIMETER:" ver="11">Buitenste Perimeter</t>
+  <t id="L_SUPPORT_EXTRUDER:" ver="11">Ondersteunings Extruder:</t>
+  <t id="L_SUPPORT_TYPE:" ver="11">Ondersteunings Type:</t>
+  <t id="L_TOP/BOTTOM_THICKNESS:" ver="11">Top/Bodem Dikte:</t>
+  <t id="L_VOLUME_OVERLAP:" ver="11">Volume Overlap:</t>
+  <t id="L_WIPE_AND_PRIME_VOLUME:" ver="11">Wipe and Prime Volume:</t>
+  <t id="L_Z_HOP:" ver="11">Z Hop:</t>
+  <t id="L_SHELL_THICKNESS:" ver="11">Shell Dikte:</t>
+  <t id="L_DISTANCE_XY:" ver="11">Afstand XY:</t>
+  <t id="L_DISTANCE_Z:" ver="11">Afstand Z:</t>
+  <t id="L_GCODE_FLAVOUR:" ver="11">G-Code Voorkeur:</t>
+  <t id="L_FLOW:" ver="11">Flow:</t>
+  <t id="L_DEFAULT_QUALITY:" ver="11">Standaard Kwaliteit:</t>
+  <t id="L_FIRST_LAYER_HEIGHT:" ver="11">Eerste Laag Dikte:</t>
+  <t id="L_COMBINE_EVERYTHING_A" ver="11">Combineer Alles (Type A)</t>
+  <t id="L_COMBINE_EVERYTHING_B" ver="11">Combineer Alles (Type B)</t>
+  <t id="L_MINIMIZE_CROSSING_PERIMETERS" ver="11">Minimaliseer Kruisen Perimeters</t>
+  <t id="L_ENABLE_RETRACTION" ver="11">Activeer Terugtrekking</t>
+  <t id="L_EXTENSIVE_STITCHING" ver="11">Extensief Hechten</t>
+  <t id="L_KEEP_OPEN_FACES" ver="11">Behouden Open Vlakken</t>
+  <t id="L_CREATE_OOZE_SHIELD" ver="11">Creeer Ooze Scherm</t>
+  <t id="L_CREATE_WIPE_PRIME" ver="11">Creeer Wipe and Prime Toren</t>
+  <t id="L_SPIRALIZE_CONTOUR" ver="11">Spiralizeren Contour</t>
+  <t id="L_SOLID_TOP_INFILL" ver="11">Solide Top Invulling</t>
+  <t id="L_SOLID_BOTTOM_INFILL" ver="11">Solid Bodem Invulling</t>
+  <t id="L_COOL_HEAD_LIFT" ver="11">Optillen Kop Voor Koeling</t>
+  <t id="L_FILL_AMOUNT:" ver="11">Invullings Hoeveelheid:</t>
+  <t id="L_CURAENGINE_SETTINGS" ver="11">CuraEngine Instellingen</t>
+  <t id="L_PRINT_CONFIGURATION:" ver="11">Print Configuratie:</t>
+  <t id="L_ADHESION_TYPE:" ver="11">Adhesie Type:</t>
+  <t id="L_SPEED:" ver="11">Snelheid:</t>
+  <t id="B_SAVE_AS" ver="11">Opslaan als ...</t>
+  <t id="L_AIR_GAP:" ver="11">Lucht Spleet:</t>
+  <t id="L_NUM_SURFACE_LAYER:" ver="11">Num. Oppervlak Laag:</t>
+  <t id="L_NONE" ver="11">Geen</t>
+  <t id="L_BRIM" ver="11">Brim</t>
+  <t id="L_GRID" ver="11">Grid</t>
+  <t id="L_LINES" ver="11">Lijnen</t>
+  <t id="L_TOUCHING_BED" ver="11">Raakt Bed</t>
+  <t id="L_EVERYWHERE" ver="11">Overal</t>
+  <t id="L_AUTOMATIC" ver="11">Automatisch</t>
+  <t id="L_CONCENTRIC_LINES" ver="11">Concentrische Lijnen</t>
+  <t id="L_CURACODEHINTS" ver="11">
+Je kan dynamische waarden toevoegen, die tijdens slicen worden vervangen.
+
+Temperaturen:
+{TEMP0}, {TEMP1}
+{BED}
+
+Snelheden:
+{Z_TRAVEL_SPEED}
+{TRAVEL_SPEED}
+
+Je kan ook regels toevoegen als alleen een extruder of bed wordt gebruikt. Om dat te doen, voeg dan van deze codes aan het begin van de regel:
+{IF_BED}
+{IF_EXT0}
+
+Gebruik "Creeer Standaard" voor een goed start script die je kan aanpassen naar eigen behoefte.
+  </t>
+  <t id="H_RETRACTION_SPEED" ver="11">
+    Met deze snelheid wordt filament teruggetrokken. Hogere
+    terugtrekkingssnelheid is beter, maar bij te 
+	hoge snelheid kan leiden tot schrapen filament.
+  </t>
+  <t id="H_RETRACTION_DISTANCE" ver="11">
+    Terugtrekkingsafstand. Zet 0 voor geen terugtreking.
+    Typische waarden zijn van 2 mm voor directe extruders
+    tot 7 mm voor bowden extruders.
+  </t>
+  <t id="H_FIRST_LAYER_HEIGHT" ver="11">
+    Laagdikte van eerste laag. Een dikkere eerste
+    laag compenseert oneffenheden van het print
+	bed beter.
+  </t>
+  <t id="H_CUT_OFF_OBJECT_BOTTOM" ver="11">
+    Zinkt het object in het platform. Dit kan worden
+	gebruikt voor objecten die geen vlakke bodem
+	hebben en een dus te kleine eerste laag.
+  </t>
+  <t id="H_VOLUME_OVERLAP" ver="11">
+    Voor deze lengte overlappen de materialen of kleuren
+	bij multi-extrusie, dit zorgt voor betere connectie
+	tussen beiden.
+  </t>
+  <t id="H_TRAVEL_SPEED" ver="11">
+    Vrije bewegingen gaan met deze snelheid. Dit kan 
+	relatief hoog zijn, maar bij te hoge waarden, kunnen
+	sommige printers stappen missen.
+  </t>
+  <t id="H_FIRST_LAYER_SPEED" ver="11">
+    Print snelheid voor de eerste laag. Langzamer
+	zorgt voor beter hechting met het bed.
+  </t>
+  <t id="H_INFILL_SPEED" ver="11">
+    Met deze invulling snelheid wordt geprint. Sneller
+	bewegen reduceerd printtijd, maar kan voor mindere 
+	print kwaliteit zorgen.
+  </t>
+  <t id="H_OUTER_PERIMETER_SPEED" ver="11">
+    Met deze snelheid wordt de buiten perimeter geprint.
+	Lagere snelheid verbeterd de oppervlakte kwaliteit.
+	Een te groot verschil tussen binnen en buiten
+	perimeter kan de printkwaliteit verminderen.
+  </t>
+  <t id="H_INNER_PERIMETER_SPEED" ver="11">
+    Met deze snelheid word de binnen perimeter geprint.
+	Sneller printen dan de buiten perimeter, zal de printtijd
+	reduceren. The snelheid zou tussen invullings en buiten
+	perimeter snelheid moeten liggen..
+  </t>
+  <t id="H_MINIMUM_LAYER_TIME_COOLING" ver="11">
+    Minimale printtijd voor een enkele laag. De tijd
+	zou hoog genoeg moeten zijn om een laag af te koelen.
+	Als de printsnelheid te hoog is, zal de snelheid 
+	verlaagd worden om deze tijd te gebruiken voor een laag.
+  </t>
+  <t id="H_ENABLE_COOLING" ver="11">
+    Activeert koelings ventilator tijdens printen. Dit kan
+	de print qualiteit significant verhogen.
+	Zeker bij PLA, bruggen en overhellingen.
+  </t>
+  <t id="H_LAYER_HEIGHT" ver="11">
+    Met de laag hoogte in millimeters, stel je de print
+	resoluting in z-richting in. Lagere waarden verbeteren
+	print kwaliteit, maar neemt meer printtijd in beslag.
+	Normale waarden liggen tussen 0.1 mm en 0.4 mm.
+  </t>
+  <t id="H_SHELL_THICKNESS" ver="11">
+    De dikte van de buiten schil in horizontale
+	richting. In combinatie met de nozzle diameter
+	worden het aantal perimeter lijnen bepaald.
+  </t>
+  <t id="H_ENABLE_RETRACTION" ver="11">
+    Trek het filament terug bij bewegen over een niet
+	geprint gebied. Dit helpt om draden te verminderen
+	of elimineren.
+  </t>
+  <t id="H_TOP_BOTTOM_THICKNESS" ver="11">
+    Dit stelt het aantal solide lagen vast op de top 
+	en bodem. Afhankelijk van de invullings dichtheid,
+	zou je de dikte moeten verhogen. Dit voorkomt 
+	doorschijnen van invullingmateriaal en dit verhoogt
+	ook de print qualiteit. 1 mm is normaal een goede
+	waarde.
+  </t>
+  <t id="H_INFILL_DENSITY" ver="11">
+    Hiermee bepaal je de invullingsdichtheid. Massieve
+	objecten zijn 100%, lege objecten 0%. Hoe hoger
+	de invulling is, hoe sterker het object. Met een
+	lagere invuling kan je veel printtijd besparen en
+	filament. Normale waarden liggen tussen 20% en 30%,
+	Als er geen hoge sterkte is vereist.
+  </t>
+  <t id="H_PRINT_SPEED" ver="11">
+    Print snelheid voor alle onderdelen die geen 
+	separate snelheids instelling hebben.
+  </t>
+  <t id="H_PRINT_TEMPERATURE" ver="11">
+    De temperatuur hangt af van het gebruikte filament.
+	en de printer. Veel filament leverancier specificeren
+	een optimaal temperatuur bereik.
+  </t>
+  <t id="H_SUPPORT_TYPE" ver="11">
+    Gebruikte support structuur type.
+
+    "Geen" schakelt support uit.
+
+    "Raakt bed aan" is de meest gebruikte instelling.
+	Het genereert alleen support structuren waar, de 
+	structuur het bed aanraakt.
+
+    "Overal" Creert overal support zelfs bovenop delen 
+	van het model.
+  </t>
+  <t id="H_ADHESION_TYPE" ver="11">
+    Helpt met verbeteren van adhesie van het object op 
+	het bed.
+
+    "Geen" schakelt de functie uit.
+
+    "Brim" Voegt een oppervlak van een enkele laag dikte
+	om het object heen, dit kan achteraf makkelijk 
+	verwijderd worden. Brim is nodig  als objecten
+	kromtrekken aan de randen.
+
+    "Raft" voegt een dik raster onder het object
+	en een dunne interface tussen dit en het object.
+	Dit kan na het printen verwijderd worden.
+	Dit is nodig als je een oneffen bed hebt of voor
+	een erg klein object wat niet goed aan het bed 
+	kleeft tijdens het printen.
+  </t>
+  <t id="H_FILAMENT_DIAMETER" ver="11">
+    De diameter van het filament zou zo precies mogelijk
+	moeten worden ingegeven.
+  </t>
+  <t id="H_FLOW" ver="11">
+    Het geextrudeerde filament wordt vermenigvuldigd
+	met deze waarde. Dit zou normaal 100% moeten zijn.
+  </t>
+  <t id="L_OUTER_PERIMETER_SPEED:" ver="11">Buitenste Perimeter Snelheid:</t>
+  <t id="L_INFILL_SPEED:" ver="11">Invullings Snelheid:</t>
+  <t id="L_PRINT:" ver="11">Print:</t>
+  <t id="L_SUPPORT_PATTERN:" ver="11">Support Patroon:</t>
+  <t id="L_TRAVEL:" ver="11">Travel:</t>
+  <t id="L_CUTOFF_BOTTOM" ver="11">Afsnijden Bodem Object:</t>
+  <t id="L_ESTIMATED_PRINTING_TIME:" ver="11">Geschatte Print tijd:</t>
+  <t id="L_LAYER_COUNT:" ver="11">Aantal lagen:</t>
+  <t id="L_FILAMENT_NEEDED:" ver="11">Filament benodigd:</t>
+  <t id="L_FAN_FULL_AT_HEIGHT:" ver="11">Fan 100% bij hoogte:</t>
+  <t id="L_MINIMUM_SPEED:" ver="11">Minimale Snelheid:</t>
+  <t id="H_MINIMUM_TRAVEL_BEFORE_RETRACT" ver="11">Minimale bewegings afstand om terugtrekken te activeren.</t>
+  <t id="L_PREVIEW" ver="11">Preview</t>
+  <t id="L_SCALE_OBJECT" ver="11">Schaal Object</t>
+  <t id="L_ROTATE_OBJECT" ver="11">Roteer Object</t>
+  <t id="H_MINIMIZE_CROSSING_PERIMETERS" ver="11">
+    Als er een manier is om de kop naar het doel
+	te bewegen zonder buiten het object om te gaan,
+	dan zal dat path genomen worden. Als het is 
+	uitgeschakeld, zal er altijd een rechte lijn 
+	naar het bestemmingspunt worden genomen, wat 
+	mogelijk draden kan veroorzaken.
+  </t>
+  <t id="H_MINIMUM_EXTRUSION_BEFORE_RETRACT" ver="11">
+    Minimale extrusie hoeveelheid voordat er een nieuwe
+	terugrekking wordt gedaan. Als er eerder een terug-
+	trekking nodig is wordt dit genegeerd. Als je te
+	veel terugtrekt op dezelfde plek kan het filament
+	plat worden en de extruder blokkeren.
+  </t>
+  <t id="H_Z_HOP" ver="11">
+    De kop wordt opgetild met deze afstand tijdens
+	terugtrekken. Dit heeft een positief effect bij
+	printers met een snelle z-as zoals delta printers.
+  </t>
+  <t id="H_SKIRT_LINE_COUNT" ver="11">
+    De skirt is een lijn die bij de eerste laag 
+	om het object wordt getekend. Dit helpt om
+	de extruder op gang te helpen en je kan zien 
+	of het object op het bed past. Zet op 0 om 
+	uit te schakelen.
+  </t>
+  <t id="H_SKIRT_DISTANCE" ver="11">De afstand tussen skirt lijn en het object.</t>
+  <t id="H_MINIMUM_SKIRT_LENGTH" ver="11">
+    De minimale lengte van de skirt lijn. Als de
+	lengte niet wordt bereikt, zullen er extra lijnen
+	worden toegeveogd. Als de skirt lijn aantal op 0
+	staat, wordt dit genegeerd.
+  </t>
+  <t id="H_FAN_FULL_ON_AT_HEIGHT" ver="11">
+    De hoogte waarbij de ventilator volledig
+	aangezet wordt. Voor lagen hieronder zal de
+	snelheid lineair teruggeschaald worden, waarbij
+	de ventilator uit staat bij de eerste laag.
+  </t>
+  <t id="H_MIN_FAN_SPEED" ver="11">
+  Dit is de minimale ventilator snelheid voor koelen. 
+  Als de laag tijd kleiner is dan de minimale laag
+  tijd, zal de printsnelheid worden vertraagd en de 
+  ventilator snelheid zal worden geinterpoleerd tussen
+  min. en max. ventilatorsnelheid afhankelijk van de 
+  vertraging.
+  </t> 
+  <t id="H_MAX_FAN_SPEED" ver="11">
+    Dit is de maximale ventilatorsnelheid voor koeling
+	Het wordt bereikt, als de laag tijd de snelheid
+	meer dan 50% vertraagd.
+  </t>
+  <t id="H_COOL_HEAD_LIFT" ver="11">
+    Til de kop als als printen met minimale snelheid
+	sneller is dan de minimale laagtijd nadat de laag
+	is geprint.
+  </t>
+<t id="H_MINIMUM_COOLING_SPEED" ver="11">
+De minimale laagtijd kan de printer dusdanig ver-
+tragen dat het filament kan gaan lekken. Dit minimum
+voorkomt dit. Zelfs als de printer vertraagd, kan het
+niet langzamer dan dit bewegen.</t> 
+  <t id="H_SOLID_TOP_INFILL" ver="11">
+    Creeert een solide bovenvlak. Bij uitschakelen,
+	zal de ingestelde invullingswaarde worden 
+	gebuikt. Dit is handig bij printen van vazen
+	die gedefineerd zijn als solide volumes.
+  </t>
+  <t id="H_SOLID_BOTTOM_INFILL" ver="11">
+    Creert een solide bodemvlak. Bij uitschakelen,
+	zal de ingestelde invullingswaarde worden 
+	gebuikt. Dit is handig bij printen van gebouwen
+	die gedefineerd zijn als solide volumes.
+  </t>
+  <t id="H_INFILL_OVERLAP" ver="11">
+    Dit definieerd de overlap van de invulling en de
+	wanden. Er zou een kleine overlap moeten zijn,
+	zodat de wanden stevig met de invulling worden 
+	verbonden.
+  </t>
+  <t id="H_SUPPORT_PATTERN" ver="11">
+    Kies tussen support patronen.:
+
+    "Grid" is erg sterk en kan in zijn geheel
+	los komen. Soms is het te sterk.
+
+    "Lines" zijn enkele lijnen die makkelijk per
+	stuk zijn af te breken. Dit vereist meer arbeid
+	om te verwijderen, maar is minder sterk en werkt
+	beter bij delicate modellen.
+  </t>
+  <t id="H_OVERHANG_ANGLE" ver="11">
+    De minimale hoek die overhellende vlakken nodig hebben
+	voor support. 0° is horizontal, 90° is vertical.
+  </t>
+  <t id="H_SUPPORT_FILL_AMOUNT" ver="11">
+    Dichtheid van de support structuur. Minder materiaal
+	geeft een zwakkere supoprt die makkelijker te ver-
+	wijderen is. 15% is een goed gemiddelde waarde.
+  </t>
+  <t id="H_DISTANCE_XY" ver="11">
+    Afstand tussen het support materiaal en het object
+	in x/y richting. 0.8 mm is een goede afstand om 
+	ter voorkomen dat het support aan het object plakt.
+  </t>
+  <t id="H_DISTANCE_Z" ver="11">
+    Afstand tussen de top/bodem van het support tot
+	het object. Een kleine ruimte zorgt dat het support
+	makkelijker te verwijderen is.
+  </t>
+  <t id="H_SPIRALIZE_CONTOUR" ver="11">
+    Dit veranderd een solide object in een object met
+	een enkele wand. Hierbij word de z continu verhoogd
+	tijdens printen en geeft een gat-loos oppervlak. 
+	Ideaal voor vazen.
+  </t>
+  <t id="H_BRIM_WIDTH" ver="11">
+    De breedte van de brim. Met een bredere brim waarde
+	plakken objecten beter aan het bed, maar reduceert
+	het effectieve printoppervlak.
+  </t>
+  <t id="H_RAFT_EXTRA_MARGIN" ver="11">
+    Dit is een extra raft oppervlak om het object
+	wanneer raft is ingeschakeld. Een groter raft
+	oppervlak geeft een sterkere raft, maar reduceerd
+	het effectieve print oppervlak.
+  </t>
+  <t id="H_RAFT_LINE_SPACING" ver="11">Dit is de afstand van de center lijnen van het raft.</t>
+  <t id="H_RAFT_BASE_LINE_THICKNESS" ver="11">Dit is de dikte van de basis laag.</t>
+  <t id="H_RAFT_BASE_LINE_WIDTH" ver="11">Dit This is the width of the base layer lines.</t>
+  <t id="H_RAFT_INTERFACE_THICKNESS" ver="11">This is the thickness of the interface layer.</t>
+  <t id="H_RAFT_INTERFACE_LINE_WIDTH" ver="11">This is the width of the interface layer lines.</t>
+  <t id="H_RAFT_AIG_GAP" ver="11">
+    Dit is de spleet tussen de raft en het object.
+    Hoe groter het gat, hoe makkelijker het te object
+    te verwijderen is, maar de spleet moet klein genoeg
+	zijn voor een optimale hechting met het object 
+	gedurende het printen.
+  </t>
+  <t id="H_RAFT_NUM_SURFACE_LAYER" ver="11">
+    Oppervlakte lagen zijn de bovenste lagen van het raft
+	Deze hebben een 100% invulling om een vlak oppervlak
+	te geven voor het te printen object.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_A" ver="11">
+    Deze geavanceerde optie voegt alle onderdelen van het 
+	model samen. Het resultaat is meestal dat alle interne
+	gaten verdwijnen. Dit kan (on-)bedoeld zijn afhankelijk van
+	het model. Aanzetten van deze optie is voor eigen risico.
+	Type-A is afhankelijk van de normalen van het model en 
+	probeert om interne gaten intact te laten. Type-B
+	negeert alle interne gaten en behoud alleen de buiten
+	vorm per laag.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_B" ver="11">
+    Deze geavanceerde optie voegt alle onderdelen van het 
+	model samen. Het resultaat is meestal dat alle interne
+	gaten verdwijnen. Dit kan (on-)bedoeld zijn afhankelijk van
+	het model. Aanzetten van deze optie is voor eigen risico.
+	Type-A is afhankelijk van de normalen van het model en 
+	probeert om interne gaten intact te laten. Type-B
+	negeert alle interne gaten en behoud alleen de buiten
+	vorm per laag.
+  </t>
+  <t id="H_KEEP_OPEN_FACES" ver="11">
+    Deze geavanceerde optie behoud alle delen van het 
+	model intact. Normaalgesproken probeert Cura om
+	kleine gaten te hechten en alles te verwijderen
+	met grote gaten, maar deze optie behoud delen die
+	niet onderdeel zijn van iets en neemt wat er over
+	is. Deze optie is normaal gesproken niet gewenst,
+	maar het geeft de mogelijkheid om objecten te slicen
+	die normaal gesproken niet werken. Met alle 
+	geavanceerde opties kunnen de resultaten varieren.
+	Gebruik op eigen risico.
+  </t>
+  <t id="H_EXTENSIVE_STITCHING" ver="11">
+    Extensief hechten, probeert de open gaten van
+	het model te sluiten met aansluitende polygonen.
+	Dit algoritme is reken intensief en kan de slice
+	tijd verlengen. Met alle geavanceerde opties 
+	kunnen de resultaten varieren. Gebruik op eigen 
+	risico.
+  </t>
+  <t id="L_CREATE_DEFAULT" ver="11">Creeer Standaard</t>
+
+  <t id="H_NAME_SELECTED_QUALITY_SETTING" ver="11">Selecteer een beschijvende naam om op te slaan.</t>
+  <t id="H_INFILL_PATTERN" ver="11">
+    "Automatisch" selecteerd lijnen of roosters naar gelang de dichtheid..
+
+    "Rooster" Geeft een stabiele structuur.
+
+    "Lijnen" zijn parallel en dichter bij elkaar.
+
+    "Concentrische Lijnen" geven lijnen met een gereduceerde buitenlijn.
+  </t>
+  <t id="H_CREATE_WIPE_AND_PRIME_TOWER" ver="11">
+    De wipe tower is een toren die elke laag geprint wordt
+	bij het wisselen van spuitkoppen. De oude kop wordt
+	afgeveegd op de toren voordat de nieuwe kop in ge-
+	bruik wordt genomen voor het printen van de tweede
+	kleur/materiaal. De nieuwe nozzle wordt op gang
+	gebracht op de toren, waardoor de nieuwe kop
+	correct begint met printen.
+  </t>
+  <t id="H_OOZE_SHIELD" ver="11">
+    Het ooze shield is een schil van 1 lijndikte om 
+	het gehele object met een afstand van enkele mm's.
+	Dit schild vangt mogelijk lekkend filament op van
+	de niet gebruikte spuitkop.
+  </t>
+  <t id="H_RETRACTION_ON_EXTRUDER_SWITCH" ver="11">
+    Terugtrekkings afstand bij wisselen tussen de
+	spuitkoppen. Zet 0 voor geen retractie.
+  </t>
+  <t id="H_WIPE_AND_PRIME_VOLUME" ver="11">
+    De hoeveelheid filament die in de wipe en prime
+	toren wordt verwerkt. Dit is gedaan in hoeveel
+	heid volume, omdat je over het algemeen een bepaalde
+	hoeveelheid filament wil extruderen om de
+	extruder op gang te krijgen, onafhankelijk van de
+	laaghoogte. Bij dunnere lagen wordt de toren dus 
+	groter.
+  </t>
+  <t id="L_AIR_GAP_LAYER0:" ver="11">Lucht spleet laag 0:</t>
+
+<t id="H_AIR_GAP_OTHER_LAYERS" ver="11">
+De aangenomen luchtspleet tussen het raft en het
+object vanaf de tweede laag van het object. Ideaal
+gezien, is deze waarde 0. De aanname is, dat de lucht
+spleet na de eerste laag van het object 0 is, omdat
+de eerste laag op de raft valt en daarbij dus de 
+spleet sluit.</t> 
+    <t id="H_SLIC3R_OVERRIDE_SLIC3R_SETTINGS" ver="11">
+    Overschrijven van boven geselecteerde Slic3r
+	instellingen met onderstaande waarden.
+  </t>
+    <t id="H_SLIC3R_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="11">
+    Vervang de waarden hieronder beschreven met
+	waarden gedefinieerd in de boven geselecteerde
+	configuratie.
+  </t>  
+    <t id="H_SLIC3R_ENABLE_SUPPORT" ver="11">
+    Voegt support structuren toe waar benodigd
+	voor het printen.
+  </t> 
+    <t id="H_SLIC3R_ENABLE_COOLING" ver="11">
+    Activeert koeling fan tijdens printen. Dit kan
+	de print qualiteit significant verbeteren,
+	zeker voor PLA, bruggen en schuine hellingen.
+  </t>  
+    <t id="H_SLIC3R_LAYER_HEIGHT" ver="11">
+    Met de laaghoogte in millimeters stel je de print
+	resolutie in z-richting in. Lagere waarden geven 
+	een hogere print qualiteit, maar kost meer printtijd.
+	Normale waarden liggen tussen 0.1 mm en 0.4 mm.
+  </t>  
+  <t id="H_SLIC3R_INFILL_DENSITY" ver="11">
+	Hiermee wordt de invullings dichtheid bepaald.
+	Massieve objecten zijn 100%, en lege objecten 0%
+	gevuld. Hoe meer invulling, hoe steviger het object.
+	Met een lagere invulling kan je veel printtijd 
+	besparen. Normale waarden liggen tussen de 20% en
+	30%, als een hoge stevigheid niet vereist is.
+  </t>
+  <t id="H_SLIC3R_INFILL_PATTERN" ver="11">
+    Dit selecteerd het invulpatroon van de 
+	binnenste invulling.
+  </t>
+  <t id="H_SLIC3R_SOLID_INFILL_PATTERN" ver="11">
+    Dit item selecteerd het invul patroon van de buitenschil.
+  </t>
+  <t id="B_CONFIGURE" ver="11">Configuratie</t>
+  <t id="B_CURA_FAST" ver="11">Snel</t> 
+  <t id="B_CURA_SLOW" ver="11">Langzaam</t> 
+<t id="L_SCALE_TO_MAX" ver="11">Schaal naar Maximum</t>
+<t id="L_RESET_ROTATION" ver="11">Herstel Rotatie</t>
+<t id="L_LAY_FLAT" ver="11">Leg plat neer</t>
+  <t id="L_PREFERENCES" ver="11">Voorkeuren</t>
+  <t id="L_BASIC_SETTINGS" ver="11">Basis Instellingen</t>
+  <t id="L_3D_VISUALIZATION" ver="11">3D Visualisatie</t>
+  <t id="L_SHOW_HELP_BUBBLES" ver="11">Laat hulp ballonnen zien (Herstart vereist)</t>
+  <t id="L_MAX_EXTRUDER_TEMP:" ver="11">Max. Extruder Temperatuur:</t>
+  <t id="L_MAX_BED_TEMP:" ver="11">Max. Bed Temperatuur:</t>
+  <t id="L_HAS_MIXING_EXTRUDER" ver="11">Printer heeft een Mengende Extruder (een spuitkop voor alle kleuren)</t>
+  <t id="L_MANUAL_EXTRUSION_SPEED:" ver="11">Handmatige Extrusie Snelheid:</t>
+  <t id="L_MANUAL_RETRACTION_SPEED:" ver="11">Handmatige Terugtrek Snelheid:</t>
+  <t id="L_INVERT_MOVEMENT_DIRECTION_FOR_MANUAL_CONTROL" ver="11">Inverteer bewegingsrichting voor handmatige besturing:</t>
+  <t id="L_X_AXIS" ver="11">X-As</t>
+  <t id="L_Y_AXIS" ver="11">Y-As</t>
+  <t id="L_Z_AXIS" ver="11">Z-As</t>
+  <t id="H_CONTROL_POWER" ver="11">
+    Sommige printers gebruiken een schakelende 
+	voeding, deze kan aan en uit gezet worden
+	met deze functie.
+  </t>
+
+  <t id="H_CONTROL_MOTOR" ver="11">
+    Schakelt de stroom uit voor alle motoren.
+	Dit kan mogelijk de extruder positie veranderen.
+	Wanneer een beweging wordt geinitieerd, wordt
+	voor stroom voor de corresponderende motor in-
+	geschakeld.
+  </t>
+
+  <t id="H_CONTROL_PARKING" ver="11">
+    Beweegt de extruder naar de parkeer positie.
+  </t>
+
+  <t id="H_CONTROL_SCRIPTX" ver="11">
+    Stuur het script $1 naar de printer. Je kan
+	het script inzien en aanpassen in uitklap lijst
+	bij Preview → G-Code Editor.
+  </t>
+
+  <t id="H_CONTROL_SPEED" ver="11">
+    Dit veranderd de huidige print snelheid. Alle
+	snelheden worden vermenigvuldigd met deze waarde
+	De flow waarde veranderd mee en hoeft niet te 
+	worden aangepast. Let op, hogere printsnelheden
+	kunnen de print qualiteit negatief beinvloeden.
+  </t>
+
+  <t id="H_CONTROL_FLOW" ver="11">
+    Staat je toe om de flow waarde te veranderen, 
+	maw de hoeveelheid ge-extrudeerd filament.
+	Hoe hoger de waarde hoe platter de geprintte
+	lijn.
+  </t>
+
+  <t id="H_CONTROL_FAN" ver="11">
+    Dit controleerd de ventilator snelheid. Effectieve
+	koeling verbeterd de print qualiteit, zeker voor
+	overhellingen en bruggen.
+  </t>
+
+  <t id="H_CONTROL_BED" ver="11">
+    Dit controleerd de temperatuur van het verwarmde bed.
+	Typische temperaturen voor PLA liggen tussen 50°C en
+	60°C. Voor ABS tussen de 100°C en 120°C graden, af
+	hankelijk van het type bedoppervlak.
+  </t>
+  <t id="H_CONTROL_EXTRUDER" ver="11">
+    Dit controleerd de extruder temperatuur. Typische 
+	temperaturen voor PLA liggen tussen 180°C en
+	220°C. Voor ABS tussen de 240°C en 260°C graden, af
+	hankelijk van de extruder en filament.
+  </t>
+  <t id="H_PS_CONNECTOR" ver="11">
+    Type verbinding naar de printer. De meeste 
+	printers gebruieken een serieele verbinding.
+	De virtuele verbinding geeft een virtuele printer
+	voor test doeleinden.
+  </t>
+
+  <t id="H_PS_PORT" ver="11">
+    Selecteer de poort die bij de printer hoort. Als 
+	je de poort niet kent, verwijder de USB kabel naar
+	de printer en klik "Ververs Poorten", onthoud de
+	lijst die wordt weergegeven in de dropdown menu.
+	Verbind nu de printer met de computer en ververs
+	de lijst opnieuw. De printer zal nu opereren onder
+	de nieuw toegevoegde poort. Als er geen poort 
+	weergegeven is het printer stuurprogramma niet
+	correct geïnstalleerd.
+  </t>
+
+  <t id="H_PS_BAUD_RATE" ver="11">
+    De verbindingssnelheid met de printer. De meest
+	voorkomende snelheden zijn 115200 en 250000. Je 
+	krijgt een verbinding met een incorrecte waarde,
+	maar de communicatie zal niet werken en de printer 
+	ontvangt geen commando's. Dit is de meest voor-
+	komende bron van fouten voor connectie problemen
+	met de printer.
+  </t>
+
+  <t id="H_PS_TRANSFER_PROTOCOL" ver="11">
+    Het verbindings protocol om data uit te wisselen
+	tussen host en printer. Het binaire protocol is 
+	het best en snelst, maar dit werkt alleen met 
+	Repetier-Firmware. "Autodetect" selecteerd
+	automatisch de beste methode.
+  </t>
+
+  <t id="L_AUTODETECT" ver="11">Autodetecteer</t>
+  <t id="L_REPETIER_PROTOCOL" ver="11">Repetier Protocol</t>
+  <t id="H_PS_RESET_ON_CONNECT" ver="11">
+    Veel boards staan een reset toe door het signaal 
+	te wisselen	van de DTR of RTS pin. Normaal gesproken,
+	is het voordelig om de printer te herstarten met 
+	een nieuwe verbinding, omdat dit mogelijke problemen
+	elimineerd tijdens verbinding. Sommige printer 
+	ondersteunen dit niet, in die gevallen zou je deze
+	functionaliteit moeten uitschakelen  
+	</t>
+
+  <t id="H_PS_RESET_ON_EMERGENCY" ver="11">
+    Dit bepaald wat er gebeurd bij indrukken van de
+	noodstop. Omdat het tijd in beslag neemt voordat
+	het noodstop commando is ontvangen, is het aan te
+	bevelen om dit te combineren met de reset.
+  </t>
+
+  <t id="H_PS_RECEIVE_CACHE_SIZE" ver="11">
+    Om korte onderbrekingen tijdens printen te voor-
+	komen, stuurt de host meerde commando's tegelijker
+	tijd. Er moet in ieder geval het aantal karakters 
+	opgeven worden die de printer kan herrinneren. 
+	Hierdoor zal de printer niet overladen worden met. 
+	De meeste printers kunnen 127 bytes aan, maar sommige
+	slechts 63 bytes. Als er veel communicatie fouten 
+	zijn gedurende, is deze waarde waarschijnlijk te groot.
+  </t>
+
+  <t id="H_PS_USE_PING_PONG_COMMUNICATION" ver="11">
+    Voor ping-pong communicatie is er altijd maar
+	een enkele instructie naar de printer. Dit 
+	communiceert veel trager, dus dit zou waar 
+	mogelijk moeten worden uitgeschakeld.
+  </t>
+
+  <t id="H_PS_IP_ADDRESS" ver="11">
+    Met dit IP address kan de printer worden bereikt.
+  </t>
+
+  <t id="H_PS_IP_PORT" ver="11">
+    De port waar de printer op te bereiken is.
+  </t>
+
+  <t id="H_PS_VIRTUAL_BAUD_RATE" ver="11">
+    Gesimuleerde printer verbindings snelheid. Vanaf
+	250000 is geen wachttijd geimplementeerd, voor
+	kleinere waarden worden correcte pauzes ingevoegd.
+  </t>
+
+  <t id="H_PS_TRAVEL_FEED_RATE" ver="11">
+    Bij deze snelheid, beweegt de extruder met 
+	handmatige besturing in X en Y richting.
+  </t>
+
+  <t id="H_PS_Z_AXIS_FEED_RATE" ver="11">
+    Bij deze snelheid, beweegt de extruder met
+	handmatige besturing in Z richting.
+  </t>
+
+  <t id="H_PS_MANUAL_EXTRUSION_SPEED" ver="11">
+    Bij deze snelheid, wordt het filament
+	extrudeerd met handmatige besturing.
+  </t>
+
+  <t id="H_PS_MANUAL_RETRACTION_SPEED" ver="11">
+    Bij deze snelheid, wordt het filament
+	teruggetrokken met handmatige besturing.
+  </t>
+
+  <t id="H_PS_DEFAULT_EXTRUDER_TEMPERATURE" ver="11">
+    Deze extruder temperatuur wordt voorgesteld bij
+	verbinden met de printer.
+  </t>
+
+  <t id="H_PS_DEFAULT_HEAT_BED_TEMPERATURE" ver="11">
+    Deze verwarmd bed temperatuur wordt voorgesteld
+	bij verbinden met de printer.
+  </t>
+
+  <t id="H_PS_CHECK_EXTRUDER_AND_BED_TEMPERATURE" ver="11">
+    Dit is vereist voor temperatuur besturing en 
+	zou aangezet moeten zijn.
+  </t>
+
+  <t id="H_PS_REMOVE_TEMPERATURE_REQUEST_FROM_LOG" ver="11">
+    Verwijder de log regels voor temperatuur aanvragen, 
+	hierdoor blijft het log-bestand schoner.
+  </t>
+
+  <t id="H_PS_CHECK_EVERY" ver="11">
+    Hier kan je specificeren hoe vaak de temperaturen
+	van de extruder en verwarmd bed wordt opgevraagd.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_X" ver="11">
+    Bij het parkeren, wordt de extruder naar deze 
+	X positie gebracht.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Y" ver="11">
+    Bij het parkeren, wordt de extruder naar deze 
+	Y positie gebracht.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Z_MIN" ver="11">
+    De extruder wordt omhoog getild met deze 
+	hoogte voor het parkeren.
+  </t>
+
+  <t id="H_PS_SEND_ETA_TO_PRINTER_DISPLAY" ver="11">
+    Stuurt de resterende printtijd of geschatte tijd
+	tot einde van de print job. Dit wordt weergegeven
+	in de host in de status bar en kan worden veranderd
+	door op de tijd te klikken tussen resterend en eind
+	tijd.
+  </t>
+
+  <t id="H_PS_DISABLE_EXTRUDER_AFTER_JOB_KILL" ver="11">
+    Schakelt de extruder uit na beeindigen print
+	opdracht en wanneer je op de noodstop drukt.
+  </t>
+
+  <t id="H_PS_DISABLE_MOTORS_AFTER_JOB_KILL" ver="11">
+    Schakelt de motoren uit na beeindigen print
+	opdracht en wanneer je op de noodstop drukt.
+  </t>
+
+  <t id="H_PS_DISABLE_HEATED_BED_AFTER_JOB_KILL" ver="11">
+	Schakelt het verwarmd bed uit na beeindigen print
+	opdracht en wanneer je op de noodstop drukt.
+  </t>
+
+  <t id="H_PS_ADD_TO_COMP_PRINTING_TIME" ver="11">
+    Dit verhoogt de berekende printtijd met deze 
+	hoeveelheid. Dit is nodig omdat de printer niet
+	dezelfde snelheid in hoeken behaald, waar wordt 
+	afgeremd. Op deze manier wordt er een nauwkeurigere
+	printtijd berekend. Maar dit zal varieren door 
+	het object en de slicer instellingen.
+  </t>
+
+  <t id="H_PS_GO_TO_PARK_POSITION_AFTER_JOB_KILL" ver="11">
+    Beweegt de extruder na beeindigen van printjob
+	en wanneer je op de noodstop knop drukt in de 
+	parkeer positie.
+  </t>
+
+  <t id="H_PS_INVERT_MOVEMENT_DIRECTION" ver="11">
+    Dit keert de bewegingsrichting van de geselecteerde
+	as voor de handmatige besturing.
+  </t>
+
+  <t id="H_PS_NUMBER_OF_EXTRUDERS" ver="11">
+    Hier, kan je het aantal extruders specificeren 
+	voor je printer.
+  </t>
+
+  <t id="H_PS_MAX_EXTRUDER_TEMPERATURE" ver="11">
+    Hier vul je de maximale extruder temperatuur die
+	je kan specificeren in de handmatige besturing.
+	Hiermee kan je per ongeluk oververhitten van de 
+	extruder voorkomen.
+  </t>
+
+  <t id="H_PS_MAX_BED_TEMPERATURE" ver="11">
+    Hier vul je de maximale verwarmde bed temperatuur die
+	je kan specificeren in de handmatige besturing.
+	Hiermee kan je per ongeluk oververhitten van de 
+	extruder voorkomen.
+  </t>
+
+  <t id="H_PS_PRINTER_HAS_MIXING_EXTRUDER" ver="11">
+    Als je een mengende extruder gebruikt, waar alle
+	kleuren geprint worden met dezelfde extruder, aub
+	deze optie activeren.
+  </t>
+
+  <t id="H_PS_NAME" ver="11">Zelf gekozen naam, wat gebruikt wordt bij
+	object plaatsing.
+  </t>
+
+  <t id="H_PS_DIAMETER" ver="11">
+    Diameter van de spuitmond.
+  </t>
+
+  <t id="H_PS_TEMPERATURE_OFFSET" ver="11">
+    Deze offset wordt toegevoegd aan de filament 
+	temperatuur. Hiermee kan je verschillende extruders
+	met dezelfde filament instellingen gebruiken.
+  </t>
+
+  <t id="H_PS_OFFSET_X" ver="11">
+    Dit is een offset van de extruder in X richting
+	voor meerdere extruders, mocht dit nog niet 
+	geconfigureerd zijn in de firmware.
+  </t>
+
+  <t id="H_PS_OFFSET_Y" ver="11">
+    Dit is een offset van de extruder in Y richting
+	voor meerdere extruders, mocht dit nog niet 
+	geconfigureerd zijn in de firmware.
+  </t>
+
+  <t id="H_PS_COLOR" ver="11">
+    Deze filament kleur wordt gebruikt in de preview.
+  </t>
+
+  <t id="H_PS_PRINTER_TYPE" ver="11">
+    Hier kan je je printer type instellen.
+  </t>
+
+  <t id="H_PS_HOME" ver="11">
+    Hier kan je instellen waar de extruder 
+	positie is na homen.
+  </t>
+  <t id="L_PRINT_BED" ver="11">Print bed</t>
+  <t id="L_DUMP_AREA" ver="11">Dump Gebied</t>
+  <t id="L_PRINTER_TYPE:" ver="11">Printer Type:</t>
+  <t id="L_START_GCODE" ver="11">Start G-Code</t>
+  <t id="L_END_GCODE" ver="11">Eind G-Code</t>
+  <t id="L_BEFORE_EXTRUDER_SWITCH" ver="11">Voor Extruder Wissel</t>
+  <t id="L_AFTER_EXTRUDER_SWITCH" ver="11">Na Extruder Wissel</t>
+<t id="L_INVERT_DIRECTION_FOR" ver="11">Inverteer richting van besturing voor</t>
+<t id="L_EXPORTING_MODEL_FOR_SLICING" ver="11">Exporteer Model om te Slicen ...</t>
+  <t id="L_MAX_VOLUME_PER_SECOND" ver="11">Max. Volume per seconde</t>
+  <t id="H_PS_MAX_VOLUME_PER_SECOND" ver="11">
+    Deze waarde kan worden gebruikt als snelheidslimiet
+	gebaseerd op volume doorvoor voor slicers. Normaal
+	kan je printen rond de 12mm³/s. Hoe hoger de snelheid
+	hoe meer verhitting en kracht benodigd is om het
+	filament door de spuitkop te duwen.
+  </t>
+</translation>

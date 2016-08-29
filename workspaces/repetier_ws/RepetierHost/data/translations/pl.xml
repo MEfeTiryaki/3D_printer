@@ -1,0 +1,921 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="11" language="Polski" languageInEnglish="Polish" author="get3D.pl and 3novatica.com">
+<t id="M_FILE" ver="1">Plik</t>
+<t id="M_CONFIG" ver="1">Konfiguracja</t>
+<t id="M_SLICER" ver="1">Slicer</t>
+<t id="M_TEMPERATURE" ver="1">Temperatura</t>
+<t id="M_PRINTER" ver="1">Drukarka</t>
+<t id="M_HELP" ver="1">Pomoc</t>
+<t id="M_LOAD_GCODE" ver="1">Otwórz plik z G-Code</t>
+<t id="M_SHOW_WORKDIRECTORY" ver="1">Pokaż katalog roboczy</t>
+<t id="M_LANGUAGE" ver="1">Język</t>
+<t id="M_PRINTER_SETTINGS" ver="1">Ustawienia drukarki</t>
+<t id="M_EEPROM_SETTINGS" ver="1">Konfiguracja EEPROM Firmware</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">Konfiguracja widoku 3D</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Ustawienia programu Repetier</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">Test Case Slicing Parameter</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">Konfiguracja dźwięków</t>
+<t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">Pokaż temperaturę głowicy</t>
+<t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">Pokaż temperaturę stołu</t>
+<t id="M_SHOW_TARGET_TEMPERATURES" ver="1">Pokaż temperatury docelowe</t>
+<t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">Pokaż temperatury średnie</t>
+<t id="M_SHOW_HEATER_POWER" ver="1">Pokaż pobór mocy przez głowicę</t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">Autoprzewijanie wykresów temperatur</t>
+<t id="M_TIMEPERIOD" ver="1">Okres czasu</t>
+<t id="M_TEMPERATURE_ZOOM" ver="1">Dokładność</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">Build Average over ...</t>
+<t id="M_30_SECONDS" ver="1">30 sekund</t>
+<t id="M_1_MINUTE" ver="1">1 minuta</t>
+<t id="M_2_MINUTES" ver="1">2 minuty</t>
+<t id="M_5_MINUTES" ver="1">5 minut</t>
+<t id="M_10_MINUTES" ver="1">10 minut</t>
+<t id="M_15_MINUTES" ver="1">15 minut</t>
+<t id="M_30_MINUTES" ver="1">30 minut</t>
+<t id="M_60_MINUTES" ver="1">60 minut</t>
+<t id="M_CONTINUOUS_MONITORING" ver="1">Monitoring ciągły</t>
+<t id="M_DISABLE" ver="1">Wyłącz</t>
+<t id="M_EXTRUDER_1" ver="1">Ekstruder 1</t>
+<t id="M_EXTRUDER_2" ver="1">Ekstruder 2</t>
+<t id="M_HEATED_BED" ver="1">Podgrzewany stół</t>
+<t id="M_PRINTER_INFORMATION" ver="1">Informacje o drukarce</t>
+<t id="M_JOB_STATUS" ver="1">Stan zadania</t>
+<t id="M_SD_CARD_MANAGER" ver="1">Manager karty SD</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">Zarządzanie kartą SD</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">Test Case Generator</t>
+<t id="M_SEND_SCRIPT_1" ver="1">Wyślij skrypt 1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">Wyślij skrypt 2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">Wyślij skrypt 3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">Wyślij skrypt 4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">Wyślij skrypt 5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Strona domowa programu Repetier-Host</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Pobierz program Repetier-Host</t>
+<t id="M_MANUAL" ver="1">Instrukcja obsługi programu Repetier-Host</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Strona domowa programu Slic3r</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Strona domowa programu Skeinforge</t>
+<t id="M_REPRAP_WEBSITE" ver="1">Strona domowa RepRap</t>
+<t id="M_REPRAP_FORUM" ver="1">Forum RepRap</t>
+<t id="M_THINGIVERSE_NEWEST" ver="1">Najnowsze obiekty w serwisie Thingiverse</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Popularne obiekty w serwisie Thingiverse</t>
+<t id="M_ABOUT_REPETIER_HOST" ver="1">Informacje o Repetier-Host</t>
+<t id="M_CHECK_FOR_UPDATES" ver="1">Sprawdź czy jest nowa wersja</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">Odłącz drukarkę</t>
+<t id="L_CONNECT_PRINTER" ver="1">Podłącz drukarkę</t>
+<t id="M_DISCONNECT" ver="1">Odłącz</t>
+<t id="M_CONNECT" ver="1">Podłącz</t>
+<t id="M_QUIT" ver="1">Wyjście</t>
+<t id="TAB_3D_VIEW" ver="1">Widok 3D</t>
+<t id="TAB_TEMPERATURE_CURVE" ver="1">Wykresy temperatur</t>
+<t id="TAB_OBJECT_PLACEMENT" ver="1">Położenie obiektu</t>
+<t id="TAB_SLICER" ver="1">Slicer</t>
+<t id="TAB_GCODE_EDITOR" ver="1">Edytor G-Code</t>
+<t id="TAB_MANUAL_CONTROL" ver="1">Kontrola ręczna</t>
+<t id="M_EMERGENCY_STOP" ver="1">Awaryjne zatrzymanie</t>
+<t id="M_LOAD" ver="1">Otwórz</t>
+<t id="M_SAVE_JOB" ver="1">Zapisz</t>
+<t id="M_RUN_JOB" ver="1">Drukuj</t>
+<t id="M_PAUSE_JOB" ver="1">Przerwij</t>
+<t id="M_KILL_JOB" ver="1">Zabij</t>
+<t id="M_SD_CARD" ver="1">Karta SD</t>
+<t id="M_TOGGLE_LOG" ver="1">Przełącz log</t>
+<t id="M_SHOW_FILAMENT" ver="1">Pokaż filament</t>
+<t id="M_HIDE_FILAMENT" ver="1">Ukryj filament</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">Wizualizacja filamentu wyłączona</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">Wizualizacja filamentu włączona</t>
+<t id="L_LOAD_FILE" ver="1">Otwórz plik</t>
+<t id="L_IMPORT_G_CODE" ver="1">Otwórz plik z G-Code</t>
+<t id="L_SAVE_G_CODE" ver="1">Zapisz G-Code</t>
+<t id="L_ERROR" ver="1">Błąd</t>
+<t id="L_PAUSE_MSG" ver="1">Naciśnij OK aby kontynuować.
+Możesz dodać przerwy w Twoim kodzie za pomocą komendy
+@pause</t>
+<t id="L_DISCONNECTED" ver="1">Odłączona</t>
+<t id="L_UPDATING..." ver="1">Aktualizuję...</t>
+<t id="L_SLICE_WITH" ver="1">Potnij programem $1</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">Wyślij komendę awaryjnego zatrzymania do drukarki. Może być potrzebny reset drukarki dla jej ponownego uruchomienia!</t>
+<t id="L_TRANSLATION:" ver="1">Przesunięcie</t>
+<t id="L_SCALE:" ver="1">Skalowanie</t>
+<t id="L_ROTATE:" ver="1">Obrót</t>
+<t id="L_STL_OBJECTS" ver="9">Obiekty</t>
+<t id="B_SAVE_AS_STL" ver="9">Eksport</t>
+<t id="B_REMOVE_STL_OBJECT" ver="1">Usuń obiekt</t>
+<t id="B_ADD_STL_OBJECT" ver="1">Dodaj obiekt</t>
+<t id="B_AUTOPOSITION" ver="1">Autoustawienie</t>
+<t id="B_DROP_OBJECT" ver="1">Opuść obiekt na stół</t>
+<t id="B_COPY_OBJECTS" ver="1">Kopiuj obiekt(y)</t>
+<t id="B_CENTER_OBJECT" ver="1">Centruj obiekt</t>
+<t id="L_LOCK_ASPECT_RATIO" ver="1">Zablokuj proporcje</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">Zatrzymaj cięcie</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">Ustawienia</t>
+<t id="B_SETUP_SLIC3R" ver="1">Ustawienia</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">Konfiguracja</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">Konfiguracja</t>
+<t id="B_ACTIVE" ver="1">Aktywny</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">Ustawienia filamentu:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">Ustawienia drukarki:</t>
+<t id="L_PRINT_SETTINGS" ver="1">Ustawienia wydruku:</t>
+<t id="L_PROFILE" ver="1">Profile:</t>
+<t id="B_SEND" ver="1">Wyślij</t>
+<t id="B_SIMULATE_OK" ver="1">OK</t>
+<t id="B_STOP_MOTOR" ver="1">Wyłącz silniki</t>
+<t id="B_PARK" ver="1">Zaparkuj</t>
+<t id="B_RETRACT" ver="1">Cofanie</t>
+<t id="B_EXTRUDE" ver="1">Wysuwanie</t>
+<t id="L_OUTPUT_PERCENT" ver="1">Moc $1%</t>
+<t id="B_POWER" ver="1">Zasilanie</t>
+<t id="B_HEAT_EXTRUDER" ver="1">Grzanie głowicy</t>
+<t id="B_HEAT_PRINTBED" ver="1">Grzanie stołu</t>
+<t id="B_FAN" ver="1">Wentylator</t>
+<t id="B_DEBUG_ERRORS" ver="1">Błędy</t>
+<t id="B_DEBUG_ECHO" ver="1">Echo</t>
+<t id="B_DRY_RUN" ver="1">Druk na sucho</t>
+<t id="B_DEBUG_INFO" ver="1">Info</t>
+<t id="L_EXTRUDER" ver="1">Ekstruder</t>
+<t id="L_PRINTBED" ver="1">Stół</t>
+<t id="L_SPEED_MULTIPLY" ver="1">Prędkości</t>
+<t id="L_EXTRUDE_MM" ver="1">Wysuń [mm]</t>
+<t id="L_EXTRUDER_SPEED_MM_MIN" ver="1">Prędkość [mm/min]</t>
+<t id="L_RETRACT_MM" ver="1">Cofnij [mm]</t>
+<t id="L_TEMP" ver="1">Temp.</t>
+<t id="L_CONNECTED" ver="1">Podłączony</t>
+<t id="L_HEATING_BED" ver="1">Podgrzewany stół</t>
+<t id="L_HEATING_EXTRUDER" ver="1">Podgrzewam głowicę</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">Drukowanie zatrzymane</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">Drukowanie przerwane</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">Drukowanie zakończone</t>
+<t id="L_UPLOADING..." ver="1">Ładuję ... $1%</t>
+<t id="L_PRINTING_JOB_ETA" ver="1">Przewidywany czas zakończenia $1</t>
+<t id="L_IDLE" ver="1">Wolny</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 komend oczekujących</t>
+<t id="L_EXTRUDER:" ver="1">Ekstruder:</t>
+<t id="L_BED:" ver="1">Stół:</t>
+<t id="L_OFF" ver="1">Wyłącz</t>
+<t id="L_NOT_A_NUMBER" ver="1">To nie jest liczba</t>
+<t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">Wymagana liczba dodatnia</t>
+<t id="L_NOT_AN_INTEGER" ver="1">To nie jest liczba całkowita</t>
+<t id="L_RESET_OUTPUT" ver="1">Reset output. After some wait, I got only $1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">Odbieram wyłącznie komunikaty błędów. Komunikacja zatrzymana.</t>
+<t id="L_PRINTING..ETA" ver="1">Drukję... przewidywany czas $1</t>
+<t id="L_LAYER_X/Y" ver="1"> Warstwa $1/$2</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">Błąd wysyłania danych:</t>
+<t id="L_CONNECTION_ERROR" ver="1">Błąd połączenia</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">Błąd portu szeregowego com:</t>
+<t id="L_SHOW_IN_LOG" ver="1">Pokazuj w logu:</t>
+<t id="B_ACK" ver="1">ACK</t>
+<t id="B_AUTO_SCROLL" ver="1">Autoprzewijanie</t>
+<t id="B_COMMANDS" ver="1">Komendy</t>
+<t id="B_LOG_ERRORS" ver="1">Błędy</t>
+<t id="B_LOG_INFO" ver="1">Informacje</t>
+<t id="B_LOG_WARNINGS" ver="1">Ostrzeżenia</t>
+<t id="B_COPY" ver="1">Kopiuj</t>
+<t id="B_CLEAR_LOG" ver="1">Wyczyść log</t>
+<t id="L_COPY" ver="1">Kopiuj</t>
+<t id="L_CUT" ver="1">Wytnij</t>
+<t id="L_NEW_TEXT" ver="1">Nowy tekst</t>
+<t id="L_SAVE" ver="1">Zapisz</t>
+<t id="L_PASTE" ver="1">Wklej</t>
+<t id="L_UNDO" ver="1">Cofnij</t>
+<t id="L_REDO" ver="1">Ponów</t>
+<t id="L_AUTO_UPDATE_PREVIEW" ver="1">Atomatyczna aktualizacja podglądu</t>
+<t id="L_START_CODE" ver="1">Kod startowy</t>
+<t id="L_END_CODE" ver="1">Kod końcowy</t>
+<t id="L_RUN_ON_KILL" ver="1">Wykonaj przy zabiciu</t>
+<t id="L_RUN_ON_PAUSE" ver="1">Wykonaj przy przerwie</t>
+<t id="L_SCRIPT_X" ver="1">Skrypt $1</t>
+<t id="L_LAYER_X" ver="1">Warstwa $1</t>
+<t id="L_EXTRUDER_X" ver="1">Ekstruder $1</t>
+<t id="L_EDITOR_C" ver="1">C$1</t>
+<t id="L_EDITOR_R" ver="1">R$1</t>
+<t id="L_OVERWRITE" ver="1">Nadpisz</t>
+<t id="L_INSERT" ver="1">Wstaw</t>
+<t id="L_SYNTAX" ver="1">Składnia</t>
+<t id="TAB_HELP" ver="1">Pomoc</t>
+<t id="TAB_VISUALIZATION" ver="1">Wizualizacja</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">Pokaż cały kod</t>
+<t id="L_SHOW_LAYER_RANGE" ver="1">Pokaż wybrane warstwy</t>
+<t id="L_SHOW_SINGLE_LAYER" ver="1">Pokaż pojedynczą warstwę</t>
+<t id="L_FIRST_LAYER" ver="1">Pierwsza warstwa:</t>
+<t id="L_LAST_LAYER" ver="1">Ostatnia warstwa:</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1">Czy na pewno chcesz skasować szystkie ustawienia dla $1?</t>
+<t id="L_SECURITY_QUESTION" ver="1">Pytanie bezpieczeństwa</t>
+<t id="L_ADD_PRINTING_TIME" ver="1">Dodaj do szacowanego czasu drukowania:</t>
+<t id="L_BAUD_RATE" ver="1">Prędkość transmisji:</t>
+<t id="L_CACHE_SIZE_HINT" ver="1">Począwszy od Arduino 1 cache odbiornika został zmniejszony ze 127 do 63 bajtów!</t>
+<t id="L_CHECK_EVERY_X" ver="1">Sprawdź co $1 sekund.</t>
+<t id="L_CONNECTION_INFO" ver="1">Ustawienia drukarki są przypisane do wybranego modelu drukarki (na samej górze). Są zapisywane przy każdym naciśnięciu OK lub Zastosuj. Jeśli chcesz utworzyć nową drukarkę, wpisz po prostu nową nazwę w okienku na górze i naciśnij Zastosuj. Nowa drukarka będzie na starcie posiadała aktualne ustawienia.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">Domyślna temperatura ekstrudera:</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">Domyślna temperatura stołu:</t>
+<t id="L_DUMP_AREA_DEPTH" ver="1">Dump Area Depth:</t>
+<t id="L_DUMP_AREA_FRONT" ver="1">Dump Area Front:</t>
+<t id="L_DUMP_AREA_LEFT" ver="1">Dump Area Left:</t>
+<t id="L_DUMP_AREA_WIDTH" ver="1">Dump Area Width:</t>
+<t id="L_FILTER_INFO" ver="1">Możliwe jest automatyczne uruchomienie filtru po każdej procedurze cięcia. Do filtru zostanie przekazany kod G-Code który wyprodukuje slicer. Wykorzystaj #in i #out aby wstawić nazwę pliku wejściowego i wyjściowego jako parametrów.</t>
+<t id="L_FILTER_PATH_PARAM" ver="1">Ścieżka dostępu i parametry filtra:</t>
+<t id="L_PARITY" ver="1">Parzystość:</t>
+<t id="L_PARK_POSITION" ver="1">Pozycja parkowania:</t>
+<t id="L_PORT" ver="1">Port:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">Głębokość drukowania:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1">Wysokość drukowania:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">Szerokość drukowania:</t>
+<t id="L_PRINTER" ver="1">Drukarka:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">Rozmiar cache odbioru:</t>
+<t id="L_STOPBITS" ver="1">Stop Bit:</t>
+<t id="L_TRANSFER_PROTOCOL" ver="1">Protokół transferu:</t>
+<t id="L_ZFEED_RATE" ver="1">Prędkość ruchu osi Z (pionowej):</t>
+<t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">Wyłącz grzanie głowicy po zakończeniu drukowania.</t>
+<t id="L_DISABLE_MOTORS" ver="1">Wyłącz silniki po zakończeniu drukowania.</t>
+<t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">Wyłącz podgrzewanie stołu pod zakończeniu drukowania.</t>
+<t id="L_GO_PARK_POSITION" ver="1">Idź do pozycji parkowania po zakończeniu wydruku.</t>
+<t id="L_HAS_DUMP_AREA" ver="1">Has Dump Area</t>
+<t id="L_HOME_X_MAX" ver="1">Home jest na X Max</t>
+<t id="L_HOME_Y_MAX" ver="1">Home jest na Y Max</t>
+<t id="L_HOME_Z_MAX" ver="1">Home jest na Z Max</t>
+<t id="L_PING_PONG_MODE" ver="1">Użyj komunikacji Ping-Pong (Wysyłaj tylko po OK)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">Uruchom filtr po każdym cięciu</t>
+<t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">Sprawdzaj tempraturę ekstrudera &amp;&amp; stołu</t>
+<t id="L_REMOVE_M105_REQUEST_LOG" ver="1">Usuń żądania sprawdzania temperatury z logów</t>
+<t id="B_CANCEL" ver="1">Anuluj</t>
+<t id="B_APPLY" ver="1">Zastosuj</t>
+<t id="B_OK" ver="1">OK</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">Usuń ustawienia dla tej drukarki</t>
+<t id="TAB_CONNECTION" ver="1">Połączenie</t>
+<t id="TAB_PRINTER" ver="1">Drukarka</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">Parametry drukarki</t>
+<t id="TAB_ADVANCED" ver="1">Zaawansowane</t>
+<t id="W_PRINTER_SETTINGS" ver="1">Ustawienia drukarki</t>
+<t id="L_POST_SLICE_FILTER" ver="1">Filtr uruchamiany po zakończeniu cięcia</t>
+<t id="L_Z_MIN" ver="1">Minimum Z</t>
+<t id="W_PRINT_PAUSED" ver="1">Drukowanie przerwane</t>
+<t id="L_PAUSE_HINT" ver="1">Podpowiedź: Możesz poruszać głowicą oraz wypuścić czy wycofać filament w celu jego zmiany lub wyczyszczenia głowicy. Po ponownym uruchomieniu wydruku, program rozpocznie w miejscu w którym skończył.</t>
+<t id="B_CONTINUE_PRINTING" ver="1">Kontynuuj drukowanie</t>
+<t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Sprawdzenie aktualizacji programu Repetier-Host</t>
+<t id="B_DOWNLOAD" ver="1">Pobieranie</t>
+<t id="B_REMIND_ME_LATER" ver="1">Przypomnij później</t>
+<t id="B_SKIP_VERSION" ver="1">Pomiń tą wersję</t>
+<t id="L_AVAILABLE_VERSION" ver="1">Dostępna wersja:</t>
+<t id="L_INSTALLED_VERSION" ver="1">Zainstalowana wersja:</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">Informacje o aktualizacji</t>
+<t id="L_NO_NEW_UPDATES" ver="1">Nie ma aktualizacji.
+Korzystasz z najnowszej wersji programu.</t>
+<t id="L_UPDATE_STATUS" ver="1">Status aktualizacji</t>
+<t id="W_SLICING_INFO" ver="1">Informacje o cięciu</t>
+<t id="L_ACTION:" ver="1">Akcja:</t>
+<t id="L_DURATION:" ver="1">Czas trwania:</t>
+<t id="L_SLICER:" ver="1">Slicer:</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">Zacznij drukowanie po zakończeniu cięcia</t>
+<t id="W_ABOUT_REPETIER_HOST" ver="1">Informacje o programie Repetier-Host</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">Licencja i biblioteki</t>
+<t id="L_REPETIER_INFO" ver="1">Ten program został napisany do zarządzania drukarkami 3D typu RepRap. Najlepsze wyniki osiągniesz przy jednoczesnym korzystaniu z Repetier-Firmware, który uwzględnia wszystkie opcje i możliwości. Inne programy firmware jak np. Marlin, Teacup, Sprinter czy 5D GCode interpreter powinny także pracować przy zastosowaniu odpowiednich ustawień.</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">Kopiuj zaznaczone obiekty</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">Ilość kopii:</t>
+<t id="L_AUTO_POSITION_AFTER_COPY" ver="1">Auto pozycjonowanie po dodaniu obiektów</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">Drukuję warstwę $1 z $2</t>
+<t id="L_BUILDING_PRINT_JOB..." ver="1">Przygotowuję drukowanie...</t>
+<t id="L_PRINTING..." ver="1">Drukuję...</t>
+<t id="L_JOB_KILLED" ver="1">Drukowanie zabite</t>
+<t id="L_PRINTJOB_FINISHED_AT" ver="1">Drukowanie zakończone o $1</t>
+<t id="L_PRINTING_TIME:" ver="1">Czas drukowania:$1</t>
+<t id="L_LINES_SEND:X" ver="1">Wysłane linie:$1</t>
+<t id="L_FINISHED_IN" ver="1">Zakończono na $1</t>
+<t id="L_TIME_H:" ver="1">$1h:</t>
+<t id="L_TIME_M:" ver="1">$1m:</t>
+<t id="L_TIME_S" ver="1">$1s</t>
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">Ustawienia EEPROM Firmware</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">Nie znaleziono wygenerowanego G-Code</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">Oczekiwana nazwa pliku i położenie.</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">Nie mogę znaleźć wygenerowanego pliku z G-code.
+
+Możliwe powody:
+- podczas cięcia wystąpił błąd i slicer nie zakończył pracy. Sprawdź logi.
+- program do cięcia zapisał plik z nieprawidłową nazwą.</t>
+<t id="B_CLOSE" ver="1">Zamknij</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Ustawienia programu Repetier</t>
+<t id="L_BEHAVIOUR" ver="1">Zachowanie</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">Pliki i katalogi</t>
+<t id="L_GUI" ver="1">GUI</t>
+<t id="L_INFO_WORKDIR" ver="1">W katalogu roboczym zapisywane są pliki tymczasowe cięcia oraz pliki z logami. Jeśli jest włączone logowanie sesji, po zamknięciu programu pojawi się tam plik repetier.log Ponowne uruchomienie programu skasuje ten plik! Plik repetier.log zawiera całą historię komunikacji z drukarką, nawet jeśli wyłączono okienko logów w głównym programie. Zmiana opcji logowania sesji jest aktywna dopiero po restarcie programu.</t>
+<t id="L_LOG_SESSION" ver="1">Loguj sesję</t>
+<t id="REDUCE_TOOLBAR_SIZE" ver="1">Zmniejsz rozmiar paska narzędzi</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">Wyłącz redukcję jakości</t>
+<t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">Wymagany jest istniejący katalog roboczy!</t>
+<t id="L_WORKDIR:" ver="1">Katalog roboczy:</t>
+<t id="B_BROWSE" ver="1">Przeglądaj...</t>
+<t id="L_SELECT_WORKING_DIRECTORY" ver="1">Wybierz katalog roboczy</t>
+<t id="L_PAST_60_MINUTES" ver="1">Ostatnie 60 minut</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">Ustawienia wizualizacji 3D</t>
+<t id="L_COLORS" ver="1">Kolory</t>
+<t id="L_EDITOR" ver="1">Edytor</t>
+<t id="L_VISUALIZATION" ver="1">Wizualizacja:</t>
+<t id="L_AMBIENT_COLOR" ver="1">Kolor otoczenia:</t>
+<t id="L_BACKGROUND" ver="1">Tło:</t>
+<t id="L_DIFFUSE_COLOR" ver="1">Diffuse Color:</t>
+<t id="L_DRAW_METHOD" ver="1">Metoda rysowania:</t>
+<t id="L_EDGES" ver="1">Krawędzie:</t>
+<t id="L_EXTRUDER_X:" ver="1">Ekstruder $1:</t>
+<t id="L_FACES" ver="1">Płaszczyzn:</t>
+<t id="L_FILAMENT_VISUALIZATION_INFO" ver="1">Kształt filamentu jest wyliczany na podstawie wysokości warstwy i ustawienia szerokość do grubości lub ze średnicy filamentu, szerokości do grubości i wartości E z G-Code. Druga wersja daje lepsze wyniki jeśli zmienia się wysokość warstwy, np w nowszych wersjach programu Skeinforge czy Slic3r.</t>
+<t id="L_FILAMENT_VISUALIZATION" ver="1">Wizualizacja filamentu:</t>
+<t id="L_HOT_FILAMENT" ver="1">Gorący filament:</t>
+<t id="L_HOT_FILAMENT_LENGTH" ver="1">Dł. gorącego filamentu:</t>
+<t id="L_LIGHT_X" ver="1">Światło $1</t>
+<t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">Obiekty poza stołem:</t>
+<t id="L_PRINTER_BASE" ver="1">Obszar pracy:</t>
+<t id="L_SELECTED_FACES" ver="1">Wybrane płaszczyzny:</t>
+<t id="L_SELECTED_FILAMENT" ver="1">Wybrany filament:</t>
+<t id="L_SPECULAR_COLOR" ver="1">Specular Color:</t>
+<t id="L_WIDTH_OVER_THICKNESS" ver="1">Szerokość do grubości:</t>
+<t id="L_X_DIRECTION" ver="1">Kierunek X:</t>
+<t id="L_Y_DIRECTION" ver="1">Kierunek Y:</t>
+<t id="L_Z_DIRECTION" ver="1">Kierunek Z:</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">Wyłącz wizualizację filamentu</t>
+<t id="L_ENABLE_LIGHT" ver="1">Włącz światło</t>
+<t id="L_SHOW_EDGES" ver="1">Pokaż krawędzie</t>
+<t id="L_SHOW_FACES" ver="1">Pokaż płaszczyzny</t>
+<t id="L_SHOW_PRINTBED" ver="1">Pokaż stół</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">Pulsuj jeśli obiektu nie da się wydrukować</t>
+<t id="TAB_GENERAL" ver="1">Podstawowe</t>
+<t id="TAB_FILAMENT" ver="1">Filament</t>
+<t id="TAB_MODEL" ver="1">Model</t>
+<t id="TAB_LIGHTS" ver="1">Światła</t>
+<t id="L_LAYER_HEIGHT" ver="1">Wysokość warstwy:</t>
+<t id="L_FILAMENT_DIAMETER" ver="1">Średnica filamentu:</t>
+<t id="L_DRAW_METHOD_AUTODETECT" ver="1">Autodetekcja ustawień</t>
+<t id="L_DRAW_METHOD_VBOS" ver="1">VBOs (Szybkie)</t>
+<t id="L_DRAW_METHOD_ARRAYS" ver="1">Tablice (Średnie)</t>
+<t id="L_DRAW_METHOD_IMMEDIATE" ver="1">Natychmiastowe (Wolne)</t>
+<t id="W_JOB_STATUS" ver="1">Status</t>
+<t id="L_ETA:" ver="1">ETA:</t>
+<t id="L_FINISH_TIME:" ver="1">Czas zakończenia:</t>
+<t id="L_LINES_SEND:" ver="1">Wysłane linie:</t>
+<t id="L_START_TIME:" ver="1">Czas rozpoczęcia:</t>
+<t id="L_STATUS:" ver="1">Stan:</t>
+<t id="L_TOTAL_LINES:" ver="1">Wszystkich linii:</t>
+<t id="L_NO_JOB_DEFINED" ver="1">Brak zadań do drukowania</t>
+<t id="L_RUNNING..." ver="1">Działam ...</t>
+<t id="L_FINISHED" ver="1">Zakończone</t>
+<t id="L_ABORTED" ver="1">Przerwane</t>
+<t id="W_PRINTER_INFO" ver="1">Informacje o drukarce</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">Połączenie</t>
+<t id="L_PRINTER_DATA" ver="1">Drukarka</t>
+<t id="L_BYTES_SEND:" ver="1">Przesłanych bajtów:</t>
+<t id="L_ERRORS_RECEIVED:" ver="1">Odebranych błędów:</t>
+<t id="L_FIRMWARE:" ver="1">Firmware:</t>
+<t id="L_FIRMWARE_URL:" ver="1">Adres URL do Firmware:</t>
+<t id="L_MACHINE_TYPE:" ver="1">Typ drukarki:</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">Ilość ekstruderów:</t>
+<t id="L_PROTOCOL:" ver="1">Protokół:</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">Nie jest prawidłową nazwą pliku 8.3.</t>
+<t id="W_SD_CARD_UPLOAD" ver="1">Wgrywanie na kartę SD</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">Nazwa wgranego pliku:</t>
+<t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">Dołącz komendy kończące wydruk</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">Dołącz kod startowy i końcowy</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">Wgraj zewnętrzny plik</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">Wgraj aktualny plik G-Code</t>
+<t id="L_FILE:" ver="1">Plik:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">Zapisz aktualne G-Code dla bezpośredniego drukowania</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">Opcja zapisu jest przewidziana do wygenerowania pliku G-Code który może być uruchomiony bezpośrednio z karty SD. Z tego powodu, do G-Code mogą być dodane sekwencje startowe i końcowe takie jakie będą wykonane podczas drukowania bezpośrednio z programu. Wszystkie komentarze i komendy programu hosta zostaną usunięte. Jeśli chcesz tylko zapisać G-Code do późniejszej edycji, użyj klawisza z ikoną zapisu.</t>
+<t id="L_SAVE_AS_BINARY" ver="1">Zapisz w formacie binarnym (dla Repetier-Firmware)</t>
+<t id="B_SAVE" ver="1">Zapisz</t>
+<t id="W_SD_CARD_MANAGER" ver="1">Manager karty SD</t>
+<t id="L_FILENAME" ver="1">Nazwa pliku</t>
+<t id="L_SIZE" ver="1">Rozmiar</t>
+<t id="L_UPLOAD_FILE" ver="1">Wgraj plik</t>
+<t id="L_DELETE_FILE" ver="1">Skasuj plik</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">Drukuj wybrany plik / Kontynuuj zatrzymany wydruk</t>
+<t id="L_STOP_UPLOAD" ver="1">Przerwij/Zatrzymaj aktualne drukowanie z karty SD</t>
+<t id="L_MOUNT_SD_CARD" ver="1">Zamontuj kartę SD</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">Odmontuj kartę SD</t>
+<t id="L_PRINT_FINISHED" ver="1">Drukowanie zakończone</t>
+<t id="L_UPLOAD_FINISHED" ver="1">Ładowanie zakończone</t>
+<t id="L_SD_PRINTING..." ver="1">Drukuję z karty SD...</t>
+<t id="L_UPLOAD_FAILED" ver="1">Wgrywanie nie powiodło się</t>
+<t id="L_FILE_DELETED" ver="1">Plik skasowany</t>
+<t id="L_DELETE_FAILED" ver="1">Kasowanie pliku nie powiodło się</t>
+<t id="L_UPLOADING_FILE..." ver="1">Wgrywanie pliku...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">Firmware Twojej drukarki nie obsługuje komendy ksowania, lub obsługuje ją w nieznany sposób.</t>
+<t id="L_PRINT_ABORTED" ver="1">Drukowanie przerwane</t>
+<t id="L_PRINT_PAUSED" ver="1">Drukowanie zatrzymane</t>
+<t id="L_REMOVE_SD_CARD" ver="1">Możesz teraz wyjąć kartę SD.</t>
+<t id="L_INFORMATION" ver="1">Informacje</t>
+<t id="L_REALLY_DELETE_X" ver="1">Naprawdę skasować $1?</t>
+<t id="SOUND_CONFIGURATION" ver="1">Konfiguracja dźwięku</t>
+<t id="L_SOUNDS" ver="1">Dźwięki</t>
+<t id="L_ERROR_SOUND" ver="1">Dzwięk błędów</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">Dźwięk zakończenia drukowania</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">Dźwięk przerwania drukowania</t>
+<t id="L_SOUND_COMMAND_SOUND" ver="1">Dźwięk dla komendy @sound</t>
+<t id="L_FILE:X" ver="1">Plik:$1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">Wybierz plik WAV do odtwarzania</t>
+<t id="W_SLIC3R_SETUP" ver="1">Konfiguracja programu Slic3r</t>
+<t id="L_SLIC3R_SETUP" ver="1">Konfiguracja programu Slic3r</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="6">Pozostaw puste, aby korzystać z dołączonej lub systemowej wersji</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Katalog konfiguracji programu Slic3r</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Plik wykonywalny programu Slic3r</t>
+<t id="L_SLIC3R_INFO" ver="1">Te ustawienia pasują do różnych wersji programu Slic3r. Najnowsze wersje można pobrać z http://www.slic3r.org Minimalna wymagana wersja programu Slic3r to 0.9.0 Jeśli chcesz korzystać z dołączonej do Repetiera wersji programu Slic3r po prostu pozostaw wszystkie pola puste.</t>
+<t id="L_SLIC3R_BLANK_CONFIG" ver="1">Pozostaw puste dla domyślnej lokalizacji.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Ustawienia dla Marlin EEPROM Firmware</t>
+<t id="L_M_ACCELERATION" ver="1">Akceleracja:</t>
+<t id="L_M_ADVANCED_VARIABLES" ver="1">Zmienne zaawansowane:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">Homing Offset:</t>
+<t id="L_M_MAX_ACCELERATION" ver="1">Maximum Acceleration [mm/s²]:</t>
+<t id="L_M_MAX_FEEDRATE" ver="1">Maximum feedrates [mm/s]:</t>
+<t id="L_M_MAX_XY_JERK" ver="1">Maximum X-Y jerk [mm/s]</t>
+<t id="L_M_MAX_Z_JERK" ver="1">Maximum Z jerk [mm/s]</t>
+<t id="L_M_MIN_FEEDRATE" ver="1">Min feedrate [mm/s]</t>
+<t id="L_M_MIN_SEGMENT_TIME" ver="1">Minimum segment time [ms]</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">Min travel feedrate [mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">PID settings:</t>
+<t id="L_M_STEPS_PER_MM" ver="1">Steps per mm:</t>
+<t id="L_M_RETRACT_ACCELERATION" ver="1">Retract Acceleration:</t>
+<t id="B_M_LOAD" ver="1">Przeładuj konfigurację</t>
+<t id="B_M_RESTORE" ver="1">Odtwórz ustawienia fabryczne</t>
+<t id="B_M_SAVE" ver="1">Zapisz do EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">Ustawienia zapisane do aktualnej konfiguracji.
+Zapisać zmiany do EEPROM?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">Ustawienia zapisane</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">Zapisać odtworzone ustawienia do EEPROM?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">Ustawienia fabryczne zostały odtworzone</t>
+<t id="L_SLICING_STL_FILE..." ver="1">Cięcie pliku STL...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">Ostatnie zadanie cięcia wciąż jest wykonywane. Nowe cięcie zostało przerwane.</t>
+<t id="L_SKEIN_KILLED" ver="1">Cięcie $1 zostało przerwane na żądanie użytkownika.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Ustawienia Skeinforge/SFACT</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Aplikacja Skeinforge:</t>
+<t id="L_SKEIN_CRAFT" ver="1">Skeinforge Craft:</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">Wybierz podkatalog na profile w katalogu konfiguracji programu skeinforge. Domyślnie jest to HOME/.skeinforge/profiles. Dla niektórych wersji programu jak SFACT, ścieżka może być inna.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">Katalog na profile:</t>
+<t id="L_SKEIN_PYPY" ver="1">PyPy:</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">Jeśli masz zainstalowany program PyPy, proces cięcia przez Skeinforge będzie 3-4 razy szybszy. Jeśli nie masz PyPy, pozostaw to pole puste i wtedy będzie użyty standardowy interpreter języka Python. Najnowsze wersje PyPy możesz pobrać pod adresem: http://www.pypy.org/</t>
+<t id="L_SKEIN_PYTHON" ver="1">Interpreter języka Python:</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">Katalog roboczy określa miejsce gdzie SFACT zapisuje swoje profile!</t>
+<t id="L_SKEIN_WORKING_DIRECTORY" ver="1">Katalog roboczy:</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Aplikacja Skeinforge</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Interpreter języka Python:</t>
+<t id="L_SKEIN_OPEN_CRAFT" ver="1">Aplikacja Skeinforge Craft</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">Interpreter Pypy Python</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">Wybierz katalog na profile</t>
+<t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">Wybierz katalog roboczy</t>
+<t id="L_FEEDRATE:" ver="1">Prędkość drukowania:</t>
+<t id="L_FLOWRATE:" ver="1">Ilość filamentu:</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">Nie można połączyć się z serwerem aktualizacji!</t>
+<t id="L_MOVE_CAMERA" ver="1">Przesuń kamerę</t>
+<t id="L_MOVE_OBJECT" ver="1">Przesuń obiekt</t>
+<t id="L_MOVE_VIEWPOINT" ver="1">Przesuń punkt widzenia</t>
+<t id="L_RESET_VIEW" ver="1">Zresetuj widok</t>
+<t id="L_ROTATE" ver="1">Obrót</t>
+<t id="L_TOP_VIEW" ver="1">Widok z góry</t>
+<t id="T_ZOOM_VIEW" ver="1">Powiększenie</t>
+<t id="T_CLEAR_OBJECTS" ver="1">Opróżnij stół</t>
+<t id="L_DEBUG_OPTIONS" ver="2">Opcje debugowania</t>
+<t id="L_X_MIN:" ver="3">X Min</t>
+<t id="L_X_MAX:" ver="3">X Max</t>
+<t id="L_Y_MIN:" ver="3">Y Min</t>
+<t id="L_Y_MAX:" ver="3">Y Max</t>
+<t id="L_BED_LEFT:" ver="3">Stół lewa:</t>
+<t id="L_BED_FRONT:" ver="3">Stół przód:</t>
+<t id="L_SHAPE_INFO" ver="3">Wartości Min i Max definiują możliwy zakres ruchów głowicy. Wartości te mogą być ujemne i znajdować się poza stołem. Stół lewa/Stół przód określają współrzędne w których zaczyna się stół. Przez zmianę wartości Min/Max możliwe jest nawet przesunięcie punktu centralnego stołu, jeśli firmware wspiera taką możliwość.</t>
+<t id="L_SELECTION_BOX" ver="3">Zaznaczenie:</t>
+<t id="L_FILAMENT_NONE" ver="3">Żaden/Taki sam jak Ekstruder 1</t>
+<t id="L_REALLY_QUIT" ver="3">Drukowanie nie zostało ukończone. Na pewno chcesz zakończyć program?</t>
+<t id="M_DONATE" ver="3">Wpłać przez PayPal</t>
+<t id="L_FAN" ver="4">Wentylator</t>
+<t id="L_HOME_X:" ver="4">Home X:</t>
+<t id="L_HOME_Y:" ver="4">Home Y:</t>
+<t id="L_HOME_Z:" ver="4">Home Z:</t>
+<t id="L_MIN" ver="4">Min</t>
+<t id="L_MAX" ver="4">Max</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">Twoja drukarka zażądała przerwy.</t>
+<t id="L_CREATE_FOLDER" ver="4">Utwórz nowy katalog</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">Podaj nazwę katalogu:</t>
+<t id="L_UPLOADING_TIME" ver="4">Czas wgrywania: $1</t>
+<t id="L_FILAMENT_POS" ver="4">Fil: $1</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">Wizualizacja ruchów wyłączona</t>
+<t id="M_HIDE_TRAVEL" ver="4">Ukryj ruchy</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">Wizualizacja ruchów włączona</t>
+<t id="M_SHOW_TRAVEL" ver="4">Pokaż ruchy</t>
+<t id="L_TRAVEL_MOVES:" ver="4">Ruchy głowicy:</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">Wyłącz wizualizację ruchów głowicy</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">Ilość ekstruderów:</t>
+<t id="L_NEW_FOLDER" ver="5">Nowy katalog</t>
+<t id="L_USE_PARALLEL_PROJECTION" ver="5">Użyj projekcji równoległej</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">Użyj czerwonych/zielonych przełączników (wymagany restart)</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">Nie znaleziono programu Slic3r.</t>
+<t id="L_ANALYSING_STL" ver="6">Analizuję plik STL...</t>
+<t id="L_SLICING_STL" ver="6">Cięcie pliku STL...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">Pypy lub interpreter języka Python nie został znaleziony.</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">Skeinforge craft not found.</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">Nie znaleziono interpretera języka Python.</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">Nie znaleziono programu Skeinforge.</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">Nie znaleziono katalogu z profilami dla programu Skeinforge/SFACT.</t>
+<t id="B_REFRESH_PORTS" ver="6">Odśwież porty</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">Drukowalna wysokość:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">Drukowalny promień:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">Klasyczna drukarka</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">Klasyczna drukarka (z powierzchnią dump)</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Drukarka typu Rostock (z okrągłym stołem)</t>
+<t id="L_CORRECT_NORMALS" ver="7">Użyj normalizacji (wygląda lepiej, wymaga więcej pamięci)</t>
+<t id="L_WARNING" ver="8">Ostrzeżenie</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">Niektóre grzałki są wciąż włączone, wyłączyć je?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">Co najmniej jeden obiekt znajduje się poza zakresem drukowania. Przerwać cięcie?</t>
+<t id="L_CNC_ROUTER" ver="8">Router CNC</t>
+<t id="L_SLIC3R_VERSION" ver="8">Wersja programu Slic3r</t>
+<t id="L_MODEL_ERRORS" ver="9">Błędy w modelu:</t>
+<t id="L_SPLIT" ver="9">Podziel</t>
+<t id="L_YES" ver="9">Tak</t>
+<t id="L_NO" ver="9">Nie</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9"><![CDATA[Plik(i) z jednym lub więcej obiektami zostały zmienione.
+Przeładować obiekty?]]></t>
+<t id="L_FILES_CHANGED" ver="9">Zmienione pliki</t>
+<t id="L_INNER_FACES" ver="9">Wewnętrzne płaszczyzny:</t>
+<t id="L_BACKGROUND_TOP" ver="9">Górny kolor tła:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">Dolny kolor tła:</t>
+<t id="L_PRINTER_FRAME" ver="9">Rama drukarki:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">Widok izometryczny</t>
+<t id="L_BOTTOM_VIEW" ver="9">Widok od dołu</t>
+<t id="L_LEFT_VIEW" ver="9">Widok z lewej</t>
+<t id="L_RIGHT_VIEW" ver="9">Widok z prawej</t>
+<t id="L_FRONT_VIEW" ver="9">Widok z przodu</t>
+<t id="L_BACK_VIEW" ver="9">Widok z tyłu</t>
+<t id="M_VIEW" ver="9">Widok</t>
+<t id="M_SHOW_EDGES" ver="9">Pokaż krawędzie</t>
+<t id="M_SHOW_FACES" ver="9">Pokaż płaszczyzny</t>
+<t id="L_ANA_MODIFIED" ver="9">Zmodyfikowany:</t>
+<t id="L_ANA_MANIFOLD" ver="9">Prawidłowy:</t>
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9">Przeciętych trójkątów:</t>
+<t id="L_ANA_NORMALS" ver="9">Normals:</t>
+<t id="L_ANA_LOOP_EDGES" ver="9">Loop Edges:</t>
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9">Highly Connected Edges:</t>
+<t id="L_ANA_VERTICES" ver="9">Punktów:</t>
+<t id="L_ANA_EDGES" ver="9">Krawędzi:</t>
+<t id="L_ANA_FACES" ver="9">Płaszczyzn:</t>
+<t id="L_ANA_SHELLS" ver="9">Powierzchni:</t>
+<t id="L_ANA_ORIENTED" ver="9">Zorientowanych</t>
+<t id="L_ANA_NOT_ORIENTED" ver="9">Nie zorientowanych</t>
+<t id="M_TOOLS" ver="9">Narzędzia</t>
+<t id="M_BELT_CALCULATOR" ver="9">Kalkulator pasków zębatych</t>
+<t id="M_LEADSCREW_CALCULATOR" ver="9">Kalkulator śruby pociągowej</t>
+<t id="L_MOTOR_STEP_ANGLE" ver="9">Kąt kroku silnika</t>
+<t id="L_DRIVER_MICROSTEPPING" ver="9">Mikrokroki drivera</t>
+<t id="L_BELT_PITCH" ver="9">Rozstaw zębów paska</t>
+<t id="L_TOOTH_COUNT" ver="9">Ilość zębów na kółku</t>
+<t id="B_CALCULATE" ver="9">Oblicz</t>
+<t id="L_STEPS_PER_MM" ver="9">Ilość kroków silnika na milimetr:</t>
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9">Ilość zębów musi być liczbą całkowitą</t>
+<t id="L_LEADSCREW_PITCH" ver="9">Krok posuwu śruby</t>
+<t id="L_GEAR_RATIO" ver="9">Przełożenie</t>
+<t id="L_SERIAL_CONNECTION" ver="9">Połączenie szeregowe</t>
+<t id="L_VIRTUAL_CONNECTION" ver="9">Drukarka wirtualna</t>
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9">Repetier-Server</t>
+<t id="L_CONNECTOR" ver="9">Typ połączenia:</t>
+<t id="L_DISABLED" ver="9">Wyłączone</t>
+<t id="L_DTR_LOW_HIGH" ver="9">DTR wysoki->niski</t>
+<t id="L_DTR_LOW_HIGH_LOW" ver="9">DTR niski->wysoki->niski</t>
+<t id="L_DTR_TOGGLE" ver="9">przełączanie DTR</t>
+<t id="L_RESET_ON_CONNECT" ver="9">Reset przy podłączeniu:</t>
+<t id="L_RESET_ON_EMERGENCY" ver="9">Reset przy awarii:</t>
+<t id="L_SEND_EMERGENCY_CMD" ver="9">Wyślij komendę awarii</t>
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">Wyślij komendę awarii + DTR wysoki->niski</t>
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Wyślij komendę awarii i podłącz ponownie</t>
+<t id="L_FILE_ASSOCIATIONS" ver="9">Przypisania plików</t>
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9">Przypisz rozszerzenia</t>
+<t id="L_CONNECTION_FAILED" ver="9">Połączenie nieudane. Błąd: $1. Upewnij się, że drukarka jest podłączona, włączona i są prawidłowo ustawione parametry połączenia. Otworzyć panel ustawień drukarki?</t>
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9">Włącz projekcję równoległą w widoku z góry</t>
+<t id="L_RESET_DEFAULTS" ver="9">Zresetuj do ustawień domyślnych</t>
+<t id="L_REMOVED_DEGENERATED" ver="9">Usunięto zdegenerowanych trójkątów:</t>
+<t id="L_REMOVED_ISOLATED" ver="9">Usunięto izolowanych trójkątów:</t>
+<t id="L_REMOVED_DOUBLE" ver="9">Usunięto zdublowanych trójkątów:</t>
+<t id="L_STARTING_ANALYSER" ver="9">Uruchamiam analizatora obiektu...</t>
+<t id="L_ANALYSER_FINISHED" ver="9">Analiza zakończona.</t>
+<t id="L_LOADING_3D_FAILED" ver="9">Otwarcie pliku 3D $1 nie udało się.</t>
+<t id="L_OBJECT_INFORMATIONS" ver="9">Informacje o obiekcie</t>
+<t id="L_MINIMUM:" ver="9">Minimum:</t>
+<t id="L_MAXIMUM:" ver="9">Maksimum:</t>
+<t id="L_SIZE:" ver="9">Rozmiar:</t>
+<t id="L_VOLUME:" ver="9">Objętość:</t>
+<t id="L_SURFACE:" ver="9">Powierzchnia:</t>
+<t id="L_DIMENSIONS:" ver="9">Wymiary:</t>
+<t id="L_SPLIT_OBJECT" ver="9">Podziel obiekt</t>
+<t id="L_FIX_NORMALS" ver="9">Napraw</t>
+<t id="M_FIT_PRINTER" ver="9">Dopasuj do drukarki</t>
+<t id="M_FIT_OBJECTS" ver="9">Dopasuj obiekty</t>
+<t id="IMPORTING_1" ver="9">Impportuję $1</t>
+<t id="L_LOADING..." ver="9">Ładuję ...</t>
+<t id="L_INTERSECTION_TESTS" ver="9">Testy przecięcia</t>
+<t id="L_FIXING_NORMALS" ver="9">Naprawiam</t>
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Fixed collinear triangles:</t>
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9">Corrected normal orientations:</t>
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Obiekt jest prawidłowy (manifold).</t>
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Obiekt nie jest prawidłowy (non-manifold). Cięcie może wyprodukować nieprawidłowe rezultaty. Najpierw powinieneś naprawić obiekt.</t>
+<t id="L_SHOW_COMPASS" ver="9">Pokaż kompas osi</t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Czy na pewno chcesz skasować $1?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">Stan wydruku został prawidłowo zapisany</t>
+<t id="M_POSPONED_JOBS" ver="10">Odłożone zadania</t>
+<t id="M_RESUME_JOB" ver="10">Przywróć</t>
+<t id="M_POSTPONE_JOB" ver="10">Odłóż bieżące zadanie</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">Odłożone zadania drukowania</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">Przywróć zadanie</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">Skasuj zadanie</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">Zmień nazwę zadania</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">Nazwa zadania</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10">Nazwij zadanie</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">Stan zadania będzie zapisany po zakończeniu aktualnej warstwy. Możesz także wymusić zapisanie stanu teraz, lub przywrócić drukowanie.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">&amp;Wymuś</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">&amp;Przywróć</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Odłóż zadania drukowania</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Przełącz pokazywanie ID drukarki</t>
+<t id="L_PRINTER_ID" ver="10">ID drukarki</t>
+<t id="L_BGCOLOR:" ver="10">Kolor tła:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Edytuj ID drukarki</t>
+<t id="L_ANAYLSING" ver="10">Analizuję</t>
+<t id="L_NOT_TESTED" ver="10">Nie testowano</t>
+<t id="L_CONNECTOR:" ver="10">Typ połączenia:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normal correction not possible for non-manifold meshes.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Mapowanie wysokości stołu</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">Utwórz mapę wysokości</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">Pomiar wysokości</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">Wyniki do schowka</t>
+<t id="L_SCAN_AREA" ver="10">Powierzchnia skanowania</t>
+<t id="L_SCAN_RESULTS" ver="10">Wyniki skanowania</t>
+<t id="L_X_POINTS:" ver="10">Punkty X:</t>
+<t id="L_Y_POINTS:" ver="10">Punkty Y:</t>
+<t id="L_Z_MIN:" ver="10">Minimum Z:</t>
+<t id="L_Z_MAX:" ver="10">Maksimum Z:</t>
+<t id="L_Z_AVG:" ver="10">Średnie Z:</t>
+<t id="L_Z_CENTER:" ver="10">Centrum Z</t>
+<t id="L_CUT_FACES" ver="10">Wytnij obiekty</t>
+<t id="L_CUT_POSITION" ver="10">Pozycja</t>
+<t id="L_CUT_INCLINATION" ver="10">Nachylenie</t>
+<t id="L_CUT_AZIMUTH" ver="10">Azymut</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">Jednostki importowanych obiektów</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">Obiekty są w milimetrach</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">Obiekty są w calach</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">Obiekty są w stopach</t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">Obiekty są w metrach</t>
+<t id="B_RESET" ver="10">Reset</t>
+<t id="L_SLIC3R_INFO2" ver="10">Slic3r to zewnętrzy, oddzielny program który może być uruchamiany samodzielnie. Po więcej informacji zajrzyj na stronę: http://www.slic3r.org</t>
+<t id="L_SKEINFORGE_INFO" ver="10">Skeinforge to zewnętrzny, oddzielny program który może byc uruchamiany samodzielnie. Po więcej informacji zajrzyj na stronę: http://fabmetheus.crsndoo.com/</t>
+<t id="L_PRINT_SETTINGS:" ver="10">Ustawienia wydruku:</t>
+<t id="L_PRINTER_SETTINGS:" ver="10">Ustawienia drukarki:</t>
+<t id="L_OVERRIDE_SLIC3R_SETTINGS" ver="10">Nadpisz ustawienia programu Slic3r</t>
+<t id="B_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="10">Skopiuj aktualne ustawienia do nadpisania</t>
+<t id="L_ENABLE_SUPPORT" ver="10">Włącz podpory</t>
+<t id="L_ENABLE_COOLING" ver="10">Włącz chłodzenie</t>
+<t id="L_LAYER_HEIGHT:" ver="10">Wysokość warstwy:</t>
+<t id="L_INFILL_DENSITY" ver="10">Gęstość wypełnienia</t>
+<t id="L_INFILL_ANGLE" ver="10">Kąt wypełnienia</t>
+<t id="L_INFILL_PATTERN:" ver="10">Wypełnienie:</t>
+<t id="L_SOLID_INFILL_PATTERN:" ver="10">Pełne wypełnienie:</t>
+<t id="L_SHOW_EXTRUDER" ver="10">Temperatura głowicy</t>
+<t id="L_SHOW_BED" ver="10">Temperatura stołu</t>
+<t id="L_SHOW_OUTPUT" ver="10">Pokaż wynik</t>
+<t id="L_SHOW_TARGET_TEMPERATURES" ver="10">Temperatury docelowe</t>
+<t id="L_SHOW_AVERAGE_TEMPERATURES" ver="10">Temperatury średnie</t>
+  <t id="L_NOT_VALID_SD_FILENAME" ver="10">Nazwa pliku zawiera niedopuszczalne znaki lub jest zbyt długa. Nie używaj więcej niż 26 znaków.</t>
+  <t id="B_ADD_SLICER" ver="10">Dodaj slicera</t>
+  <t id="B_DELETE" ver="10">Usuń</t>
+  <t id="L_SLICER" ver="10">Slicer</t>
+  <t id="L_CONFIGURATION:" ver="10">Konfiguracja programu:</t>
+  <t id="L_SETUP" ver="10">Ustawienia</t>
+  <t id="L_SLICER_CONFIGURATIONS" ver="10">Konfiguracje Slicera</t>
+  <t id="L_NAME" ver="10">Nazwa</t>
+  <t id="L_SLICER_MANAGER" ver="10">Manager Slicera</t>
+  <t id="L_ASK_LOAD_GCODE" ver="10">Slicer utworzył nowy plik z G-Code, czy powinienem go załadować?</t>
+  <t id="L_QUESTION" ver="10">Pytanie</t>
+  <t id="L_FILE_TYPES:" ver="10">Typy plików:</t>
+  <t id="L_WATCHDIRECTORY_INFO" ver="10">Katalog podglądu pokazuje tylko zdefiniowane powyżej typu plików. Różne typy rozdziel średnikiem np.: &quot;g;gcode&quot;. Każda drukarka ma swoje włanse ustawienia tego katalogu. Jeśli pojawi się nowy plik lub istniejący zostanie zmieniony, to po przełączeniu się do programu Repetier-Host zostanie on pokazany i podświetlony w celu szybkiego importu.</t>
+  <t id="B_LOAD" ver="10">Otwórz</t>
+  <t id="L_CHANGED" ver="10">Zmienione</t>
+  <t id="L_NEW" ver="10">Nowy</t>
+  <t id="L_DIRECTORY:" ver="10">Katalog:</t>
+  <t id="L_ACTION" ver="10">Akcja</t>
+  <t id="L_FILE" ver="10">Plik</t>
+  <t id="L_STATUS" ver="10">Stan</t>
+  <t id="L_SEND_ETA_DISPLAY" ver="10">Wyślij szacowany czas zakończenia drukowania do wyświetlacza drukarki</t>
+  <t id="L_ETA_SHORT$1" ver="10">ETA $1</t>
+  <t id="L_ETE_SHORT$1" ver="10">ETE $1</t>
+  <t id="L_CACHING..." ver="10">Keszowanie ... $1%</t>
+  <t id="M_MAKE_SCREENSHOT" ver="10">Zapisz zrzut ekranu</t>
+  <t id="PNG_FILTER" ver="10">Obrazy PNG|*.png</t>
+  <t id="L_INVALID_FILENAME" ver="10">Nieprawidłowa nazwa pliku.</t>
+  <t id="L_EEPROM_IMPORT_FAILED" ver="10">Import danych EEPROM nie udał się. Nieprawidłowy format pliku.</t>
+  <t id="L_EXPORT_EEPROM_DATA" ver="10">Eksport danych EEPROM</t>
+  <t id="L_IMPORT_EEPROM_DATA" ver="10">Import danych EEPROM</t>
+<t id="L_TIME_H" ver="10">$1h </t>
+<t id="L_TIME_M" ver="10">$1m </t>
+<t id="L_SHOW_OUTPUT_EXTRUDER" ver="10">Moc na głowicy</t>
+<t id="L_SHOW_OUTPUT_BED" ver="10">Moc na stole</t>
+<t id="M_SHOW_BED_POWER" ver="10">Pokaż pobór mocy przez stół</t>
+  <t id="L_ENABLE_ANTI_ALIAS" ver="10">Włącz antyaliasing jeśli to możliwe (spowalnia wizualizację, wymagany restart)</t>
+  <t id="L_MODEL_ERRORS_EDGE:" ver="10">Błędy w modelu (krawędzie):</t>
+  <t id="L_CUT_FACES:" ver="10">Wytnij płaszczyzny:</t>
+  <t id="L_NOT_MANIFOLD_INFO">Obiekt nie jest prawidłowy (manifold). Między innymi oznacza to, że nie jest wodoodporny. Prawie na pewno spowoduje to problemy podczas cięcia skutkujące nieprawidłowym rezultatem. Zalecane jest wcześniejsze naprawienie pliku z modelem. Spróbuj skorzystać z darmowej usługi naprawiania na stronie https://netfabb.azurewebsites.net </t>
+
+
+<t id="L_PRINT_CONFIGURATION:" ver="11">Wybierz profil:</t>
+<t id="L_ADHESION_TYPE:" ver="11">Ustaw Brim/Raft:</t>
+<t id="L_QUALITY" ver="11">Jakość</t>
+<t id="L_SUPPORT_TYPE:" ver="11">Rodzaj podpory:</t>
+<t id="L_TOUCHING_BED" ver="11">Tylko dotyka stołu</t>
+<t id="L_EVERYWHERE" ver="11">Wszędzie</t>
+<t id="L_NONE" ver="11">Brak</t>
+<t id="L_SPEED:" ver="11">Prędkość druku:</t>
+<t id="L_SLOW" ver="11">Wolno</t>
+<t id="L_FAST" ver="11">Szybko</t>
+<t id="L_PRINT_SPEED:" ver="11">Prędkość wydruku:</t>
+<t id="L_OUTER_PERIMETER_SPEED:" ver="11">Prędkość zewnętrznych obrysów:</t>
+<t id="L_INFILL_SPEED:" ver="11">Prędkość wypełnienia:</t>
+<t id="L_ESTIMATED_PRINTING_TIME:" ver="11">Pozostało do końca:</t>
+<t id="L_LAYER_COUNT:" ver="11">Licznik warstw:</t>
+<t id="L_FILAMENT_NEEDED:" ver="11">Ilość potrzebnego filamentu:</t>
+<t id="L_SHOW_TRAVEL_MOVES" ver="11">Pokaż ruch jałowy</t>
+<t id="L_BED_TEMPERATURE:" ver="11">Temperatura stołu:</t>
+<t id="L_MANUAL_EXTRUSION_SPEED:" ver="11">Prędkość manualnej ekstruzji:</t>
+<t id="L_MANUAL_RETRACTION_SPEED:" ver="11">Prędkość manualnej retrakcji:</t>
+<t id="L_MAX_EXTRUDER_TEMP:" ver="11">Max. temperatura głowicy:</t>
+<t id="L_MAX_BED_TEMP:" ver="11">Max. temperatura stołu:</t>
+<t id="L_MAX_VOLUME_PER_SECOND" ver="11">Max. objetość na sekundę</t>
+
+<t id="L_TRAVEL_FEED_RATE" ver="1">Prędkość ruchu jałowego:</t>
+<t id="L_PREVIEW" ver="11">Podgląd</t>
+<t id="L_PREFERENCES" ver="11">Preferencje</t>
+<t id="L_PRINTER_TYPE:" ver="11">Rodzaj drukarki:</t>
+<t id="L_HAS_MIXING_EXTRUDER" ver="11">Drukarka posiada extruder miksujący (jedna dysza dla wszystkich kolorów)</t>
+<t id="L_SPEED_AND_QUALITY" ver="11">Prędkość i Jakość</t>
+<t id="L_STRUCTURES" ver="11">Struktura</t>
+<t id="L_SHELL_THICKNESS:" ver="11">Grubość ścianki bocznej:</t>
+<t id="L_TOP/BOTTOM_THICKNESS:" ver="11">Grubość ścianki poziomej:</t>
+<t id="L_INFILL_OVERLAP:" ver="11">Nakładanie wypełnienia na obrys:</t>
+<t id="L_PRINT:" ver="11">Druk:</t>
+<t id="L_TRAVEL:" ver="11">Ruch jałowy:</t>
+<t id="L_INNER_PERIMETER:" ver="11">Wewnętrzne obrysy ścianki</t>
+<t id="L_OUTER_PERIMETER:" ver="11">Zewnętrzne obrysy ścianki</t>
+<t id="L_INFILL" ver="11">Wypełnienie</t>
+<t id="L_DEFAULT_QUALITY:" ver="11">Domyślna jakość:</t>
+<t id="L_SELECTED_QUALITY_SETTING" ver="11">Wybrane ustawienia jakości</t>
+<t id="L_FIRST_LAYER_HEIGHT:" ver="11">Pierwsza warstwa:</t>
+<t id="B_SAVE_AS" ver="11">Zapisz jako ...</t>
+<t id="L_INFILL_TYPE:" ver="11">Rodzaj wypełnienia:</t>
+<t id="L_SOLID_TOP_INFILL" ver="11">Generuj pełne warstwy górne</t>
+<t id="L_SOLID_BOTTOM_INFILL" ver="11">Generuj pełne warstwy dolne</t>
+<t id="H_INFILL_PATTERN" ver="11">
+    "Automatic" generuje linie zgodne z ustawionym zagęszczeniem wypełnienia.
+
+    "Grid" generuje zwartą strukturę.
+
+    "Lines" linie generowane są równolegle i blisko siebie.
+
+    "Concentric Lines" generuje linie z ograniczonym konturem .
+  </t>
+<t id="H_SOLID_TOP_INFILL" ver="11">
+    Tworzy solidną górną powierzchnię. Jeśli wyłączona, 
+    zostaną zastosowane ustawienia dla wypełnienia. Przydatne do wazonów 
+     zdefiniowanych jako pełne bryły.
+  </t>
+  <t id="H_SOLID_BOTTOM_INFILL" ver="11">
+    Tworzy solidną dolną powierzchnię. Jeśli wyłączona, zostaną zastosowane ustawienia dla wypełnienia. Przydatne dla wydruków zdefiniowanych jako pełne bryły.
+  </t>
+<t id="L_SUPPORT_PATTERN:" ver="11">Rodzaj podpory:</t>
+<t id="H_SUPPORT_TYPE" ver="11">
+    Rodzaje budowanej podpory.
+
+    "Brak" wyłącza podporę.
+
+    "Tylko dotyka stołu" najpopularniejsze ustawienie.
+    Prodpora jest generowana tylko w tych miejscach, gdzie fizycznie dotyka stołu.
+
+    "Wszędzie" generuje podporę wszędzie gdzie jest wymagana.
+  </t>
+  <t id="H_ADHESION_TYPE" ver="11">
+    Pomaga przytrzymać drukowane obiekty na stole.
+
+    "Brak" wyłącza funkcję.
+
+    "Brim" dodaje dodatkową płaszczyznę wokół modelu, generowaną podczas układania pierwszej wartwy. 
+
+    "Raft" dodaje gruby raster poniżej obiektu i cienki interfejs między nim a  obiektem, który może być usunięty po drukowaniu.
+Jest to wymagane jeśli masz nierówny stół lub niewielki model, którego powierzchnia na pierwszych warstwach jest niewielka.
+  </t>
+  <t id="H_FILAMENT_DIAMETER" ver="11">
+    Średnica filamentu powinna być podana z największą precyzją. Warto przemierzyć filament w kilku miejscach i podać średnią z odczytu.
+  </t>
+<t id="H_INFILL_DENSITY" ver="11">
+    Określ gęstość wypełnienie. Masywne obiekty mają 100%, puste obiekty 0%.
+Większe wypełnienie generuje bardziej stabilny obiekt.
+Z mniejszym wypełnieniem można zaoszczędzić dużo czasu drukowania oraz filament.
+Zalecane wartości w przedziale między 20% a 30%, jeśli nie jest wymagana mocna konstrukcja modelu.
+  </t>
+ <t id="H_SUPPORT_PATTERN" ver="11">
+    Wybierz wzór podpory: 
+
+"Grid" generowana jest bardzo silna podpora, przeważnie jako jedna, zwarta struktura.
+Niekiedy aż za silna i ciężko ją oderwać oderwać od modelu
+
+"Lines" są to linie jednościankowe, układane w tym samym czasie.
+Niestety trzeba poświęcić więcej czasu na usunięcie podpory z modelu.
+Polecane przy bardziej skomplikowanych wydrukach
+  </t>
+<t id="L_CURAENGINE_SETTINGS" ver="11">CuraEngine Ustawienia</t>
+<t id="L_EXTRUSION" ver="11">Ekstruzja</t>
+<t id="L_GENERAL_EXTRUDER_SETTINGS" ver="11">Główne ustawienia ekstruzji</t>
+<t id="L_SKIRT_AND_BRIM" ver="11">Skirt i Brim</t>
+<t id="L_SKIRT_DISTANCE:" ver="11">Dystans Skirt-u od obiektu:</t>
+  <t id="L_SKIRT_LINE_COUNT:" ver="11">Ilość linii Skirt-u:</t>
+<t id="L_MIN_SKIRT_LENGTH:" ver="11">Minimalna długość Skirt-u:</t>
+<t id="L_BRIM_WIDTH:" ver="11">Szerokość Brim-u:</t>
+<t id="H_ENABLE_COOLING" ver="11">
+    Aktywuje wentylator chłodzący drukowany model.
+Załączenie wentylatora pozytywnie wpływa na jakość wydruku,
+szczególnie dla PLA, mostków, nawisów.
+  </t>
+<t id="L_NAME:" ver="11">Nazwa:</t>
+<t id="L_OVERHANG_ANGLE:" ver="11">Kąt nawisu:</t>
+<t id="L_FILL_AMOUNT:" ver="11">Ilość wypełnienia:</t>
+<t id="L_SUPPORT" ver="11">Podpora</t>
+<t id="L_DISTANCE_XY:" ver="11">Dystans XY:</t>
+<t id="L_DISTANCE_Z:" ver="11">Dystans Z:</t>
+<t id="L_EXTRA_MARGIN:" ver="11">Dodatkowy margines:</t>
+<t id="L_BASE_LINE_WIDTH:" ver="11">Szerokość linii bazowej:</t>
+<t id="L_INTERFACE_THICKNESS:" ver="11">Grubość linii interfejsu:</t>
+<t id="L_AIR_GAP_LAYER0:" ver="11">Grubość szczeliny powietrznej 0:</t>
+<t id="L_AIR_GAP:" ver="11">Grubość szczeliny powietrznej:</t>
+<t id="L_GCODE_FLAVOUR:" ver="11">Typ generowanego G-Code:</t>
+<t id="L_LINE_SPACING:" ver="11">Odstęp między liniami:</t>
+<t id="L_BASE_LINE_THICKNESS:" ver="11">Grubość linii bazowej:</t>
+<t id="L_INTERFACE_LINE_WIDTH:" ver="11">Szerokość linii interfejsu:</t>
+<t id="L_NUM_SURFACE_LAYER:" ver="11">Ilość warstw Raft-u:</t>
+<t id="L_SPIRALIZE_CONTOUR" ver="11">Tryb wazy</t>
+<t id="L_MINIMIZE_CROSSING_PERIMETERS" ver="11">Ogranicz przejścia przez obrysy</t>
+<t id="L_ENABLE_RETRACTION" ver="11">Włącz retrakcję</t>
+<t id="H_SPIRALIZE_CONTOUR" ver="11">
+    Zaznaczenie tej funkcji spowoduje wydruk pełnych brył jako obiekty
+jednościankowe z podstawą. Idealne do generowania waz.
+  </t>
+ <t id="H_MINIMIZE_CROSSING_PERIMETERS" ver="11">
+   Zaznaczenie tej opcji spowoduje przesunięcie głowicy z punktu A do punktu B
+bez opuszczenia zarysu przedmiotu. 
+Jeśli jest wyłączona - głowica podąża po linii prostej i mogą się pojawić
+charakterystyczne "nitki" z filamentu. 
+  </t>
+<t id="H_ENABLE_RETRACTION" ver="11">
+    Wycofuje filament z głowicy jeśli przesuwa się ona ruchem
+jałowym. Włączenie tej funkcji minimalizuje powstawanie "nitek".
+  </t>
+<t id="L_RETRACTION_SPEED:" ver="11">Prędkość retrakcji:</t>
+<t id="L_RETRACTION_DISTANCE:" ver="11">Długość retrakcji:</t>
+
+
+<t id="L_MIN_TRAVEL_BEFORE_RETRACT:" ver="11">Minimalna odległość bez retrakcji:</t>
+<t id="L_Z_HOP:" ver="11">Unoszenie osi Z przy retrakcji:</t>
+ <t id="L_CUTOFF_BOTTOM" ver="11">Obetnij spód modelu:</t>
+<t id="L_MULTI_EXTRUDER_SETTINGS" ver="11">Ustawienia wielu extruderów</t>
+<t id="L_CREATE_WIPE_PRIME" ver="11">Włącz czyszczenie</t>
+<t id="H_CREATE_WIPE_AND_PRIME_TOWER" ver="11">
+    Włączenie tej funkcji spowoduje dodanie dodatkowego obiektu,
+który będzie generowany co każdą warstwę. Przy przełączaniu między głowicami
+będzie on służył do przeładowania filamentu w aktualnie używanej głowicy.
+  </t>
+<t id="L_CREATE_OOZE_SHIELD" ver="11">Generuj osłonkę</t>
+<t id="H_OOZE_SHIELD" ver="11">
+    Generuje osłonkę wokół drukowanego modelu w odległości kilku mm.
+Zabezpiecza to przed grawitacyjnym kapaniem filamentu z nieaktywnej głowicy
+w przypadku druku dwiema głowicami.
+  </t>
+<t id="L_SUPPORT_EXTRUDER:" ver="11">Extruder materiału podporowego:</t>
+<t id="L_RETRACTION_ON_EXTRUDER_SWITCH:" ver="11">Retrakcja przy przełączaniu extruderów:</t>
+<t id="L_WIPE_AND_PRIME_VOLUME:" ver="11">Obszar czyszczenia:</t>
+<t id="L_VOLUME_OVERLAP:" ver="11">Pokrycie objętości:</t>
+<t id="L_ANY_EXTRUDER" ver="11">Każdy extruder</t>
+<t id="L_COOLING" ver="11">Chłodzenie</t>
+<t id="L_FAN_FULL_AT_HEIGHT:" ver="11">Max. prędkość wiatraka od:</t>
+<t id="L_MINIMUM_SPEED:" ver="11">Minimalna prędkość:</t>
+<t id="L_COOL_HEAD_LIFT" ver="11">Chłodzenie podnoszeniem głowicy</t>
+ <t id="H_COOL_HEAD_LIFT" ver="11">
+    Unosi głowicę podczas drukowania jeśli Minimalna prędkość druku jest
+większa niż czas potrzebny na ułozenie warstwy. Pomaga to wychłodzić nakładane
+warstwy.
+  </t>
+<t id="L_START_GCODE" ver="11">Początek G-Code</t>
+<t id="L_END_GCODE" ver="11">Koniec G-Code</t>
+<t id="L_BEFORE_EXTRUDER_SWITCH" ver="11">Przed przełączeniem Extrudera</t>
+<t id="L_AFTER_EXTRUDER_SWITCH" ver="11">Po przełączeniu Extrudera</t>
+<t id="L_CREATE_DEFAULT" ver="11">Kreuj Domyslny</t>
+ <t id="L_CURACODEHINTS" ver="11">
+Możesz dodać wartości G-Code, które będą uwzględnione podczas cięcia obiektu.
+
+Temperatury:
+{TEMP0}, {TEMP1}
+{BED}
+
+Prędkości:
+{Z_TRAVEL_SPEED}
+{TRAVEL_SPEED}
+
+You can also add a line only if an extruder or bed is used. Therefore add one of these codes at the beginning of the line:
+{IF_BED}
+{IF_EXT0}
+
+Use "Create Default" to get a good starting script that you can tweak to your needs.
+  </t>
+
+
+
+</translation>
+

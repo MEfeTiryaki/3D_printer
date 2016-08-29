@@ -1,0 +1,1673 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation language="Svenska" author="Bengt Erik" languageInEnglish="Swedish"  revision="11">
+<t id="M_FILE" ver="1">Fil</t>
+<t id="M_CONFIG" ver="1">Konfigurera</t>
+<t id="M_SLICER" ver="1">Skrivare</t>
+<t id="M_TEMPERATURE" ver="1">Temperatur</t>
+<t id="M_PRINTER" ver="1">Skrivare</t>
+<t id="M_HELP" ver="1">Hjälp</t>
+<t id="M_LOAD_GCODE" ver="1">Hämta gkoder</t>
+<t id="M_SHOW_WORKDIRECTORY" ver="1">Visa Arbetsmappen</t>
+<t id="M_LANGUAGE" ver="1">Språk</t>
+<t id="M_PRINTER_SETTINGS" ver="1">Skrivarinställningar</t>
+<t id="M_EEPROM_SETTINGS" ver="1">Firmware EEPROM konfiguration</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">3D Vy konfiguration</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Repetier allmänna  inställningar.</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">Test Case Slicing Parameter?7</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">ljud inställningar</t>
+<t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">Visa Extruder Temperatur</t>
+<t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">Visa Bädd Temperatur</t>
+<t id="M_SHOW_TARGET_TEMPERATURES" ver="1">Visa Mål Temperatur</t>
+<t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">Visa genomsnitts Temperaturen</t>
+<t id="M_SHOW_HEATER_POWER" ver="1">Visa Värme Effekt</t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">Autorulla Temperatur Vy</t>
+<t id="M_TIMEPERIOD" ver="1">Tidsperiod</t>
+<t id="M_TEMPERATURE_ZOOM" ver="1">Zoom</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">Genomsnitt baseras på sista:</t>
+<t id="M_30_SECONDS" ver="1">30 Sekunder</t>
+<t id="M_1_MINUTE" ver="1">1 Minut</t>
+<t id="M_2_MINUTES" ver="1">2 Minuter</t>
+<t id="M_5_MINUTES" ver="1">5 Minuter</t>
+<t id="M_10_MINUTES" ver="1">10 Minuter</t>
+<t id="M_15_MINUTES" ver="1">15 Minuter</t>
+<t id="M_30_MINUTES" ver="1">30 Minuter</t>
+<t id="M_60_MINUTES" ver="1">60 Minuter</t>
+<t id="M_CONTINUOUS_MONITORING" ver="1">kontinuerlig visning</t>
+<t id="M_DISABLE" ver="1">Koppla Från</t>
+<t id="M_EXTRUDER_1" ver="1">Extruder 1</t>
+<t id="M_EXTRUDER_2" ver="1">Extruder 2</t>
+<t id="M_HEATED_BED" ver="1">Värme Bädd</t>
+<t id="M_PRINTER_INFORMATION" ver="1">Skrivar Information</t>
+<t id="M_JOB_STATUS" ver="1">Utskrifts Status</t>
+<t id="M_SD_CARD_MANAGER" ver="1">SD-kort hanterare</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">SD-Kort hantering</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">Testfil Generator</t>
+<t id="M_SEND_SCRIPT_1" ver="1">Sänd Script 1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">Sänd Script 2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">Sänd Script 3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">Sänd Script 4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">Sänd Script 5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Repetier-Host Hemsida</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Repetier-Host Download</t>
+<t id="M_MANUAL" ver="1">Repetier-Host Manual</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Slic3r Hemsida</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Skeinforge Hemsida</t>
+<t id="M_REPRAP_WEBSITE" ver="1">RepRap Hemsida</t>
+<t id="M_REPRAP_FORUM" ver="1">RepRap Forum</t>
+<t id="M_THINGIVERSE_NEWEST" ver="1">Thingiverse Newest Things</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse Popular Things</t>
+<t id="M_ABOUT_REPETIER_HOST" ver="1">OM Repetier-Host</t>
+<t id="M_CHECK_FOR_UPDATES" ver="1">Leta efter uppdateringar</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">Koppla Från Printer</t>
+<t id="L_CONNECT_PRINTER" ver="1">Anslut Printer</t>
+<t id="M_DISCONNECT" ver="1">Koppla från</t>
+<t id="M_CONNECT" ver="1">Anslut</t>
+<t id="M_QUIT" ver="1">Stäng Repetier-Host</t>
+<t id="TAB_3D_VIEW" ver="1">3D Vy</t>
+<t id="TAB_TEMPERATURE_CURVE" ver="1">Temperaturkurva</t>
+<t id="TAB_OBJECT_PLACEMENT" ver="1">Placera Objekt</t>
+<t id="TAB_SLICER" ver="1">Slicer</t>
+<t id="TAB_GCODE_EDITOR" ver="1">G-Kod Redigerare</t>
+<t id="TAB_MANUAL_CONTROL" ver="1">Manuell Kontrol</t>
+<t id="M_EMERGENCY_STOP" ver="1">NÖDSTOPP</t>
+<t id="M_LOAD" ver="1">Hämta G kod</t>
+<t id="M_SAVE_JOB" ver="1">Spara Fil</t>
+<t id="M_RUN_JOB" ver="1">Starta utskrift</t>
+<t id="M_PAUSE_JOB" ver="1">Pausa</t>
+<t id="M_KILL_JOB" ver="1">Avbryt</t>
+<t id="M_SD_CARD" ver="1">SD Kort</t>
+<t id="M_TOGGLE_LOG" ver="1">Visa Logg</t>
+<t id="M_SHOW_FILAMENT" ver="1">Visa Fyllning</t>
+<t id="M_HIDE_FILAMENT" ver="1">Göm Fyllningl</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">Visning av fyllnig avstängd</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">Visning av fyllning På</t>
+<t id="L_LOAD_FILE" ver="1">Hämta Fil</t>
+<t id="L_IMPORT_G_CODE" ver="1">Importera G-Kod</t>
+<t id="L_SAVE_G_CODE" ver="1">Spara G-Kod</t>
+<t id="L_ERROR" ver="1">Fel</t>
+<t id="L_PAUSE_MSG" ver="1">Tryck OK För att fortsätta.
+Du kan lägga till pauser i din kod med
+@pause Eller liknande</t>
+<t id="L_DISCONNECTED" ver="1">Bortkopplad</t>
+<t id="L_UPDATING..." ver="1">Uppdaterar ...</t>
+<t id="L_SLICE_WITH" ver="1">Slice Med $1</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">Sänd Nödstopp till printer. Eventuellt behöver printern återställas för återstart</t>
+<t id="L_TRANSLATION:" ver="1">Translation</t>
+<t id="L_SCALE:" ver="1">Skala</t>
+<t id="L_ROTATE:" ver="1">Rotera</t>
+<t id="L_STL_OBJECTS" ver="9">Objekt</t>
+<t id="B_SAVE_AS_STL" ver="9">Exportera</t>
+<t id="B_REMOVE_STL_OBJECT" ver="1">Ta bort objekt</t>
+<t id="B_ADD_STL_OBJECT" ver="1">Lägg Till Objekt</t>
+<t id="B_AUTOPOSITION" ver="1">Autoposition</t>
+<t id="B_DROP_OBJECT" ver="1">Lägg  ner Objekt</t>
+<t id="B_COPY_OBJECTS" ver="1">Kopiera Objekt</t>
+<t id="B_CENTER_OBJECT" ver="1">Centrera Objekt</t>
+<t id="L_LOCK_ASPECT_RATIO" ver="1">Lås Vy vinkel</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">Stoppa Slicing</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">Inställningar</t>
+<t id="B_SETUP_SLIC3R" ver="1">Inställningar</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">Konfiguration</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">Konfiguation</t>
+<t id="B_ACTIVE" ver="1">Aktiv</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">Filament profil:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">Skrivar profil:</t>
+<t id="L_PRINT_SETTINGS" ver="1">Utskrifts profil:</t>
+<t id="L_PROFILE" ver="1">Profil:</t>
+<t id="B_SEND" ver="1">Sänd</t>
+<t id="B_SIMULATE_OK" ver="1">OK</t>
+<t id="B_STOP_MOTOR" ver="1">Stäng av Motor</t>
+<t id="B_PARK" ver="1">Till P</t>
+<t id="B_RETRACT" ver="1">Backa</t>
+<t id="B_EXTRUDE" ver="1">Extrudera?8</t>
+<t id="L_OUTPUT_PERCENT" ver="1">Fläkt% $1</t>
+<t id="B_POWER" ver="1">Av/På</t>
+<t id="B_HEAT_EXTRUDER" ver="1">Värm Extruder</t>
+<t id="B_HEAT_PRINTBED" ver="1">Värm Bädd</t>
+<t id="B_FAN" ver="1">Fläkt</t>
+<t id="B_DEBUG_ERRORS" ver="1">Fel</t>
+<t id="B_DEBUG_ECHO" ver="1">Echo</t>
+<t id="B_DRY_RUN" ver="1">Torr Kör</t>
+<t id="B_DEBUG_INFO" ver="1">Info</t>
+<t id="L_EXTRUDER" ver="1">Extruder</t>
+<t id="L_PRINTBED" ver="1">Bädd</t>
+<t id="L_SPEED_MULTIPLY" ver="1">Hastighetsreglering</t>
+<t id="L_EXTRUDE_MM" ver="1">Mata ut [mm]</t>
+<t id="L_EXTRUDER_SPEED_MM_MIN" ver="1">Matning [mm/min]</t>
+<t id="L_RETRACT_MM" ver="1">Backa Tråd [mm]</t>
+<t id="L_TEMP" ver="1">Temp.</t>
+<t id="L_CONNECTED" ver="1">Ansluten</t>
+<t id="L_HEATING_BED" ver="1">Värmer Bädd</t>
+<t id="L_HEATING_EXTRUDER" ver="1">Värmer Extruder</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">Utskriften Stoppad</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">Utskriften Pausad</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">Utskrift Klar</t>
+<t id="L_UPLOADING..." ver="1">Laddar upp ... $1%</t>
+<t id="L_PRINTING_JOB_ETA" ver="1">Skriver ETA $1</t>
+<t id="L_IDLE" ver="1">Väntar</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 Order väntar</t>
+<t id="L_EXTRUDER:" ver="1">Extruder:</t>
+<t id="L_BED:" ver="1">Bädd:</t>
+<t id="L_OFF" ver="1">Av</t>
+<t id="L_NOT_A_NUMBER" ver="1">Inte ett Nummer</t>
+<t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">Skriv ett positivt Nummer</t>
+<t id="L_NOT_AN_INTEGER" ver="1">Inte ett heltal</t>
+<t id="L_RESET_OUTPUT" ver="1">Återställ utvärde. Efter lite väntan får jag bara $1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">Får bara felmedelanden. Stoppade kommunikationen.</t>
+<t id="L_PRINTING..ETA" ver="1">Skriver...ETA $1</t>
+<t id="L_LAYER_X/Y" ver="1"> Lager $1/$2</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">Fel vid sändning av data:</t>
+<t id="L_CONNECTION_ERROR" ver="1">Kommunikations Fel</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">Seriellt COM Fel:</t>
+<t id="L_SHOW_IN_LOG" ver="1">Visa i Logg:</t>
+<t id="B_ACK" ver="1">ACK</t>
+<t id="B_AUTO_SCROLL" ver="1">Auto Scroll</t>
+<t id="B_COMMANDS" ver="1">Commandon</t>
+<t id="B_LOG_ERRORS" ver="1">Fel</t>
+<t id="B_LOG_INFO" ver="1">Info</t>
+<t id="B_LOG_WARNINGS" ver="1">Varningar</t>
+<t id="B_COPY" ver="1">Kopiera</t>
+<t id="B_CLEAR_LOG" ver="1">Rensa Logg</t>
+<t id="L_COPY" ver="1">Kopiera</t>
+<t id="L_CUT" ver="1">Klipp ut</t>
+<t id="L_NEW_TEXT" ver="1">Ny text</t>
+<t id="L_SAVE" ver="1">Spara</t>
+<t id="L_PASTE" ver="1">Klistra in</t>
+<t id="L_UNDO" ver="1">Ångra</t>
+<t id="L_REDO" ver="1">Gör igen</t>
+<t id="L_AUTO_UPDATE_PREVIEW" ver="1">Auto uppdatera förhandsgranskning</t>
+<t id="L_START_CODE" ver="1">Start Kod</t>
+<t id="L_END_CODE" ver="1">Slut Kod</t> 
+<t id="L_RUN_ON_KILL" ver="1">Kör vid Stopp</t>
+<t id="L_RUN_ON_PAUSE" ver="1">Kör vid Paus</t>
+<t id="L_SCRIPT_X" ver="1">Script $1</t>
+<t id="L_LAYER_X" ver="1">Lager $1</t>
+<t id="L_EXTRUDER_X" ver="1">Extruder $1</t>
+<t id="L_EDITOR_C" ver="1">C$1</t>
+<t id="L_EDITOR_R" ver="1">R$1</t>
+<t id="L_OVERWRITE" ver="1">Skriv över</t>
+<t id="L_INSERT" ver="1">Sätt in</t>
+<t id="L_SYNTAX" ver="1">Syntax</t>
+<t id="TAB_HELP" ver="1">Hjälp</t>
+<t id="TAB_VISUALIZATION" ver="1">Visning</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">Visa Hela Koden</t>
+<t id="L_SHOW_LAYER_RANGE" ver="1">Visa Lager område</t>
+<t id="L_SHOW_SINGLE_LAYER" ver="1">Visa enskillt Lager</t>
+<t id="L_FIRST_LAYER" ver="1">Första Lagren:</t>
+<t id="L_LAST_LAYER" ver="1">Sista lagren:</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1">Vill du verkligen radera alla inställningar för $1?</t>
+<t id="L_SECURITY_QUESTION" ver="1">Säkerhets fråga</t>
+<t id="L_ADD_PRIN TING_TIME" ver="1">Addera tidskompensation</t>
+<t id="L_BAUD_RATE" ver="1">Baud Rate:</t>
+<t id="L_CACHE_SIZE_HINT" ver="1"> Arduino 1 mottagar cache var minskad från 127 till 63 bytes!</t>
+<t id="L_CHECK_EVERY_X" ver="1">Uppdatera varje $1 sekund.</t>
+<t id="L_CONNECTION_INFO" ver="1">Skrivarinställningarna till ovan vald skrivare. De sparas efterr varje OK eller Godkännande. För att skapa en ny skrivare, Skriv bara ett nytt skrivarnamn och klicka på Godkänn.Den nya skrivaren får de senast Valda inställningarna.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">Förvald extruder Temperatur:</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">Förvald Bädd Temperatur:</t>
+<t id="L_DUMP_AREA_DEPTH" ver="1">Dump Area Djup:</t>
+<t id="L_DUMP_AREA_FRONT" ver="1">Dump Area Front:</t>
+<t id="L_DUMP_AREA_LEFT" ver="1">Dump Area Vänster:</t>
+<t id="L_DUMP_AREA_WIDTH" ver="1">Dump Area Bredd:</t>
+<t id="L_FILTER_INFO" ver="1">Du kan köra ett filterprogram efter varje slicing. Filtrering sker av G-koden som 
+skapats av slicern. Använd #in och #out för att ange in och ut filnamnen som parametrar.</t>
+<t id="L_FILTER_PATH_PARAM" ver="1">Filtrera väg och Parameter:</t>
+<t id="L_PARITY" ver="1">Koppla:</t>
+<t id="L_PARK_POSITION" ver="1">Parkerings position:</t>
+<t id="L_PORT" ver="1">Port:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">Skrivyta Djup:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1"> Skrivyta Höjd:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">Skrivyta Bredd:</t>
+<t id="L_PRINTER" ver="1">Skrivare:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">Mottagar Cache storlek:</t>
+<t id="L_STOPBITS" ver="1">Stop Bits:</t>
+<t id="L_TRANSFER_PROTOCOL" ver="1">Överförings protokoll:</t>
+<t id="L_TRAVEL_FEED_RATE" ver="1">Transport hastighet:</t>
+<t id="L_ZFEED_RATE" ver="1">Z-hastighet:</t>
+<t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">Koppla från Extrudern Efter Utskrift/Stopp</t>
+<t id="L_DISABLE_MOTORS" ver="1">Koppla från Motorer Efer Utskrift/Stopp</t>
+<t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">Koppla från Bäddvärme Efter Utskrift/Stopp</t>
+<t id="L_GO_PARK_POSITION" ver="1">Gå till Parkerings Position efter Utskrift/stopp</t>
+<t id="L_HAS_DUMP_AREA" ver="1">Har Dump Area</t>
+<t id="L_HOME_X_MAX" ver="1">Hem är vid X Max</t>
+<t id="L_HOME_Y_MAX" ver="1">Hem ÄR VID Y Max</t>
+<t id="L_HOME_Z_MAX" ver="1">Hem är vid Z Max</t>
+<t id="L_PING_PONG_MODE" ver="1">Använd Ping-Pong kommunikation (Sänd Endast Efter ok)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">Kör Filter Efter Varje Slice</t>
+<t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">Läs Extruder &amp;&amp; Bädd Temperatur</t>
+<t id="L_REMOVE_M105_REQUEST_LOG" ver="1">Tabort M105 Förfrågan från Logg</t>
+<t id="B_CANCEL" ver="1">Avbryt</t>
+<t id="B_APPLY" ver="1">Godkänn</t>
+<t id="B_OK" ver="1">OK</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">Radera denna skrivarinställning</t>
+<t id="TAB_CONNECTION" ver="1">Anslutning</t>
+<t id="TAB_PRINTER" ver="1">Skrivare</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">Skrivartyp</t>
+<t id="TAB_ADVANCED" ver="1">Avancerad</t>
+<t id="W_PRINTER_SETTINGS" ver="1">skrivarinställning</t>
+<t id="L_POST_SLICE_FILTER" ver="1">Efter slicnigs filter</t>
+<t id="L_Z_MIN" ver="1">Z-Min</t>
+<t id="W_PRINT_PAUSED" ver="1">Utskrift Pausad</t>
+<t id="L_PAUSE_HINT" ver="1">Tips: Du har möjlighet att flytta extrudern och mata ut tråd för att byta tråd eller fylla munstycket om förångning inträffat. Programmet återgår till skrivposition när utskriften återuptas.</t>
+<t id="B_CONTINUE_PRINTING" ver="1">Fortsätt utskrift</t>
+<t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Repetier-Host Updateringskontroll</t>
+<t id="B_DOWNLOAD" ver="1">Download</t>
+<t id="B_REMIND_ME_LATER" ver="1">Påminn mig senare</t>
+<t id="B_SKIP_VERSION" ver="1">Avstå denna version</t>
+<t id="L_AVAILABLE_VERSION" ver="1">Version tillgänglig:</t>
+<t id="L_INSTALLED_VERSION" ver="1">Version Installerad:</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">Information om Updatering</t>
+<t id="L_NO_NEW_UPDATES" ver="1">Inga updateringar tillgängliga.
+Du avänder redan den senaste versionen.</t>
+<t id="L_UPDATE_STATUS" ver="1">Updatera Status</t>
+<t id="W_SLICING_INFO" ver="1">Slicing Info</t>
+<t id="L_ACTION:" ver="1">Gör:</t>
+<t id="L_DURATION:" ver="1">arbetad tid:</t>
+<t id="L_SLICER:" ver="1">Slicer:</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">Starta utskrift efter Slicing</t>
+<t id="W_ABOUT_REPETIER_HOST" ver="1">Om Repetier-Host</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">Licens och bibliotek</t>
+<t id="L_REPETIER_INFO" ver="1">Detta program har utvecklats för att styra RepRap liknande 3D-skrivare. Den fungerar bäst med Repetier-Firmware, som stöder alla funktioner. Annan firmware som Marlin, Teacup, Sprinter och 5D GCode interpreter ska fugera med korrekta inställningar.</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">Kopiera markerade objekt</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">Antal kopior:</t>
+<t id="L_AUTO_POSITION_AFTER_COPY" ver="1"> Autopositionera efter tillagt objekt</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">Skriver Lager $1 av $2</t>
+<t id="L_BUILDING_PRINT_JOB..." ver="1">Bygger utskrift...</t>
+<t id="L_PRINTING..." ver="1">Skriver...</t>
+<t id="L_JOB_KILLED" ver="1">Utskrift stoppad</t>
+<t id="L_PRINTJOB_FINISHED_AT" ver="1">utskrift avslutad vid $1</t>
+<t id="L_PRINTING_TIME:" ver="1">Utskriftstid:$1</t>
+<t id="L_LINES_SEND:X" ver="1">rader sända:$1</t>
+<t id="L_FINISHED_IN" ver="1">Avklarad efter $1</t>
+<t id="L_TIME_H:" ver="1">$1h:</t>
+<t id="L_TIME_M:" ver="1">$1m:</t>
+<t id="L_TIME_S" ver="1">$1s</t>
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">Firmware EEPROM inställningar</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">Skapad G-Kod Hittas Ej</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">Förväntat Filnamn och Plats</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">Kunde inte hitta skapade G-kod filen.
+Troliga orskaer:
+- slicngen blev fel och avslutades inte. Kontrollera Loggen.
+- Slicern sparade fien med ett oväntat filnamn.</t>
+<t id="B_CLOSE" ver="1">stäng</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Repetier Inställningar</t>
+<t id="L_BEHAVIOUR" ver="1">Betenende</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">Filer och mappar</t>
+<t id="L_GUI" ver="1">GUI</t>
+<t id="L_INFO_WORKDIR" ver="1">I arbetsmappen sparas loggfil och tillfälliga filer för slicing. Om Loggning är valt sparas filen
+ repetier.log efter att programmet avslutas. omstart av programmet raderar föregående Loggfil!
+Loggfien innehåller all kommunikation med skrivaren, Även icke visad kommunikation,
+ Nya loggningsinställningar aktiveras efter omstart.</t>
+<t id="L_LOG_SESSION" ver="1">Logga sessionen</t>
+<t id="REDUCE_TOOLBAR_SIZE" ver="1">Minska verktygsfältets storlek</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">Stäng av Kvalitets Reduktion</t>
+<t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">Befintlig arbetsmapp krävs!</t>
+<t id="L_WORKDIR:" ver="1">Arbets mapp:</t>
+<t id="B_BROWSE" ver="1">Bläddra...</t>
+<t id="L_SELECT_WORKING_DIRECTORY" ver="1">Välj Arbetsmapp</t>
+<t id="L_PAST_60_MINUTES" ver="1">Senaste 60 Minuterna</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">3D Visnings inställningar</t>
+<t id="L_COLORS" ver="1">Färger</t>
+<t id="L_EDITOR" ver="1">Redigerare</t>
+<t id="L_VISUALIZATION" ver="1">Visning:</t>
+<t id="L_AMBIENT_COLOR" ver="1">skuggad färg:</t>
+<t id="L_BACKGROUND" ver="1">Bakgrund:</t>
+<t id="L_DIFFUSE_COLOR" ver="1">Diffusa färger:</t>
+<t id="L_DRAW_METHOD" ver="1">Ritmetod:</t>
+<t id="L_EDGES" ver="1">Kanter:</t>
+<t id="L_EXTRUDER_X:" ver="1">Extruder $1:</t>
+<t id="L_FACES" ver="1">Ytor:</t>
+<t id="L_FILAMENT_VISUALIZATION_INFO" ver="1">Formen på förhandsgranskningen är beräknad antingen från lagerthöjd/bredd/tjocklek, Eller från
+tråd diameter/ Bredd/tjocklek och E värden i G-koden. Den andra versionen ger bättre resulat om lagerhöjden ändras,Vilket kan ske i nyare Skeinforge versioner.</t>
+<t id="L_FILAMENT_VISUALIZATION" ver="1">Förhandsvy:</t>
+<t id="L_HOT_FILAMENT" ver="1">Fortfarande varmt material:</t>
+<t id="L_HOT_FILAMENT_LENGTH" ver="1">Längd på varmt material:</t>
+<t id="L_LIGHT_X" ver="1">Belys $1</t>
+<t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">Objekt utanför skrivytan:</t>
+<t id="L_PRINTER_BASE" ver="1">Bädd:</t>
+<t id="L_SELECTED_FACES" ver="1">Markerade Ytor:</t>
+<t id="L_SELECTED_FILAMENT" ver="1">Markerad Fyllning:</t>
+<t id="L_SPECULAR_COLOR" ver="1">Reflektions Färg:</t>
+<t id="L_WIDTH_OVER_THICKNESS" ver="1">Bredd/Tjocklek:</t>
+<t id="L_X_DIRECTION" ver="1">X Riktning:</t>
+<t id="L_Y_DIRECTION" ver="1">Y Riktning:</t>
+<t id="L_Z_DIRECTION" ver="1">Z Riktning:</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">Förhandsvisning  Av</t>
+<t id="L_ENABLE_LIGHT" ver="1">Använd ljus</t>
+<t id="L_SHOW_EDGES" ver="1">Visa kanter</t>
+<t id="L_SHOW_FACES" ver="1">Visa Ytor</t>
+<t id="L_SHOW_PRINTBED" ver="1">Visa skrivyta</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">pulsera om objekt är oskrivbart</t>
+<t id="TAB_GENERAL" ver="1">Allmän</t>
+<t id="TAB_FILAMENT" ver="1">Fyllning</t>
+<t id="TAB_MODEL" ver="1">Modell</t>
+<t id="TAB_LIGHTS" ver="1">Ljus</t>
+<t id="L_LAYER_HEIGHT" ver="1">Lager Höjd:</t>
+<t id="L_FILAMENT_DIAMETER" ver="1">Tråddiameter:</t>
+<t id="L_DRAW_METHOD_AUTODETECT" ver="1">Autodetektera Bästa</t>
+<t id="L_DRAW_METHOD_VBOS" ver="1">VBOs (snabbaste)</t>
+<t id="L_DRAW_METHOD_ARRAYS" ver="1">Arrays (Medium)</t>
+<t id="L_DRAW_METHOD_IMMEDIATE" ver="1">omgående (långsammast)</t>
+<t id="W_JOB_STATUS" ver="1">Utskrift Status</t>
+<t id="L_ETA:" ver="1">ETA:</t>
+<t id="L_FINISH_TIME:" ver="1">Arbetad tid:</t>
+<t id="L_LINES_SEND:" ver="1">Rader Sända:</t>
+<t id="L_START_TIME:" ver="1">Start Tid:</t>
+<t id="L_STATUS:" ver="1">Status:</t>
+<t id="L_TOTAL_LINES:" ver="1">Totalt antal rader:</t>
+<t id="L_NO_JOB_DEFINED" ver="1">Ingen utskrift definierad</t>
+<t id="L_RUNNING..." ver="1">Jobbar ...</t>
+<t id="L_FINISHED" ver="1">Klar</t>
+<t id="L_ABORTED" ver="1">avvisad</t>
+<t id="W_PRINTER_INFO" ver="1">Skrivar Information</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">Anslutnings Information</t>
+<t id="L_PRINTER_DATA" ver="1">Skrivar Data</t>
+<t id="L_BYTES_SEND:" ver="1">Bytes Sända:</t>
+<t id="L_ERRORS_RECEIVED:" ver="1">Felmeddelande mottagna:</t>
+<t id="L_FIRMWARE:" ver="1">Firmware:</t>
+<t id="L_FIRMWARE_URL:" ver="1">Firmware URL:</t>
+<t id="L_MACHINE_TYPE:" ver="1">Maskin Typ:</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">Antal Extrudrar:</t>
+<t id="L_PROTOCOL:" ver="1">Protokoll:</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">Inget giltigt 8.3 filnamn.</t>
+<t id="W_SD_CARD_UPLOAD" ver="1">SD-kort uppladdning</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">Uppladdat filnamn:</t>
+<t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">Ta med Avslutskommandon</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">Ta med "Start" och "slut" Koder</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">Ladda upp extern fil</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">ladda upp nuvarande G-kod</t>
+<t id="L_FILE:" ver="1">Fil:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">Spara G-kod för direktutskrift</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">Denna spara funktion är avsedd att skapa G-koder som kan köras från SD-Kort. Därför kan den lägga till stort och avslutskoder tillsamans med de vanliga avslutskommandona som utförs vid direktutskrift från repetier host. Alla kommentarer och värdkommandon kommer att tas bort!Om du bara vill spara din G-kod från redigeraren, använd Ikonen där.</t>
+<t id="L_SAVE_AS_BINARY" ver="1">Spara i Binärt format (för repetier-Firmware)</t>
+<t id="B_SAVE" ver="1">Spara</t>
+<t id="W_SD_CARD_MANAGER" ver="1">SD Kort Hanterare</t>
+<t id="L_FILENAME" ver="1">Fil Namn</t>
+<t id="L_SIZE" ver="1">Storlek</t>
+<t id="L_UPLOAD_FILE" ver="1">Ladda upp Fil</t>
+<t id="L_DELETE_FILE" ver="1">Radera Fil</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">Skriv ut Vald fil/Fortsätt pausad utskrift</t>
+<t id="L_STOP_UPLOAD" ver="1">Pausa/Stoppa Pågående SD Utskrift</t>
+<t id="L_MOUNT_SD_CARD" ver="1">Montera SD Kort</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">Avmontera SD kort</t>
+<t id="L_PRINT_FINISHED" ver="1">Utskrift avslutad</t>
+<t id="L_UPLOAD_FINISHED" ver="1">Uppladdning avslutad</t>
+<t id="L_SD_PRINTING..." ver="1">SD Utskrift ...</t>
+<t id="L_UPLOAD_FAILED" ver="1">Uppladdning misslyckades</t>
+<t id="L_FILE_DELETED" ver="1">Filen Raderad</t>
+<t id="L_DELETE_FAILED" ver="1">Radering Misslyckades</t>
+<t id="L_UPLOADING_FILE..." ver="1">Laddar upp Fil ...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">Din Firmware kan inte radera filer eller hantera kommandot.</t>
+<t id="L_PRINT_ABORTED" ver="1">utskrift avvisad</t>
+<t id="L_PRINT_PAUSED" ver="1">Utskrift Pausad</t>
+<t id="L_REMOVE_SD_CARD" ver="1">Du kan nu ta bort SD kortet.</t>
+<t id="L_INFORMATION" ver="1">Information</t>
+<t id="L_REALLY_DELETE_X" ver="1">Verkligen Radera $1</t>
+<t id="SOUND_CONFIGURATION" ver="1">Ljud inställningar</t>
+<t id="L_SOUNDS" ver="1">Ljud</t>
+<t id="L_ERROR_SOUND" ver="1">Ljud vid Fel</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">Ljud vid utskrift klar</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">Ljud vid utskrifts paus</t>
+<t id="L_SOUND_COMMAND_SOUND" ver="1">Ljud vid @sound komando</t>
+<t id="L_FILE:X" ver="1">Fil:$1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">Välj WAV Att spela</t>
+<t id="W_SLIC3R_SETUP" ver="1">Slic3r Setup</t>
+<t id="L_SLIC3R_SETUP" ver="1">Slic3r Setup</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="6">Lämna tom för att använda en medlevererad eller system version.</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Slic3r Konfigurations mapp</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Slic3r Executable</t>
+<t id="L_SLIC3R_INFO" ver="1">Med hjälp av dessa inställningar kan du använda olika versioner av Slic3r. Du kan hämta nya versioner från http://www.slic3r.org Minimum version som krävs är 0.9.0. Lämna tom för att helt enkelt använda medlevererad version.</t>
+<t id="L_SLIC3R_BLANK_CONFIG" ver="1">Lämna tom för att använda antagen plats.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Marlin Firmware EEPROM inställningar</t>
+<t id="L_M_ACCELERATION" ver="1">Acceleration:</t>
+<t id="L_M_ADVANCED_VARIABLES" ver="1">Avancerade inställnigar:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">Homing Offset:</t>
+<t id="L_M_MAX_ACCELERATION" ver="1">Maximal Acceleration [mm/s²]:</t>
+<t id="L_M_MAX_FEEDRATE" ver="1">Maximal Matning [mm/s]:</t>
+<t id="L_M_MAX_XY_JERK" ver="1">Maximal X-Y jerk [mm/s]</t>
+<t id="L_M_MAX_Z_JERK" ver="1">Maximal Z jerk [mm/s]</t>
+<t id="L_M_MIN_FEEDRATE" ver="1">Minmum matning [mm/s]</t>
+<t id="L_M_MIN_SEGMENT_TIME" ver="1">Minimum segment tid [ms]</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">Min transport hastighet [mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">PID inställningar:</t>
+<t id="L_M_STEPS_PER_MM" ver="1">Steps per mm:</t>
+<t id="L_M_RETRACT_ACCELERATION" ver="1">Retract Acceleration:</t>
+<t id="B_M_LOAD" ver="1">Ladda om konfiguration</t>
+<t id="B_M_RESTORE" ver="1">Återställ till fabriks inställningar</t>
+<t id="B_M_SAVE" ver="1">Spara till EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">Inställningar sparade till konfiguratin som körs.
+vill du skriva in dem i EEPROM?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">Inställningar sparade</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">Skriva återvunna inställningar i EEPROM?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">Fabriksinställningar återställda</t>
+<t id="L_SLICING_STL_FILE..." ver="1">Slicing STL File ...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">Senaste vald slicig pågår fortfarande. Ny Slicing är avbruten.</t>
+<t id="L_SKEIN_KILLED" ver="1">$1 slicing Avbruten på användarens begäran.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Skeinforge/SFACT inställningar</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Skeinforge Applikation:</t>
+<t id="L_SKEIN_CRAFT" ver="1">Skeinforge craft:</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">Välj proflens undermapi skeinforge katalogen. Detta är normalt HOME/.skeinforge/profiles. För vissa speciella versioner som SFACT kan sökvägen variera.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">Profiles Directory:</t>
+<t id="L_SKEIN_PYPY" ver="1">PyPy:</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">Om du har pypy installerad, Kommer Skeinforge slices bli färdiga 3-4 gånger snabbare. Om du inte har PYPY installerat,Lämna tomt så kommmer Phyton interpreter användas instället. Du kan hämta senaste PYPY på http://www.pypy.org/</t>
+<t id="L_SKEIN_PYTHON" ver="1">Python Interpreter:</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">The working directory determines, where SFACT will store profiles!</t>
+<t id="L_SKEIN_WORKING_DIRECTORY" ver="1">Working Directory:</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Skeinforge Application</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Python Interpreter</t>
+<t id="L_SKEIN_OPEN_CRAFT" ver="1">Skeinforge Craft Application</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">Pypy Python Interpreter</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">Välj profil mapp</t>
+<t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">Välj arbets mapp</t>
+<t id="L_FEEDRATE:" ver="1">Matning:</t>
+<t id="L_FLOWRATE:" ver="1">Flöde:</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">Kunde inte ansluta till uppdaterings servern!</t>
+<t id="L_MOVE_CAMERA" ver="1">Flytta kamera</t>
+<t id="L_MOVE_OBJECT" ver="1">Flytta Objekt</t>
+<t id="L_MOVE_VIEWPOINT" ver="1">Byt kamera vinkel</t>
+<t id="L_RESET_VIEW" ver="1">Återställ vy</t>
+<t id="L_ROTATE" ver="1">Rotera</t>
+<t id="L_TOP_VIEW" ver="1">Topp vy</t>
+<t id="T_ZOOM_VIEW" ver="1">Zoom</t>
+<t id="T_CLEAR_OBJECTS" ver="1">Rensa</t>
+<t id="L_DEBUG_OPTIONS" ver="2">Felsöknings meny</t>
+<t id="L_X_MIN:" ver="3">X Min</t>
+<t id="L_X_MAX:" ver="3">X Max</t>
+<t id="L_Y_MIN:" ver="3">Y Min</t>
+<t id="L_Y_MAX:" ver="3">Y Max</t>
+<t id="L_BED_LEFT:" ver="3">Bädd vänster:</t>
+<t id="L_BED_FRONT:" ver="3">Bädd Front:</t>
+<t id="L_SHAPE_INFO" ver="3">Min och max Värdena bestämmer möjliga storlek på utskrifts koordinaterna. Dessa värden kan vara Negativa och utanför skrivytan. Bädd vänster/front anger koordinaterna där bädden i sig startar. Genom att ändra Min/max värdena kan du även ändra läget på centrum av bädden, Om det stöds av firmware.</t>
+<t id="L_SELECTION_BOX" ver="3">Val fönster:</t>
+<t id="L_FILAMENT_NONE" ver="3">Ingen/samma extruder 1</t>
+<t id="L_REALLY_QUIT" ver="3">Utskrift ej färdig. Avsluta ändå?</t>
+<t id="M_DONATE" ver="3">Donera via PayPal</t>
+<t id="L_FAN" ver="4">Kylning</t>
+<t id="L_HOME_X:" ver="4">X Hem pos:</t>
+<t id="L_HOME_Y:" ver="4">Y Hem pos:</t>
+<t id="L_HOME_Z:" ver="4">Z Hem Pos:</t>
+<t id="L_MIN" ver="4">Min</t>
+<t id="L_MAX" ver="4">Max</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">Skrivaren föreslår en paus.</t>
+<t id="L_CREATE_FOLDER" ver="4">Skapa ny mapp</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">Skriv in ett mapp namn i 8.3 format:</t>
+<t id="L_UPLOADING_TIME" ver="4">Uppladdnings tid: $1</t>
+<t id="L_FILAMENT_POS" ver="4">Fil: $1</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">Tansport visning avstängd</t>
+<t id="M_HIDE_TRAVEL" ver="4">Dölj transport</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">Transport visning På</t>
+<t id="M_SHOW_TRAVEL" ver="4">Visa transport</t>
+<t id="L_TRAVEL_MOVES:" ver="4">Transport rörelser:</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">stäng av rörelse visning</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">Antal Extrudrar:</t>
+<t id="L_NEW_FOLDER" ver="5">Ny Mapp</t>
+<t id="L_USE_PARALLEL_PROJECTION" ver="5">använd parallell projektion</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">använd Röd/Gröna av/på knappar (kräver omstart)</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">hittar inte Slic3r.</t>
+<t id="L_ANALYSING_STL" ver="6">Analserar STL fil ...</t>
+<t id="L_SLICING_STL" ver="6">Slicing STL fil ...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">Hittar inte Pypy eller Python interpreter.</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">Hittar inte Skeinforge craft.</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">Hittar inte Python interpreter.</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">Hittar inte Skeinforge.</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">Hittar inte Skeinforge/SFACT profil mapp.</t>
+<t id="B_REFRESH_PORTS" ver="6">Ladda om portar</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">Skrivbar Höjd:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">Skrivbar Radie:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">Klassisk skrivare</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">Klassisk skrivare (med dump area)</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Rostock skrivare (circulär skrivartyp)</t>
+<t id="L_CORRECT_NORMALS" ver="7">Använd korrekta normaler (ser bättre ut men kräver mer minne)</t>
+<t id="L_WARNING" ver="8">Varning</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">Några värmare är fortfarande på! Vill du stänga av dem?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">Minst ett objekt är utanför skrivområdet. Ta bort slicing?</t>
+<t id="L_CNC_ROUTER" ver="8">CNC Router</t>
+<t id="L_SLIC3R_VERSION" ver="8">Slic3r Version</t>
+<t id="L_MODEL_ERRORS" ver="9">Modell Fel:</t>
+<t id="L_REPAIR" ver="9">Reparera</t>
+<t id="L_SPLIT" ver="9">Dela</t>
+<t id="L_YES" ver="9">Ja</t>
+<t id="L_NO" ver="9">Nej</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9">Ett eller flera objekts filer är ändrade.\r\n ladda om objekten?</t>
+<t id="L_FILES_CHANGED" ver="9">Filer Ändrade</t>
+<t id="L_INNER_FACES" ver="9">Innre Ytor:</t>
+<t id="L_BACKGROUND_TOP" ver="9">Bakgrund topp:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">Bakgrund botten:</t>
+<t id="L_PRINTER_FRAME" ver="9">Skrivar Ram:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">Isometrisk vy</t>
+<t id="L_BOTTOM_VIEW" ver="9">Botten Vy</t>
+<t id="L_LEFT_VIEW" ver="9">Vänster Vy</t>
+<t id="L_RIGHT_VIEW" ver="9">Höger Vy</t>
+<t id="L_FRONT_VIEW" ver="9">Front Vy</t>
+<t id="L_BACK_VIEW" ver="9">Baksides Vy</t>
+<t id="M_VIEW" ver="9">Visa</t>
+<t id="M_SHOW_EDGES" ver="9">visa Kanter</t>
+<t id="M_SHOW_FACES" ver="9">Visa Ytor</t>
+<t id="L_ANA_MODIFIED" ver="9">Modifierad:</t>
+<t id="L_ANA_MANIFOLD" ver="9">Manifold:</t>
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9">Intersecting triangles:</t>
+<t id="L_ANA_NORMALS" ver="9">Normaler:</t>
+<t id="L_ANA_LOOP_EDGES" ver="9">Sammanbundna kanter:</t>
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9">Tätt anslutna kanter:</t>
+<t id="L_ANA_VERTICES" ver="9">Punkter:</t>
+<t id="L_ANA_EDGES" ver="9">Kanter:</t>
+<t id="L_ANA_FACES" ver="9">Ytor:</t>
+<t id="L_ANA_SHELLS" ver="9">Skal:</t>
+<t id="L_ANA_ORIENTED" ver="9">Riktad</t>
+<t id="L_ANA_NOT_ORIENTED" ver="9">Inte riktad</t>
+<t id="M_TOOLS" ver="9">verktyg</t>
+<t id="M_BELT_CALCULATOR" ver="9">Rem Kalkylator</t>
+<t id="M_LEADSCREW_CALCULATOR" ver="9">Skruv kalkylator</t>
+<t id="L_MOTOR_STEP_ANGLE" ver="9">Motorns stegvinkel</t>
+<t id="L_DRIVER_MICROSTEPPING" ver="9">Mjukvaru Mikrostegning</t>
+<t id="L_BELT_PITCH" ver="9">Rem deling (pitch)</t>
+<t id="L_TOOTH_COUNT" ver="9">Antal tänder</t>
+<t id="B_CALCULATE" ver="9">Beräkna</t>
+<t id="L_STEPS_PER_MM" ver="9">Antal steg per mm</t>
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9">Tand räkning måste vara "int"</t>
+<t id="L_LEADSCREW_PITCH" ver="9">Gängstigning</t>
+<t id="L_GEAR_RATIO" ver="9">Utväxling</t>
+<t id="L_SERIAL_CONNECTION" ver="9">Seriell Aslutning</t>
+<t id="L_VIRTUAL_CONNECTION" ver="9">Virtuell skrivare</t>
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9">Repetier-Server</t>
+<t id="L_CONNECTOR" ver="9">Kopplad;</t>
+<t id="L_DISABLED" ver="9">Avstängd</t>
+<t id="L_DTR_LOW_HIGH" ver="9">DTR Hög->Låg</t>
+<t id="L_DTR_LOW_HIGH_LOW" ver="9">DTR Låg->Hög->Låg</t>
+<t id="L_DTR_TOGGLE" ver="9">DTR toggle</t>
+<t id="L_RESET_ON_CONNECT" ver="9">Återställ vid anslutning</t>
+<t id="L_RESET_ON_EMERGENCY" ver="9">Återställ vid Nödstopp</t>
+<t id="L_SEND_EMERGENCY_CMD" ver="9">Sänd Nöd kommando</t>
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">sänd nöd kommando + DTR Hög->Låg</t>
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Sänd nödkommando och återanslut</t>
+<t id="L_FILE_ASSOCIATIONS" ver="9">Fil Associationer</t>
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9">Associera filändelser</t>
+<t id="L_CONNECTION_FAILED" ver="9">Anslutningen misslyckades P.g.a följande fel: $1. Kontrollera at skrivaren är ansuten, på och med rätt inställningar. Öppna Skrivar Inställningar?</t>
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9">Tillåt parallell läge i Topp vy</t>
+<t id="L_RESET_DEFAULTS" ver="9">Återställ standardvärden</t>
+<t id="L_REMOVED_DEGENERATED" ver="9">Tog bort felaktiga Trianglar:</t>
+<t id="L_REMOVED_ISOLATED" ver="9">Tog bort isolerade Trianglar:</t>
+<t id="L_REMOVED_DOUBLE" ver="9">Tog bort dubblerade trianglar:</t>
+<t id="L_STARTING_ANALYSER" ver="9">Startar Objekt analysering ...</t>
+<t id="L_ANALYSER_FINISHED" ver="9">Analys Klar.</t>
+<t id="L_LOADING_3D_FAILED" ver="9">Laddnnig av 3D fil $1 Misslyckades.</t>
+<t id="L_OBJECT_INFORMATIONS" ver="9">Objekt information</t>
+<t id="L_MINIMUM:" ver="9">Minimum:</t>
+<t id="L_MAXIMUM:" ver="9">Maximum:</t>
+<t id="L_SIZE:" ver="9">Storlek:</t>
+<t id="L_VOLUME:" ver="9">Volym:</t>
+<t id="L_SURFACE:" ver="9">Yta:</t>
+<t id="L_DIMENSIONS:" ver="9">Dimmensioner:</t>
+<t id="L_SPLIT_OBJECT" ver="9">Dela objekt</t>
+<t id="L_FIX_NORMALS" ver="9">Fixera normaler</t>
+<t id="M_FIT_PRINTER" ver="9">Anpassa till Skrivare</t>
+<t id="M_FIT_OBJECTS" ver="9">Anpassa Objekt</t>
+<t id="IMPORTING_1" ver="9">Importerar $1</t>
+<t id="L_LOADING..." ver="9">Laddar ...</t>
+<t id="L_INTERSECTION_TESTS" ver="9">letar korsande linjer</t>
+<t id="L_FIXING_NORMALS" ver="9">Fixar normaler</t>
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Fixed collinear triangles:</t>
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9">Korrigerade normal orientering:</t>
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Objekt Is manifold.</t>
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Objekt Är Icke-manifold. Slicing kanke ger fel resultat. Var god reparera objektfilen först.</t>
+
+<t id="L_SHOW_COMPASS" ver="9">Visa Kompass</t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Är du säker på att du vill ta bort jobb $1?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">Spara status lyckades</t>
+<t id="M_POSPONED_JOBS" ver="10">senarelaggda jobb</t>
+<t id="M_RESUME_JOB" ver="10">Resume</t>
+<t id="M_POSTPONE_JOB" ver="10">Senarelägg Jobb</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">senarelaggda Print Jobb</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">Återuppta Jobb</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">Radera Jobb</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">Ändra Namn</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">Jobb Namn</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10"> vänligen Namnge Jobbet</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">Arbetet kommer att sparas såfort nuvarande lager är färdigt. Du kan även spara i förtid, eller återuppta utskriften.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">&amp;Förtidspara</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">&amp;Återuppta</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Senarelägg utskrift</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Visa Printer ID Vy</t>
+<t id="L_PRINTER_ID" ver="10">Printer ID</t>
+<t id="L_BGCOLOR:" ver="10">Bakgrundsfärg:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Ändra Printer ID</t>
+<t id="L_ANAYLSING" ver="10">Analyserar</t>
+<t id="L_NOT_TESTED" ver="10">Ej testad</t>
+<t id="L_CONNECTOR:" ver="10">Kontakt:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normal korrection är ej möjlig för non-manifold rutnät.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Bäddhöjdskarta</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">skapa höjdkarta</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">Mät höjder</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">Skicka till urklipp</t>
+<t id="L_SCAN_AREA" ver="10">Scanna ytan</t>
+<t id="L_SCAN_RESULTS" ver="10">Scanings Resultat</t>
+<t id="L_X_POINTS:" ver="10">X punkter:</t>
+<t id="L_Y_POINTS:" ver="10">Y punkter:</t>
+<t id="L_Z_MIN:" ver="10">Z min:</t>
+<t id="L_Z_MAX:" ver="10">Z max:</t>
+<t id="L_Z_AVG:" ver="10">Z genomsnitt:</t>
+<t id="L_Z_CENTER:" ver="10">Z center</t>
+<t id="L_CUT_FACES" ver="10">Klipp ut Objekten</t>
+<t id="L_CUT_POSITION" ver="10">Position</t>
+<t id="L_CUT_INCLINATION" ver="10">Stigning</t>
+<t id="L_CUT_AZIMUTH" ver="10">Azimuth</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">Antal importerade Objekt</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">Objekten är måttsatta i millimeter</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">Objeten är måttsatta i Tum</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">Objekten är måttsatta i Fot</t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">Objekten är måttsatta i meter</t>
+<t id="B_RESET" ver="10">Återställ</t>
+<t id="L_SLIC3R_INFO2" ver="10">Slic3r är ett separtat externt program som även kan startas separat. För mer information, besök: http://www.slic3r.org</t>
+<t id="L_SKEINFORGE_INFO" ver="10">Skeinforge är ett separtat externt program som även kan startas separat. För mer information, besök: http://fabmetheus.crsndoo.com/</t>
+<t id="L_PRINT_SETTINGS:" ver="10">utskrifts inställningar:</t>
+<t id="L_PRINTER_SETTINGS:" ver="10">Skrivar inställningar:</t>
+<t id="L_OVERRIDE_SLIC3R_SETTINGS" ver="10">Åsidosätt Slic3r's inställningar</t>
+<t id="B_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="10">Kopiera utskriftsinställningar som ska åsidosättas</t>
+<t id="L_ENABLE_SUPPORT" ver="10">Tillåt stödstruktur</t>
+<t id="L_ENABLE_COOLING" ver="10">tilåt kylning</t>
+<t id="L_LAYER_HEIGHT:" ver="10">Skikttjocklek:</t>
+<t id="L_INFILL_DENSITY" ver="10">Ifyllnads densitet</t>
+<t id="L_INFILL_ANGLE" ver="10">Ifyllnadens vinkel</t>
+<t id="L_INFILL_PATTERN:" ver="10">mönster på ifyllning:</t>
+<t id="L_SOLID_INFILL_PATTERN:" ver="10">Mönster på solid ifyllning:</t>
+<t id="L_SHOW_EXTRUDER" ver="10">Visa Extruder</t>
+<t id="L_SHOW_BED" ver="10">Visa Bädd</t>
+<t id="L_SHOW_OUTPUT" ver="10">Visa reultatet</t>
+<t id="L_SHOW_TARGET_TEMPERATURES" ver="10">Mål Temperatur</t>
+<t id="L_SHOW_AVERAGE_TEMPERATURES" ver="10">Genomsnitts Temperatur</t>
+  <t id="L_NOT_VALID_SD_FILENAME" ver="10">Filnamnet innehåller otillåtna tecken eller är för långt. Använd ej mer än 26 tecken.</t>
+  <t id="B_ADD_SLICER" ver="10">Lägg till Slicer</t>
+  <t id="B_DELETE" ver="10">Radera</t>
+  <t id="L_SLICER" ver="10">Slicer</t>
+  <t id="L_CONFIGURATION:" ver="10">Konfiguration:</t>
+  <t id="L_SETUP" ver="10">Inställning</t>
+  <t id="L_SLICER_CONFIGURATIONS" ver="10">Slicer Inställningar</t>
+  <t id="L_NAME" ver="10">Namn</t>
+  <t id="L_SLICER_MANAGER" ver="10">Slicer hanteraren</t>
+  <t id="L_ASK_LOAD_GCODE" ver="10">Slicer skapade en ny g-code fil. Skall jag ladda den?</t>
+  <t id="L_QUESTION" ver="10">Fråga</t>
+  <t id="L_FILE_TYPES:" ver="10">Filtyp:</t>
+  <t id="L_WATCHDIRECTORY_INFO" ver="10">Siktrutan visar fityperna som presenteras ovan. Separera dubbletter med ett semikolon såhär &quot;g;gcode&quot;. Every printer has it's own directory setting, which gets watched. If a file is new or changed, when you switch to Repetier-Host it will show the files and highlight them for fast import.</t>
+  <t id="B_LOAD" ver="10">Ladda</t>
+  <t id="L_CHANGED" ver="10">Ändrad</t>
+  <t id="L_NEW" ver="10">Ny</t>
+  <t id="L_DIRECTORY:" ver="10">Mapp:</t>
+  <t id="L_ACTION" ver="10">Gör?</t>
+  <t id="L_FILE" ver="10">Fil</t>
+  <t id="L_STATUS" ver="10">Status</t>
+  <t id="L_SEND_ETA_DISPLAY" ver="10">Sänd ETA till printerdisplay</t>
+  <t id="L_ETA_SHORT$1" ver="10">ETA $1</t>
+  <t id="L_ETE_SHORT$1" ver="10">ETE $1</t>
+  <t id="L_CACHING..." ver="10">Caching ... $1%</t>
+  <t id="M_MAKE_SCREENSHOT" ver="10">Spara skärmbild</t>
+  <t id="PNG_FILTER" ver="10">PNG-bilder|*.png</t>
+  <t id="L_INVALID_FILENAME" ver="10">Otillåtet filnamn.</t>
+  <t id="L_EEPROM_IMPORT_FAILED" ver="10">Hämtning av eeprom data misslyckades. Felaktigt filformat.</t>
+  <t id="L_EXPORT_EEPROM_DATA" ver="10">Skicka EEPROM Data</t>
+  <t id="L_IMPORT_EEPROM_DATA" ver="10">Hämta EEPROM Data</t>
+  <t id="L_TIME_H" ver="10">$1h </t>
+  <t id="L_TIME_M" ver="10">$1m </t>
+  <t id="L_SHOW_OUTPUT_EXTRUDER" ver="10">Extruder värme på</t>
+  <t id="L_SHOW_OUTPUT_BED" ver="10">Bädd värme på</t>
+  <t id="M_SHOW_BED_POWER" ver="10">Visa bädd effekt</t>
+  <t id="L_ENABLE_ANTI_ALIAS" ver="10">Tillåt anti-aliasing om möjligt (Saktar ner visningshastigheten, Omstart krävs)</t>
+  <t id="L_MODEL_ERRORS_EDGE:" ver="10">Modell felaktigheter (kant):</t>
+  <t id="L_CUT_FACES:" ver="10">Klipp Ytor:</t>
+  <t id="L_NOT_MANIFOLD_INFO" ver="11">Objecet är inte manifold. Detta betyder helt enkelt att det inte är vattentätt.Detta brukar ge problem vid slicing, som ger oönskade resultat. Vi uppmanar dig att reparera filen. En gratis reparationstjänst är: https://netfabb.azurewebsites.net </t>
+  <t id="L_EXPERT_MODE" ver="11">Expert Läge</t>
+  <t id="L_CURAENGINE_EXECUTABLE" ver="11">CuraEngine Executable</t>
+  <t id="L_CURAENGINE_INFO" ver="11">CuraEngine är ett separat , externt program utvecklat av David Braam. För mer information, besök https://www.ultimaker.com</t>
+  <t id="L_CURAENGINE_NOT_FOUND" ver="11">Hittar inte CuraEngine .</t>
+  <t id="L_ANY_EXTRUDER" ver="11">Vilken Extruder som helst</t>
+  <t id="L_PUSH_MESSAGES" ver="11">Push-Messages</t>
+  <t id="L_INFORMER_ACTIVE" ver="11">Activera Push-Messages</t>
+  <t id="L_INFORMER_GROUP" ver="11">Informer-Group:</t>
+  <t id="L_PUSH_PRINT_FINISHED" ver="11">Print Finished</t>
+  <t id="L_PUSH_PRINT_PAUSED" ver="11">Print Paused</t>
+  <t id="L_PUSH_PRINT_STARTED" ver="11">Utskrift Startad</t>
+  <t id="L_PUSH_PRINT_STOPPED" ver="11">Utskrift Stoppad</t>
+  <t id="L_PUSH_SLICING_FINISHED" ver="11">Slicing Klar</t>
+  <t id="L_PUSH_FATAL_ERRORS" ver="11">Grundläggande Fel</t>
+  <t id="L_PUSH_SEND_FOR" ver="11">Sänd meddelanden i dessa fall:</t>
+  <t id="L_TEST" ver="11">Test</t>
+  <t id="L_INFORMER_INSTRUCTIONS" ver="11">Repetier-Informer är en smatphone app som visar Push meddalanden från din 3Dskrivare. I appen skapar du nya grupper elleransluter till befintliga delade grupper. Skriv in vilken grupp du vill att Repetier host ska skicka meddelanden till. Alla medlemmar i gruppen kan läsa sända meddelanden.</t>
+  <t id="L_VISIT_INFORMER" ver="11">Besök Repetier-Informer Website</t> 
+  <t id="L_HOST_NAME:" ver="11">Värd Namn:</t>
+  <t id="L_PUSH_HEAD_STARTED" ver="11">Utskrift startade</t>
+  <t id="L_PUSH_MSG_STARTED" ver="11">Utskrift för skrivare $1 startad. Uskriften bör vara klar kl $2.</t>
+  <t id="L_PUSH_HEAD_PAUSED" ver="11">Utskriften pausad</t>
+  <t id="L_PUSH_MSG_PAUSED" ver="11">Utskrift för printer $1 Är pausad. Säger: $2</t>
+  <t id="L_PUSH_HEAD_FINISHED" ver="11">Utskrift Klar</t>
+  <t id="L_PUSH_MSG_FINISHED" ver="11">Utskrift för printer $1 är klar. Utskrifts tid: $2. Rader sända till skrivaren: $3</t>
+  <t id="L_PUSH_HEAD_KILLED" ver="11">Print stopped</t>
+  <t id="L_PUSH_MSG_KILLED" ver="11">Utskrift för printer $1 Stoppades innan den var färdig.</t>
+  <t id="L_PUSH_HEAD_SLICING" ver="11">Slicing Klar</t>
+  <t id="L_PUSH_MSG_SLICING" ver="11">Slicing För skrivare $1 Är nu klar.</t>
+  <t id="L_PUSH_HEAD_FATAL" ver="11">Allvarligt fel (error)</t>
+  <t id="L_PUSH_MSG_FATAL" ver="11">Ett allvarligt fel för skrivare $1 uppstod. Meddelande: $2</t>
+  <t id="L_CURA_EXTRUDER_INFO" ver="11">CuraEngine stöder bara en extruderdiameter och flödesvärde då den förutsätteridentiska extrudrar. Om du har flera extrudrar med olika värden kommer värdena från den första extrudern användas för alla. Utskriftstemperatuen är inställd i sart G-koden. Att använda olika temperaturer kommer därför fungera. För kylningen kommer högsta av alla värdena att användas.</t>
+  <t id="L_TCPIP_CONNECTION" ver="11">TCP/IP anslutning</t>
+  <t id="L_IP_ADDRESS:" ver="11">IP Address:</t>
+
+
+  <t id="L_INFORMER_GROUP_INFO" ver="11">Mål grupp id som du skapar/hittar i din app.</t>
+  <t id="L_INFORMER_HOST_NAME_INFO" ver="11">Tillval. Läggs till titeln på ditt sända meddelande.</t>
+  <t id="L_INFORMER_TEST_FAILED" ver="11">Kunde inte kontaakta Informer servern.</t>
+  <t id="L_OBJECT_GROUP_%" ver="11">Objekt Grupp $1</t>
+  <t id="L_NOT_COMPUTED" ver="11">Ej beräknad</t>
+  <t id="L_ANALYSE" ver="11">Analysera</t>
+  <t id="L_ANALYSIS" ver="11">Analys</t>
+  <t id="L_SETTINGS" ver="11">inställningar</t>
+  <t id="L_FILENAME:" ver="11">Filnamn:</t>
+  <t id="L_ASSIGNED_EXTRUDER:" ver="11">vald extruder:</t>
+  <t id="L_ASSIGNED_OBJECT:" ver="11">Valt Objekt:</t>
+  <t id="L_EXTRACT_FROM_GROUP" ver="11">Välj från Grupp</t>
+  <t id="L_SHOW_PLATER" ver="11">visa "Plater" i Slic3r</t>
+  <t id="L_PRINT" ver="11">Skriv</t>
+  <t id="L_SPEED_AND_QUALITY" ver="11">Hastighet och kvalitet</t>
+  <t id="L_EXTRUSION" ver="11">Extrusion</t>
+  <t id="L_STRUCTURES" ver="11">Structurer</t>
+  <t id="L_G-CODES" ver="11">G-koder</t>
+  <t id="L_COOLING" ver="11">kylning</t>
+  <t id="L_GENERAL_EXTRUDER_SETTINGS" ver="11">allmänna Extruder inställningar</t>
+  <t id="L_INFILL" ver="11">Infill</t>
+  <t id="L_MESH_ERRORS" ver="11">Rutnätsfel</t>
+  <t id="L_MULTI_EXTRUDER_SETTINGS" ver="11">Multiextruder inställningar</t>
+  <t id="L_QUALITY" ver="11">kvalitet</t>
+  <t id="L_RAFT" ver="11">Raft</t>
+  <t id="L_SELECTED_QUALITY_SETTING" ver="11">Välj kvalitets inställningar</t>
+  <t id="L_SKIRT_AND_BRIM" ver="11">kjol och krage</t>
+  <t id="L_SPEED" ver="11">Hastighet</t>
+  <t id="L_SUPPORT" ver="11">stöd</t>
+  <t id="L_BED_TEMPERATURE:" ver="11">Bäddtemperature:</t>
+  <t id="L_BRIM_WIDTH:" ver="11">Kragbredd:</t>
+  <t id="L_INFILL_DENSITY:" ver="11">Fylldensitet:</t>
+  <t id="L_INFILL_OVERLAP:" ver="11">Fyllningsöverlappning:</t>
+  <t id="L_INFILL_TYPE:" ver="11">Fyllningsmönster:</t>
+  <t id="L_MAX_FAN_SPEED:" ver="11">Max. Fläkthastighet:</t>
+  <t id="L_MIN_FAN_SPEED:" ver="11">Min. Fläkthastighet:</t>
+  <t id="L_MIN_EXTR_BEFORE_RETRACT:" ver="11">Minimum utmatning före backning:</t>
+  <t id="L_MIN_LAYER_TIME:" ver="11">Minimitid per skikt:</t>
+  <t id="L_MIN_SKIRT_LENGTH:" ver="11">Minimum kjollängd:</t>
+  <t id="L_MIN_TRAVEL_BEFORE_RETRACT:" ver="11">Minimum rörelse före backning:</t>
+  <t id="L_OVERHANG_ANGLE:" ver="11">Överhängsvinkel:</t>
+  <t id="L_PRINT_SPEED:" ver="11">Skrivhastighet:</t>
+  <t id="L_PRINT_TEMPERATURE:" ver="11">skrivtemperatur:</t>
+  <t id="L_NAME:" ver="11">Namn:</t>
+  <t id="L_EXTRA_MARGIN:" ver="11">Extra marginal:</t>
+  <t id="L_BASE_LINE_WIDTH:" ver="11">Baslinjebredd:</t>
+  <t id="L_LINE_SPACING:" ver="11">Linjeavstånd:</t>
+  <t id="L_BASE_LINE_THICKNESS:" ver="11">Baslinjetjocklek:</t>
+  <t id="L_INTERFACE_LINE_WIDTH:" ver="11">Gränssnittlinjebredd:</t>
+  <t id="L_INTERFACE_THICKNESS:" ver="11">gränssnittstjocklek:</t>
+  <t id="L_RETRACTION_DISTANCE:" ver="11">Getraction avstånd:</t>
+  <t id="L_RETRACTION_ON_EXTRUDER_SWITCH:" ver="11">Backning på extruderbrytare:</t>
+  <t id="L_RETRACTION_SPEED:" ver="11">backhastighet:</t>
+  <t id="L_SKIRT_DISTANCE:" ver="11">kjolavstånd:</t>
+  <t id="L_SKIRT_LINE_COUNT:" ver="11">antal kjollinjer:</t>
+  <t id="L_FAST" ver="11">Snabb</t>
+  <t id="L_SLOW" ver="11">Långsam</t>
+  <t id="L_INNER_PERIMETER:" ver="11">Inre Perimeter</t>
+  <t id="L_OUTER_PERIMETER:" ver="11">Yttre Perimeter</t>
+  <t id="L_SUPPORT_EXTRUDER:" ver="11">Stödextruder:</t>
+  <t id="L_SUPPORT_TYPE:" ver="11">Stöd typ:</t>
+  <t id="L_TOP/BOTTOM_THICKNESS:" ver="11">Topp/botten tjocklek:</t>
+  <t id="L_VOLUME_OVERLAP:" ver="11">Volym överlappning:</t>
+  <t id="L_WIPE_AND_PRIME_VOLUME:" ver="11">Wipe and Prime Volume:</t>
+  <t id="L_Z_HOP:" ver="11">Z Hop:</t>
+  <t id="L_SHELL_THICKNESS:" ver="11">Skaltjocklek:</t>
+  <t id="L_DISTANCE_XY:" ver="11">Avstånd XY:</t>
+  <t id="L_DISTANCE_Z:" ver="11">Avstånde Z:</t>
+  <t id="L_GCODE_FLAVOUR:" ver="11">G-kod dialekt:</t>
+  <t id="L_FLOW:" ver="11">Flöde:</t>
+  <t id="L_DEFAULT_QUALITY:" ver="11">Förinställd kvalitet:</t>
+  <t id="L_FIRST_LAYER_HEIGHT:" ver="11">Tjocklek första lager:</t>
+  <t id="L_COMBINE_EVERYTHING_A" ver="11">Kombinera allt (skriv A)</t>
+  <t id="L_COMBINE_EVERYTHING_B" ver="11">Kombinera allt (Skriv B)</t>
+  <t id="L_MINIMIZE_CROSSING_PERIMETERS" ver="11">Minimera korsande Perimetrar</t>
+  <t id="L_ENABLE_RETRACTION" ver="11">Tillåt backning</t>
+  <t id="L_EXTENSIVE_STITCHING" ver="11">Extensive Stitching(?)</t>
+  <t id="L_KEEP_OPEN_FACES" ver="11">Behåll öppna ytor</t>
+  <t id="L_CREATE_OOZE_SHIELD" ver="11">Skapa Ooze(?) skydd</t>
+  <t id="L_CREATE_WIPE_PRIME" ver="11">Skapa Wipe and Prime torn</t>
+  <t id="L_SPIRALIZE_CONTOUR" ver="11">Spiral kontur</t>
+  <t id="L_SOLID_TOP_INFILL" ver="11">Solid Toppfyllning</t>
+  <t id="L_SOLID_BOTTOM_INFILL" ver="11">Solid Botenfyllning</t>
+  <t id="L_COOL_HEAD_LIFT" ver="11">Lyft för kylning</t>
+  <t id="L_FILL_AMOUNT:" ver="11">Material mängd:</t>
+  <t id="L_CURAENGINE_SETTINGS" ver="11">CuraEngine Inställningar</t>
+  <t id="L_PRINT_CONFIGURATION:" ver="11">Skrivar konfiguration:</t>
+  <t id="L_ADHESION_TYPE:" ver="11">Adhesions typ:</t>
+  <t id="L_SPEED:" ver="11">Hastighet:</t>
+  <t id="B_SAVE_AS" ver="11">Spara som ...</t>
+  <t id="L_AIR_GAP:" ver="11">Gapstorlek:</t>
+  <t id="L_NUM_SURFACE_LAYER:" ver="11">Antal ytlager:</t>
+  <t id="L_NONE" ver="11">Ingen</t>
+  <t id="L_BRIM" ver="11">Krage</t>
+  <t id="L_GRID" ver="11">Nät</t>
+  <t id="L_LINES" ver="11">Linjer</t>
+  <t id="L_TOUCHING_BED" ver="11">Snudda bädd</t>
+  <t id="L_EVERYWHERE" ver="11">Överallt</t>
+  <t id="L_AUTOMATIC" ver="11">Automatisk</t>
+  <t id="L_CONCENTRIC_LINES" ver="11">Koncentriska linjer</t>
+  <t id="L_CURACODEHINTS" ver="11">
+Du kan lägga till dynamiska värden som byts ut vid slicningen.
+
+Temperaturer:
+{TEMP0}, {TEMP1}
+{BED}
+
+Hastigheter:
+{Z_TRAVEL_SPEED}
+{TRAVEL_SPEED}
+
+Du kan också lägga till en linje om bara en extruder eller bädd används. Lägg då till en av koderna i början av raden:
+{IF_BED}
+{IF_EXT0}
+
+Utgå från förinställda värden "Create Default" för att få en bra grund inställning som du kan ändra för dina behov senare.
+  </t>
+  <t id="H_RETRACTION_SPEED" ver="11">
+    Med denna hastighet backas tråden. Högre
+    Backhastighet fungerar bättre, Men är den
+    för hög kan det leda till trådslitage.
+  </t>
+  <t id="H_RETRACTION_DISTANCE" ver="11">
+    Backningslängd. Ställ till 0 om ingen backning önskas.
+    Typiska värden är 2mm för direktdrivna extruders
+     till 7mm för bowdenextrudrar.
+  </t>
+  <t id="H_FIRST_LAYER_HEIGHT" ver="11">
+    Tjocklek på bottenlagret. Ett tjockare bottenlager
+    kompenserar ojämnheter i skrivarbädden bättre.
+  </t>
+  <t id="H_CUT_OFF_OBJECT_BOTTOM" ver="11">
+    Sänker objektet till plattformen. Användbart 
+    för objekt som inte har en platt undersida
+    och därför skapar för litet förstalager.
+  </t>
+  <t id="H_VOLUME_OVERLAP" ver="11">
+    Detta är överlappet mellan färfer eller material 
+    vid flera extrudrar. Gör att de ansluter bättre 
+    till varandra.
+  </t>
+  <t id="H_TRAVEL_SPEED" ver="11">
+    Dett är den hastighet förflyttningar görs med.
+    Den kan vara högmen vid höga värden kan vissa 
+    skrivare missa motorsteg.
+  </t>
+  <t id="H_FIRST_LAYER_SPEED" ver="11">
+    Skrivhastighet för första lagret. Den ska vara 
+    låg för att det ska fästa bättre mot underlaget.
+  </t>
+  <t id="H_INFILL_SPEED" ver="11">
+    Detta är hastigheten fyllningen skrivs med, högre
+    hastighet minskar skrivtiden men kan försämra
+    utskriftskvaliten.
+  </t>
+  <t id="H_OUTER_PERIMETER_SPEED" ver="11">
+    Med denna hastighet skrivs yttre perimetern.
+    Lägre hastighet förbättrar ytfinishen.
+    För stor skillnad mellan innre och yttre 
+    perimeterskrivhastigheten kan försämra finishen.
+  </t>
+  <t id="H_INNER_PERIMETER_SPEED" ver="11">
+    Denna hastighet skrivs innre perimetern med,
+    Högre hastighet än för ytterperimetern förkortar
+    utskriftstiden, hastigheten ska vara mellan 
+    fyllningshastigheten och ytterperimeter hastigheten.
+  </t>
+  <t id="H_MINIMUM_LAYER_TIME_COOLING" ver="11">
+    Minimitiden för utskrift av ett lager. Den måste
+    vara tillräckligt lång för att senaste lagret ska svalna.
+    Om skrivhastigheten är hög kommer det ta extra
+    tid att använda detta val.
+  </t>
+  <t id="H_ENABLE_COOLING" ver="11">
+    aktiverar kylfläkten under utskrift. detta kan 
+    drastiskt förbättre kvaiten på utskriften, särskilt
+    med PLA, vid bryggning och vid överhäng.
+  </t>
+  <t id="H_LAYER_HEIGHT" ver="11">
+    Med skikttjockleken(mm) ställs upplösningen i Z-led 
+    Lägre värde ger bättre finish men tar längre tid att skriva.
+    Normala värden är mellan 0,1mm till 0,4mm.
+  </t>
+  <t id="H_SHELL_THICKNESS" ver="11">
+    Tjockleken på ytterskalet i horisontalplanet.
+    Detta i kombination med munstycksstorlek bestämmer
+    antalet perimetrar.
+  </t>
+  <t id="H_ENABLE_RETRACTION" ver="11">
+    Backar materialet när munstycket går över en yta
+    som inte ska skrivas. Hjälper til att reducera 
+    tunna rådar i utskriften.
+  </t>
+  <t id="H_TOP_BOTTOM_THICKNESS" ver="11">
+    Detta är antalt solida lager i topp och botten.
+    Beroende på din valda fyllningsdensitet ska du öka tjockleken 
+    så att fyllningsmönstret inte syns igenom och förbättra finishen.
+     1 mm Är normalt ett bar värde.
+  </t>
+  <t id="H_INFILL_DENSITY" ver="11">
+    Här ställer du densiteten på fyllningen. Massiva
+    objekt har 100%, Tomma objekt har 0%. Högre procent
+    ger stabilare objekt. med en lägre densitet sparar du
+    tid och material.Normala värden är mellan 20% och 30%,
+    Om du inte kräver  mycket stabil utskrift.
+  </t>
+  <t id="H_PRINT_SPEED" ver="11">
+    Skrivhastighet för alla delar som inte har 
+    egen skrivhastighet valbar.
+  </t>
+  <t id="H_PRINT_TEMPERATURE" ver="11">
+    Temperaturen beror på material och skrivare. 
+    Många material tillverkare tilhandahåller
+    lämpliga temperaturer för det material de säljer.
+  </t>
+  <t id="H_SUPPORT_TYPE" ver="11">
+    Typ av stödstruktur.
+
+    "None" anger att inget stöd ska byggas.
+
+    "Snudda bädd" är den vanligaste inställningen.
+    Den skapar bstöd endast där stödet kommer att nå bädden.
+
+    "ÖVerallt" Skapar stöd även på ovansidan av modellen.
+  </t>
+  <t id="H_ADHESION_TYPE" ver="11">
+    Hjälper till att förbättra fästet mot bädden.
+
+    "Ingen" stänger av denna funktion.
+
+    "krage" Lägger till et enkelt lager runt utskriften, 
+    Den kan lätt putsas bort efteråt.
+    Krage krävs om utskriften böjer sig uppåt i kanterna.
+
+    "Raft" Lägger tt tjockt raster under modellen och skapar 
+    en tunn gränsyta mot utskriften som akn tas bort efter utskrift.
+    Dethär behövs om du har en ojämn bädd eller ett litet objekt 
+    som inte sitter fast på bädden annars.
+  </t>
+  <t id="H_FILAMENT_DIAMETER" ver="11">
+    Tråddiametersn ska anges så exakt som möjligt.
+  </t>
+  <t id="H_FLOW" ver="11">
+    Mängden utmatad material multiplicerass med detta värde.
+    Normalt ska detta vara 100%.
+  </t>
+  <t id="L_OUTER_PERIMETER_SPEED:" ver="11">Yttre Perimeter hastighet:</t>
+  <t id="L_INFILL_SPEED:" ver="11">Fyllningshastighet:</t>
+  <t id="L_PRINT:" ver="11">skriv ut:</t>
+  <t id="L_SUPPORT_PATTERN:" ver="11">Stödmönster:</t>
+  <t id="L_TRAVEL:" ver="11">Transport:</t>
+  <t id="L_CUTOFF_BOTTOM" ver="11">Klipp av Objekt botten:</t>
+  <t id="L_ESTIMATED_PRINTING_TIME:" ver="11">Beräknad utskriftstid:</t>
+  <t id="L_LAYER_COUNT:" ver="11">Antal skikt</t>
+  <t id="L_FILAMENT_NEEDED:" ver="11">Beräknad materialåtgång:</t>
+  <t id="L_FAN_FULL_AT_HEIGHT:" ver="11">Fläktens högsta hastighet:</t>
+  <t id="L_MINIMUM_SPEED:" ver="11">Lägsta hastighet:</t>
+  <t id="H_MINIMUM_TRAVEL_BEFORE_RETRACT" ver="11">Minsta transportsträcka för att aktivera backning.</t>
+  <t id="L_PREVIEW" ver="11">Förhandsvisa</t>
+  <t id="L_SCALE_OBJECT" ver="11">Skala objektet</t>
+  <t id="L_ROTATE_OBJECT" ver="11">Rotera objektet</t>
+  <t id="H_MINIMIZE_CROSSING_PERIMETERS" ver="11">
+    Om det finns en möjlighet att flyta skrivhuvudet
+    till målet utan att lämna nuvarande objekt kommer
+    det att väljas. Om denna stängs av kommer alltid
+    raka vägen till målet att väljas, vilket kan orsaka trådar.
+  </t>
+  <t id="H_MINIMUM_EXTRUSION_BEFORE_RETRACT" ver="11">
+    Minimum mäng material som matas ut innan nästa
+    backnings kommando är möjlig.
+    Om backning sker för ofta kan det uppstå 
+    blockeringar i munstycket
+  </t>
+  <t id="H_Z_HOP" ver="11">
+    Huvudet lyft denna höjd när tråden backas.
+   Detta har en positiv effekt på skrivare medsnabb Z-
+   rörelse som t.ex deltaprintrar.
+  </t>
+  <t id="H_SKIRT_LINE_COUNT" ver="11">
+    Kjol är en linje i första lagret som ritas runt objektet.
+    den hjälper dig att fylla munstycket och du ser om 
+    utskriften passar på ditn bädd. 
+    Sätt till 0 för att stänga av funktionen.
+  </t>
+  <t id="H_SKIRT_DISTANCE" ver="11">Avståndet mellan kol och själva utskriften.</t>
+  <t id="H_MINIMUM_SKIRT_LENGTH" ver="11">
+    Minimilängden på kjolen. Om längden inte uppnås 
+    kommer ytterligare kjollinjer att läggas till
+    Ignorera genom att Sätta till "0".
+  </t>
+  <t id="H_FAN_FULL_ON_AT_HEIGHT" ver="11">
+    Den höjd där kylfläkten börjar gå på helt.
+    Fläkten kommer linjärt gå saktare närmare bädden
+    för att vara helt avstängd de första lagret.
+  </t>
+  <t id="H_MIN_FAN_SPEED" ver="11"> Detta är 
+   minimifläkthastigheten. Om skrivtiden för skikt är 
+   kortare än minimum skikt kommer skrivhastigheten 
+   att saktas ner och fläkthastigheten interpoleras
+   mellan max och min. Fläkthastigheten är koplad på sänkningen. 
+  .</t> 
+  <t id="H_MAX_FAN_SPEED" ver="11">
+    Maxhastigheten på kylfläkten. Den nås om skikt 
+    tiden reduceras med mer än 50%
+  </t>
+  <t id="Lift_head"  ver="11">
+    Lyfte huvudet om skrift med minsta skrivhastighet är 
+    snabbare än minsta tid efter skikt när skiktet är skrivet.
+  </t>
+  <t id="H_MINIMUM_COOLING_SPEED" ver="11"> Minimi skikt
+   tiden kan saktas ner så mycket att materialet överhettas.
+   Denna funktion skydda mot det. Även om skrivaren saktar ner
+   kan den inte gå långsammare än denna hastighet
+  </t> 
+  <t id="H_SOLID_TOP_INFILL" ver="11">
+    Skapar en solid toppyta. om denna stängs av kommer 
+   fyllnings instäällningen att användas. Användbart på
+   bl.a vaser som är definierade som en solid volym.   
+   </t>
+  <t id="H_SOLID_BOTTOM_INFILL" ver="11">
+    Skapar en solid bottenyta. Om den stängs av kommer
+    fyllnadens inställning användas.
+  </t>
+  <t id="H_INFILL_OVERLAP" ver="11">
+    Här anges överlappning mellan fyllning och väggar.
+     Det behöver vara ett visst överlapp så 
+     vägg och fyllning håller ihop.
+  </t>
+  <t id="H_SUPPORT_PATTERN" ver="11">
+     Välj mellan stödmönster:
+
+    "Nät" är väldigt stark "and can come off in one
+    piece." Det är ibland för starkt.
+
+    "Linjer" är enkel linje väggar som bryts en i taget.
+     Denna kräver lite mer arbeta att ta bort, men är mindre stark
+och fungerar bättre på trixiga utskrifter.
+  </t>
+  <t id="H_OVERHANG_ANGLE" ver="11">
+    Minimum vinkel där överhäng behöver stöd.
+     0° Är horisontell, 90° är vertikal.
+  </t>
+  <t id="H_SUPPORT_FILL_AMOUNT" ver="11">
+    Densitet på stödstrukturen mindre material ger klenae stöd
+som är enklare att ta bort. 15% är en användbar styrka.
+  </t>
+  <t id="H_DISTANCE_XY" ver="11">
+    avstånd mellan stöd och utskrift i x/y led. 
+    Föreslår 0,8 så stödet inte fastnar på utskriften.
+  </t>
+  <t id="H_DISTANCE_Z" ver="11">
+    Avstånd från topp/botten på stödet till utskriften.
+    Ett lite avstånd gör det lättare att tabort stödmaterialet.
+  </t>
+  <t id="H_SPIRALIZE_CONTOUR" ver="11">
+    Denna funktion omvandlar en solid modell till ett enklväggat objekt.
+    genom  att Z ökar kontinuerlig för att skapa en
+ skarvlös yta. Idealisk till vaser.
+  </t>
+  <t id="H_BRIM_WIDTH" ver="11">
+    Bredden på kragen. med större krage fäster utskriften bättre på bädden
+men den minskar din effektiva skrivyta.
+  </t>
+  <t id="H_RAFT_EXTRA_MARGIN" ver="11">
+    En extra sockel yta runt utskriften. En större sockel
+    gör den starkare men minskar din skrivyta.
+  </t>
+  <t id="H_RAFT_LINE_SPACING" ver="11">Deta är avståndet mellan linjerna i sockeln.</t>
+  <t id="H_RAFT_BASE_LINE_THICKNESS" ver="11">Detta är tjockleken på bas skikten.</t>
+  <t id="H_RAFT_BASE_LINE_WIDTH" ver="11">Bredden på bas skiktens linjer.</t>
+  <t id="H_RAFT_INTERFACE_THICKNESS" ver="11">Tjocklek på gränssnits skiktet.</t>
+  <t id="H_RAFT_INTERFACE_LINE_WIDTH" ver="11">Tjocklekern på gränssnittsskiktens linjer.</t>
+  <t id="H_RAFT_AIG_GAP" ver="11">
+    Avståndet mellan sockeln och objektet.
+    Större gap gör det lättare att skilja på sockel och objekt, 
+    men om det är för stort stödjer inte sockeln din utskrift..
+  </t>
+  <t id="H_RAFT_NUM_SURFACE_LAYER" ver="11">
+    Ytlagren på sockeln.
+    De har 100% fyllning för att ge en plan yta att skriva på.
+  </t>
+
+Klar hit 2014-10-14 22.18
+  <t id="H_COMBINE_EVERYTING_TYPE_A" ver="11">
+    Denna avancerade funktion lägger samman alla delar av modellen.
+    Oftasrt innebär det att interna hålrum försvinner.
+    Beroende på modellen kan detta vara medvetet eller omedvetet.
+    Du aktiverar denna funktion på egen risk.
+    Typ-A utgår från modellens normaler och försöker 
+    bevara modellens hålrum så intakt som möjligt .Typ-B ignorerar
+    alla interna hål och styr bara skiktets ytterkant.
+  </t>
+  <t id="H_COMBINE_EVERYTING_TYPE_B" ver="11">
+    Denna avancerade funktion lägger samman alla delar av modellen.
+    Oftasrt innebär det att interna hålrum försvinner.
+    Beroende på modellen kan detta vara medvetet eller omedvetet.
+    Du aktiverar denna funktion på egen risk.
+    Typ-A utgår från modellens normaler och försöker 
+    bevara modellens hålrum så intakt som möjligt .Typ-B ignorerar
+    alla interna hål och styr bara skiktets ytterkant.
+  </t>
+  <t id="H_KEEP_OPEN_FACES" ver="11">
+    Denna avancerade funktion håller alla öppna bits av modellen intakt.
+    Normalt försöker Cura fylla igen alla små hål och ta bort allt med stora hål.
+    Men denna funktion behåller bits som inte är perfekta och kör modellen rakt av.
+    Detta val är normalt inte vad man önskar men den 
+    kan vara användbar när andra slice metoder inte fungerar.
+    Som med alla avancerade funktioner kan resultatet variera
+    stort och du använder den på egen risk
+   </t>
+  <t id="H_EXTENSIVE_STITCHING" ver="11">
+    Extensive stitching(?) försöker fixa till öppna hål i modellen
+    med mötande polygoner som täcker hålen.
+    Denna algoritm kräver myckket datorkraft och kan förlänga slice tiden.
+     Som med alla avancerade funktioner kan resultatet variera
+    stort och du använder den på egen risk.
+  </t>
+  <t id="L_CREATE_DEFAULT" ver="11">Skapa grundversion</t>
+
+  <t id="H_NAME_SELECTED_QUALITY_SETTING" ver="11">Välj ett beskrivand namn att spara.</t>
+  <t id="H_INFILL_PATTERN" ver="11">
+    "Väljer automatiskt linjer eller nät utefter densiteten.
+
+    "Nät" ger en stabil stuktur.
+
+    "Linjer"  är parallella och ligger tätare.
+
+    "koncentriska linjer" ger linjer med minskad (?)outline.
+  </t>
+  <t id="H_CREATE_WIPE_AND_PRIME_TOWER" ver="11">
+    Rengöringstorn är ett torn som skrivs i varje lager
+    när man växlar extruder. den just använda stryks av 
+   på tornet innan den nya används för att skriva med anna färg.
+    Den nya extrudern initiereas på tornet så att man får
+    korrekt utskrift i modellen.
+  </t>
+  <t id="H_OOZE_SHIELD" ver="11">
+    Överhettnings skaltet är en 1sträng tjockt skal på 
+    några mm avstånd runt objektet.
+    Detta skal fångar överhettat mateial från den oanvända extrudern.
+ </t>
+  <t id="H_RETRACTION_ON_EXTRUDER_SWITCH" ver="11">
+    Backningsdistans vid växling av extrudrar.
+    0 ger ingen backning.
+  </t>
+  <t id="H_WIPE_AND_PRIME_VOLUME" ver="11">
+    Mängdenmaterial som avsätts på rengöringstornet.
+    detta anges i volym för normalt vill man mata ut en viss volym
+    för att hålla extrudern igång. oberoende av skikthöjden.
+    Med tunnare skikt blir tornet större.
+  </t>
+  <t id="L_AIR_GAP_LAYER0:" ver="11">Air Gap Layer 0:</t>
+
+   <t id="H_AIR_GAP_OTHER_LAYERS" ver="11">
+   Det förväntade luftgapet mella sockel och objekt från och med andra skiktet.
+   idealt är detta 0.
+   </t> 
+    <t id="H_SLIC3R_OVERRIDE_SLIC3R_SETTINGS" ver="11">
+    Ersäter ovan valda Slic3r inställningarna med de värden som visas nedan.
+  </t>
+    <t id="H_SLIC3R_COPY_PRINT_SETTINGS_TO_OVERRIDE" ver="11">
+    Ersätter värdena listan här nedanför med De val som gjorts ovan.
+  </t>
+    <t id="H_SLIC3R_ENABLE_SUPPORT" ver="11">
+    Lägger till stödstukturer där de behövs för utskriften. 
+  </t> 
+    <t id="H_SLIC3R_ENABLE_COOLING" ver="11">
+    Aktiverar Kylfläkten under utskrift. Detta kan drastiskt
+    förbättra finishen särkillt för PLA. bryggningar och överhäng.
+  </t>  
+
+    <t id="H_SLIC3R_LAYER_HEIGHT" ver="11">
+   Skikttjocklek i mm (Z-ledd). Lägre väde ger bättre 
+    kvalitet men tar längre tid
+    Normalvärde är mellan 0.1 mm och 0.4 mm.
+  </t>  
+  <t id="H_SLIC3R_INFILL_DENSITY" ver="11">
+    Här anges fyllnads densiteten. Massiva objekt är 100%
+    Tomma objekt är 0%. Högre värde ger stabilare objekt.
+    Med lägre fyllnadsgrad sparar man tid och material.
+     Normala värden är mellan 20% och 30%, 
+    om inte hög stabilitet är et krav
+  </t>
+  <t id="H_SLIC3R_INFILL_PATTERN" ver="11">
+    Här väljs innre fyllningens mönster.
+  </t>
+  <t id="H_SLIC3R_SOLID_INFILL_PATTERN" ver="11">
+    Här väljs fyllningsmönsteret för skalet.
+  </t>
+  <t id="B_CONFIGURE" ver="11">konfiguration</t>
+  <t id="B_CURA_FAST" ver="11">Snabb</t> 
+  <t id="B_CURA_SLOW" ver="11">Långsam</t> 
+<t id="L_SCALE_TO_MAX" ver="11">Scala till Maximum</t>
+<t id="L_RESET_ROTATION" ver="11">Återställ Vridning</t>
+<t id="L_LAY_FLAT" ver="11">Lägg platt</t>
+  <t id="L_PREFERENCES" ver="11">Inställningar#</t>
+  <t id="L_BASIC_SETTINGS" ver="11">Grundinställningar</t>
+  <t id="L_3D_VISUALIZATION" ver="11">3D visning</t>
+  <t id="L_SHOW_HELP_BUBBLES" ver="11">Visa hjälprutor (Kräver omstart)</t>
+  <t id="L_MAX_EXTRUDER_TEMP:" ver="11">Max. Extruder Temperatur:</t>
+  <t id="L_MAX_BED_TEMP:" ver="11">Max. Bädd Temperatur:</t>
+  <t id="L_HAS_MIXING_EXTRUDER" ver="11">Skrivaren Har ett blandande munstycke för alla färger.</t>
+  <t id="L_MANUAL_EXTRUSION_SPEED:" ver="11">Manuell Extrusions Hastighet:</t>
+  <t id="L_MANUAL_RETRACTION_SPEED:" ver="11">Manuell trådbackningshastighet:</t>
+  <t id="L_INVERT_MOVEMENT_DIRECTION_FOR_MANUAL_CONTROL" ver="11">Byt riktning på manuell kontroll:</t>
+  <t id="L_X_AXIS" ver="11">X-Axel</t>
+  <t id="L_Y_AXIS" ver="11">Y-Axel</t>
+  <t id="L_Z_AXIS" ver="11">Z-Axel</t>
+  <t id="H_CONTROL_POWER" ver="11">
+    Vissa skrivare har mjukvarustyrd stömkälla
+    som manövreras med denna funktion.
+  </t>
+
+  <t id="H_CONTROL_MOTOR" ver="11">
+    Stänger av drivspänning till alla motorer.
+    detta kan göra att huvudets position ändras.
+    Nästa gång en motror körs kommer spännigen åter vara på.
+  </t>
+
+  <t id="H_CONTROL_PARKING" ver="11">
+    Flyttar huvudet till parkerings position.
+  </t>
+
+  <t id="H_CONTROL_SCRIPTX" ver="11">
+    Sänder skriptet $1 till skrivaren. Du kan visa och 
+    modifiera skript i rullgardinsmenyn: Förhandsvisning/G-kod redigerare.
+  </t>
+
+
+
+  <t id="H_CONTROL_SPEED" ver="11">
+    Denna funktion ändrar nuvarande skrivhastighet.
+    Alla hastigheter multipligeras med detta värde förutom flödet.
+    Tänk på att hög skrivhastighet kan drastiskt försämra skrivkvalite'n.
+  </t>
+
+  <t id="H_CONTROL_FLOW" ver="11">
+    Tilåter dig att ändra flödet av material.
+    Höger värde ger högre flöde.
+    Högre värde ger fylligare skriven linje.
+  </t>
+
+  <t id="H_CONTROL_FAN" ver="11">
+    Här justeras Fläktens hastighet. effektiv kylning förbättrar 
+    utskriftskvalite'n. särskillt på överhäng och bryggor.
+  </t>
+
+  <t id="H_CONTROL_BED" ver="11">
+    Här justarar man bäddens temperatur. 
+    Typiska värden för PLA är mellan 50 och 60°C,
+    För ABS mellan 100°C och 120°C, beroende på vilket ytmaterial 
+    man har på bädden.
+  </t>
+
+  <t id="H_CONTROL_EXTRUDER" ver="11">
+    Kontrollen för extruder temperaturen.
+    typiska värden för PLA är melan 180°C och 220°C,
+    För ABS 240°C och 260°C, Beroende på material och extrude.
+  </t>
+
+
+  <t id="H_PS_CONNECTOR" ver="11">
+    Typ av anslutning till skrivaren. De flesta har seriell anslutning (tex USB)
+    Virtuell anslutning erbjuder en virtuell skrivare för testkörning.
+  </t>
+
+  <t id="H_PS_PORT" ver="11">
+    Välj datorporten som din skrivare är ansluten till.
+    Om du inte känner till vilken port det är,
+     Ta ur kabeln och tryck på "uppdatera portar" 
+    Notera listan med portar som kommer upp.
+    Återanslut nu din skrivare och uppdatera listan igen.
+    Dins skrivare har nu den port som lagts till i listan.
+    Om ingen ny port kommer upp ilistan har
+    du inte rätt skrivardrivrutin installerad.
+  </t>
+
+  <t id="H_PS_BAUD_RATE" ver="11">
+    Kommunikationshastigheten mellan dator och skrivare.
+    vanligaste hastigheterna är 115200 och 250000. 
+    Felaktig kommunikationshastighet 
+    är det vanligate kommunikationsfelet.
+  </t>
+
+  <t id="H_PS_TRANSFER_PROTOCOL" ver="11">
+    Välj vilket överförngsprotokoll som skrivaren kräver.
+    Binärt protokoll är bäst men fungerar bara med Repetier-firmware.
+    "Autodetect" väljer bästa metoden automatiskt.
+  </t>
+
+  <t id="L_AUTODETECT" ver="11">
+    Autodetect
+  </t>
+
+  <t id="L_REPETIER_PROTOCOL" ver="11">
+    Repetier Protocol
+  </t>
+
+  <t id="H_PS_RESET_ON_CONNECT" ver="11">
+    På många styrkort kan mat återställa genom att 
+    ändra signalen på DTR och RTS pinnarna.
+      Egentligen är det bättre att gör en omstart 
+     av skrivaren med en ny anslutning, Då undviker man 
+    möjliga anslutnigsproblem. Vissa skrivare stödjer inte detta.
+    Om så ska denna funktion inte väljas.
+  </t>
+
+  <t id="H_PS_RESET_ON_EMERGENCY" ver="11">
+    Här bestämms vad som ska hända när nödstopp knappen akrtiveras.
+     Eftersiom det tar en stund för nödstoppsignalen att nå fram.
+     Bör du kombinera nödstopp med återställng.
+  </t>
+
+  <t id="H_PS_RECEIVE_CACHE_SIZE" ver="11">
+    För att undvika små pauser under utskrift sänder värden
+    parallella kommandon. Du ska ange antalet tecken som 
+    skrivaren kan kommaihåg så att skrivaren inte överbelastas.
+    De flesta skrivare har 127 bytes. medan andra bara har 63 bytes.
+    Om du får många kommunikationsfel är detta värde antagligen för högt.
+  </t>
+
+  <t id="H_PS_USE_PING_PONG_COMMUNICATION" ver="11">
+    Vid Ping-Pong kommunikation är det alltid bara ett kommando på
+    väg till skrivaren. Sådan kommmunikation är mycket långsammare 
+    så detta ska väljas bort om möjligt.
+  </t>
+
+  <t id="H_PS_IP_ADDRESS" ver="11">
+    Du kan ansluta till skrivaren på denna IP adress.
+  </t>
+
+  <t id="H_PS_IP_PORT" ver="11">
+    Den porten som skrivaren finns på.
+  </t>
+
+  <t id="H_PS_VIRTUAL_BAUD_RATE" ver="11">
+    Simulerad anslutningshastighet. Från  250000
+    används ingen väntetid, vid lägre hastighet 
+    är anpassade pauser förprogrammerade.
+  </t>
+
+  <t id="H_PS_TRAVEL_FEED_RATE" ver="11">
+    Denna hastighet används vid manuell kontroll i X och y riktningarna.
+  </t>
+
+  <t id="H_PS_Z_AXIS_FEED_RATE" ver="11">
+    Extruderns hastighet vid manuell kontroll.
+  </t>
+
+  <t id="H_PS_MANUAL_EXTRUSION_SPEED" ver="11">
+    Materialets matningshastighet vid manuell kontroll.
+  </t>
+
+  <t id="H_PS_MANUAL_RETRACTION_SPEED" ver="11">
+    Med denna hastighet backas materialet vid manuell kontroll.
+  </t>
+
+  <t id="H_PS_DEFAULT_EXTRUDER_TEMPERATURE" ver="11">
+    Föreslagen temperatur vid anslutning av skrivaren.
+  </t>
+
+  <t id="H_PS_DEFAULT_HEAT_BED_TEMPERATURE" ver="11">
+    Föreslagen bäddtemperatur när skrivaren ansluts.
+  </t>
+
+  <t id="H_PS_CHECK_EXTRUDER_AND_BED_TEMPERATURE" ver="11">
+    Detta värde krävs för temperatur kontroll och ska vara aktiverat.
+  </t>
+
+  <t id="H_PS_REMOVE_TEMPERATURE_REQUEST_FROM_LOG" ver="11">
+    Detta tar bort logg signaturen så att loggen blir tydligare.
+  </t>
+
+  <t id="H_PS_CHECK_EVERY" ver="11">
+    Här specificeras hur ofta bädd och extruder temperatur ska läsas av.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_X" ver="11">
+    I parkeringsläge går extrudern till denna X-position.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Y" ver="11">
+     I parkeringsläge går extrudern till denna Y-position.
+  </t>
+
+  <t id="H_PS_PARK_POSITION_Z_MIN" ver="11">
+    Etrudern lyfts till denna höjd vid parkering.
+  </t>
+
+  <t id="H_PS_SEND_ETA_TO_PRINTER_DISPLAY" ver="11">
+    Visning av återsående skrivtid eller uppskattad skrivtid.
+    Detta visas i Repetier-Host programmets statusrad 
+    och kan växlas genom att klicka på tidsvisningen.
+  </t>
+
+  <t id="H_PS_DISABLE_EXTRUDER_AFTER_JOB_KILL" ver="11">
+    Stänger av Extruder efter avslutat jobb eller när nödstoppet aktiveras.
+  </t>
+
+  <t id="H_PS_DISABLE_MOTORS_AFTER_JOB_KILL" ver="11">
+    Stänger av motorerna efter avslutat jobb eller när nödstoppet aktiveras.
+  </t>
+
+  <t id="H_PS_DISABLE_HEATED_BED_AFTER_JOB_KILL" ver="11">
+    Stänger av Bäddvärme efter avslutat jobb eller när nödstoppet aktiveras.
+  </t>
+
+  <t id="H_PS_ADD_TO_COMP_PRINTING_TIME" ver="11">
+    MEd deta värde ökas beräknad skrivtid. Detta görs för att 
+    skrivaren inte kan hålla den hastighet som normalt beräknas
+    i hörn och vid stopp. På detta sätt får man
+    en noggrannare tidsberäkning. Beräkninen kommer ändå 
+   aldrig att bli exak mot verklig beroende på skillnader i 
+   objekt och slicer inställningar.
+
+  </t>
+
+  <t id="H_PS_GO_TO_PARK_POSITION_AFTER_JOB_KILL" ver="11">
+    När nödstopp aktiveras eller utskriften är klar flyttas 
+    extrudern till dennna parkerings position.
+  </t>
+
+  <t id="H_PS_INVERT_MOVEMENT_DIRECTION" ver="11">
+    Detta växlar rörelseriktining för vald axel vid manuell kontroll.
+  </t>
+
+  <t id="H_PS_NUMBER_OF_EXTRUDERS" ver="11">
+    Här anger du antalet Extrudrar på din skrivare.
+  </t>
+
+  <t id="H_PS_MAX_EXTRUDER_TEMPERATURE" ver="11">
+    Här anger du max extruder temperatur vid manuell kontroll. 
+    Gör detta för att skydda din extruder mot oavsiktlig överhettning.
+  </t>
+
+  <t id="H_PS_MAX_BED_TEMPERATURE" ver="11">
+    Här anger du max Bädd temperatur vid manuell kontroll. 
+    Gör detta för att skydda din Bädd mot oavsiktlig överhettning.
+  </t>
+
+  <t id="H_PS_PRINTER_HAS_MIXING_EXTRUDER" ver="11">
+    Om du har en mix extruder som blandar alla färger i
+    samma munstycke aktiverar du här.
+    option.
+  </t>
+
+  <t id="H_PS_NAME" ver="11">
+    Eget angivet namn som används vid objekt placeringen.
+  </t>
+
+  <t id="H_PS_DIAMETER" ver="11">
+    Munstyckets diameter.
+  </t>
+
+  <t id="H_PS_TEMPERATURE_OFFSET" ver="11">
+    Temperatuavvikelse. Adderas till materialets arbetstemperatur
+    Detta låter dig använda olika extrudrar med samma materialinställning.
+  </t>
+
+  <t id="H_PS_OFFSET_X" ver="11">
+    Avvikelse melland extrudrar i X riktningen vid flera extrudrar.
+    OM detta inte är inställt i Firmware.
+  </t>
+
+  <t id="H_PS_OFFSET_Y" ver="11">
+    Avvikelse melland extrudrar i Y riktningen vid flera extrudrar.
+    OM detta inte är inställt i Firmware.
+  </t>
+
+  <t id="H_PS_COLOR" ver="11">
+    Denna färg representerar skrivet material i förhandsvisningen.
+  </t>
+
+  <t id="H_PS_PRINTER_TYPE" ver="11">
+    Här anger du vilken typ av printer du har.
+  </t>
+
+  <t id="H_PS_HOME" ver="11">
+   Här anger du vaar HOME läget är. 
+  </t>
+  <t id="L_PRINT_BED" ver="11">Skriv bädd</t>
+  <t id="L_DUMP_AREA" ver="11">Dump yta</t>
+  <t id="L_PRINTER_TYPE:" ver="11">Skrivartyp:</t>
+  <t id="L_START_GCODE" ver="11">Start G-kod</t>
+  <t id="L_END_GCODE" ver="11">Slut G-kod</t>
+  <t id="L_BEFORE_EXTRUDER_SWITCH" ver="11">Före Extruder Brytare</t>
+  <t id="L_AFTER_EXTRUDER_SWITCH" ver="11">Efter Extruder Brytare</t>
+<t id="L_INVERT_DIRECTION_FOR" ver="11">Växla riktning i kontrollen för</t>
+<t id="L_EXPORTING_MODEL_FOR_SLICING" ver="11">Eporterar modellen till slicer...</t>
+  <t id="L_MAX_VOLUME_PER_SECOND" ver="11">Max. Volym per sekund</t>
+  <t id="H_PS_MAX_VOLUME_PER_SECOND" ver="11">
+    Tetta värde kan användas av Slicers för att begränsa
+    skrivhastigheten baserat på maximalt möjliga materialflöde.
+    Normalt klarar maan att skriva 12mm³/s. Med högre hastighet
+    krävs mer matningskraft och värme för
+    att pressa material genom munstycket.
+  </t>
+  <t id="L_PRINTING_STATISTICS" ver="11">Utskriftsstatistik</t>
+  <t id="L_POSTPROCESSING..." ver="11">Efterbehandling ...</t>
+  <t id="L_PRINTER_HAS_SD_CARD" ver="11">Skrivaren har SD kort</t>
+  <t id="L_IMPORT" ver="11">Import</t>
+  <t id="L_EXPORT" ver="11">Export</t>
+  <t id="L_PRINT_SETTINGS_ALREADY_EXIST" ver="11">Skrivarinställnig med det namnet finns redan. sparade EJ.</t>
+  <t id="L_SAVE_PRINT_SETTINGS_AS" ver="11">Sparar skrivarinställning som</t>
+  <t id="L_SELECT_SETTING_NAME" ver="11">Väl inställningsnamn</t>
+  <t id="L_REALLY_DELETE_FILAMENT_SETTING" ver="11">Vill du verkligen radera denna materialinställning?</t>
+  <t id="L_SAVE_FILAMENT_SETTINGS_AS" ver="11">Spara Materialinställningar som</t>
+  <t id="L_FILAMENT_SETTINGS_ALREADY_EXIST" ver="11">MAterialinställning med det namnet finns redan. sparade EJ.</t>
+  <t id="L_PRINTING..ETE" ver="11">Skriver..ETE $1</t>
+  <t id="L_DIAMETER:" ver="12">Diameter:</t>
+  <t id="L_TEMP_OFFSET:" ver="12">Temperaturskillnad:</t>
+  <t id="L_OFFSET_X:" ver="12">skillnad X:</t>
+  <t id="L_OFFSET_Y:" ver="12">skillnad Y:</t>
+  <t id="L_NOZZLE_DIAMETER:" ver="12">Munstycksdiameter:</t>
+  <t id="L_0_OR_PRINTERSETTINGS:" ver="12">[mm eller 0 = använd värde från "skrivarinställning"]</t>
+  <t id="L_SEE_ALSO_PRINTERSETTINGS" ver="12">Slicer använder även värden från "skrivarinställningar"->"Extruders"!</t>
+  <t id="L_SHOW_QUICKSETTINGS" ver="12">Visa snabbinställningar</t>
+  <t id="L_INFORMER_URL" ver="12">URL:</t>
+  <t id="L_INFORMER_URL_INFO" ver="12">Lägger till ovanstående länk i ett medelande. T.e.x en webbkamera</t>
+  <t id="L_PUSH_SD_STARTED" ver="12">Utskrift från SD-kort på printer $1 startad.</t>
+  <t id="L_PUSH_SD_FINISHED" ver="12">Utskrift från SD-kort på skrivare $1 avslutad.</t>
+  <t id="L_FIRST_LAYER_EXTRUSION_WIDTH:" ver="12">Första skiktets skrivbanebredd:</t>
+  <t id="H_FIRST_LAYER_EXTRUSION_WIDTH" ver="12">
+    För bättre vidhäftning mot bädden, är det oftast fördelaktigt att i första skiktet mata ut mer material
+    så att skrivbanan blir bredare. Här ställer du in hur mycket bredare jämfört med normal utskrift.
+    Linjens densitet justeras "accordingly" 
+    </t>
+  <t id="L_MIRROR_OBJECT" ver="12">Spegla objekt</t>
+  <t id="L_X_HOURS" ver="12">$1 timmar</t>
+  <t id="L_PUSH_MSG_PROGRESS" ver="12">Utskriften på $1 kommer bli klar ca $2.</t>
+  <t id="L_PUSH_MSG_PROGRESS_SD" ver="12">Utskriften på $1 är klar $2%.</t>
+  <t id="L_PUSH_HEAD_PROGRESS" ver="12">Fortsättning uppdaterad</t>
+  <t id="L_PROGRESS_EVERY" ver="12">Fortsätt varje</t>
+  <t id="L_POSITION_OBJECT" ver="12">Positionera Objekt</t>
+  <t id="L_OBJECTS_CHANGED" ver="12">Objektuppställningen har förändrats sedan senaste slice. Vill du verklige starta denna utskrift?</t>
+  <t id="H_SKIN_SPEED" ver="13">Hastighet för yttre ytterkanter. Möjligör att öka hastighetten på innre material utsan att ytkvaliteten försämras.</t>
+  <t id="L_SKIN_INFILL:" ver="13">Ytmaterial:</t>
+  <t id="L_NEVER" ver="13">Aldrig</t>
+  <t id="L_ALWAYS" ver="13">Alltid</t>
+  <t id="L_ONLY_SKIN" ver="13">Alltid förutom ytan</t>
+  <t id="L_API_KEY:" ver="13">Api nyckel:</t>
+  <t id="H_PS_RS_APIKEY" ver="13">Global API nyckel eller API nyckel från en anvädare med utskriftsbehörighet.</t>
+  <t id="L_RS_CONNECTION_INFO" ver="13">Denna anslutning möjliggör direkt anslutning anslutning till en arbetande repetier-server här eller en fjärransluten skrivare.För att ansluta,skriv in serverns IP/värdnamn och port dessutom API nyckeln. Använd den globala API nyckeln eller API nyckeln från en befintlig användare med utskriftstillstånd. anslutningen kommer då gå genom servern istället för direkt till skrivaren. Till och frånkoppling kan ske när som helst, även när skrivaren arbetar!</t>
+  <t id="TAB_PRINT" ver="13">Skriv</t>
+  <t id="L_PERIMETER_BEFORE_INFILL" ver="13">Perimeter före fyllning</t>
+  <t id="H_PS_PERIMETER_BEFORE_INFILL" ver="13">bestämmer om perimeter eller fyllning skrivs först,</t>
+  <t id="L_OFFLINE" ver="13">Offline</t>
+  <t id="L_NO_PORT_ONLINE" ver="13">Ingen port är tillgänglig för automatiskt val.anslut din skrivare först!</t>
+  <t id="L_TEMPERATURE_REACHED" ver="14">Temperatur uppnådd</t>
+  <t id="L_RS_MINVERSION" ver="14">Du behöver lägst version $1  av Repetier-server för att akunna ansluta.</t>
+  <t id="L_NO_PRINTER_SELECTED" ver="14">--- Ingen skrivare vald ---</t>
+  <t id="L_OTHER_PRINTER_CONNECTED" ver="14">Du är ansluten till en annan skrivare. 
+  vänligen avsluta nuvarande anslutning innan du fortsätter.</t>
+  <t id="L_RS_NOAUTH" ver="14">Auktorisation till servern misslyckades. Kontrollera din API nyckel.</t>
+  <t id="L_RS_WRONG_IP" ver="14">kunde inte ansluta till server. 
+  kontrollera IP nr och port nr och kontrollera att severn är tillgänglig.</t>
+  <t id="TAB_SERVER" ver="14">Server</t>
+  <t id="L_RS_COPY_INFO" ver="14">De flesta inställningar är hämtade från servern och ahr sparats. 
+  Vissa inställningar är otillgängliga och har ej ändrats.</t>
+  <t id="L_RS_COPY_CONFIG" ver="14">Kopiera serverns konfigurations inställningar</t>
+  <t id="L_SERVER_DISCONNECTED" ver="14">Servern frånkopplad</t>
+  <t id="L_PRINTER_OFFLINE" ver="14">Printer Offline</t>
+  <t id="L_PRINTER_DEACTIVATED" ver="14">Printer avaktiverad</t>
+  <t id="L_SAVE_TO_SERVER" ver="14">spara på Server</t>
+  <t id="L_WILL_OVERWRITE_EXISTING" ver="14">Kommer skriva över befintlig fil!</t>
+  <t id="L_RS_NO_UPLOAD_PERMISSION" ver="14">Du är inte behörighet att ladda upp!</t>
+  <t id="L_RS_NO_PRINT_PERMISSION" ver="14">Du har ej behörighet att skriva ut!</t>
+  <t id="L_RS_NOPRINTERS" ver="14">Servern har inga skrivare definierade. 
+  Kan inte ansluta. definiera minst en
+  printer och försök igen.</t>
+  <t id="L_INFO" ver="14">Info</t>
+  <t id="T_WAITING_PRINTS">Väntande utskrifter</t>
+  <t id="T_STORED_PRINTS">Lagrade utskrifter</t>
+  <t id="L_TIMES">tider</t>
+  <t id="L_LENGTH">Längd</t>
+  <t id="L_WEIGHT">vikt</t>
+  <t id="L_COST">kostnad</t>
+  <t id="L_FILAMENT">Filament</t>
+  <t id="L_PRINTED">Skriven</t>
+  <t id="L_UPLOADED">Upladdad</t>
+  <t id="L_FILE_SIZE">Filstorlek</t>
+  <t id="L_VOLUMETRIC_EXTRUSION">Volymetrisk Extrusion</t>
+  <t id="L_PER_EXTRUDER_VALUES" ver="14">Per Extruder värden</t>
+  <t id="L_TOTAL_VALUES" ver="14">Totala värden</t>
+  <t id="L_EXTR" ver="14">Extr.</t>
+  <t id="L_TOTAL_PRICE:" ver="14">Totalt Pris:</t>
+  <t id="L_SCRIPTS" ver="14">Scripts</t>
+  <t id="L_SCRIPT" ver="14">Script</t>
+  <t id="B_SAVE_FOR_SD_PRINT" ver="14">spara för SD utskrift</t>
+  <t id="TAB_SEARCH" ver="14">Sök</t>
+  <t id="L_SEARCHTERM" ver="14">Sök:</t>
+  <t id="L_REPLACETERM" ver="14">Ersätt:</t>
+  <t id="B_SEARCH" ver="14">Sök</t>
+  <t id="B_REPLACE_SEARCH" ver="14">Ersätt &amp;&amp; sök</t>
+  <t id="B_REPLACE" ver="14">Ersätt</t>
+  <t id="L_SAVE_TO_FILE" ver="14">Spara till Fil</t>
+  <t id="L_EDIT_GCODE" ver="14">Modifiera G-Kod</t>
+  <t id="TAB_GCODE_SYNTAX" ver="14">G-Code Syntax</t>
+  <t id="M_USING_REPETIER_SERVER" ver="14">Använder Repetier-Server</t>
+  <t id="M_REPETIER_SERVER_MANUAL" ver="14">Repetier-Server Manual</t>
+  <t id="M_START_SERVER" ver="14">Starta Lokal Server</t>
+  <t id="M_STOP_SERVER" ver="14">Stopp Lokal Server</t>
+  <t id="M_OPEN_SERVER_FRONTEND" ver="14">Öppna Serverns Frontend</t>
+  <t id="L_VIEW_CROSS_SECTION" ver="14">visa genomskärning</t>
+  <t id="M_SERVER" ver="14">Server</t>
+  <t id="L_AUTO_ZOOM_OBJECTS" ver="14">Auto förstora av Objekt</t>
+  <t id="L_AUTO_POSITION_OBJECTS" ver="14">Auto Position Objekt när nya objekt lagts till</t>
+  <t id="L_TRAVEL_ACCELERATION" ver="14">Transport Accleration</t>
+  <t id="L_CONNECT_TO_CONTINUE" ver="14">Anslut för att fortsätta</t>
+  <t id="L_ZOOM_SPEED_FACTOR" ver="14">Förstora hastighets Faktorn</t>
+  <t id="L_WARN_JOB_RUNNING_CLOSE" ver="14">Du har en pågående utskrift.Bryter du anslutningen kommer utskriften avbrytas. Vill du avbryta ändå?</t>
+  <t id="M_SAVE_GCODE_SERVER" ver="14">spara G-Code på Servern</t>
+  <t id="L_SAVE_GCODE_AS" ver="14">Spara G-Coden som</t>
+  <t id="L_WILL_OVERWRITE_EXISTING_FILE" ver="14">Detta kommer att ersätta befintlig fil!</t>
+  <t id="L_PRINT_PREVIEW" ver="14">Förhandsgranska utskrift</t>
+  <t id="L_SHOW_TRAVEL_MOVES" ver="11">Visa transportrörelser</t>
+</translation>
+
+
+
+
+

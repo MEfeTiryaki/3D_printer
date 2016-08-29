@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Repetier-Host
+Exec=/usr/bin/mono /home/undervariance/Downloads/3d-printer/RepetierHost/RepetierHost.exe -home /home/undervariance/Downloads/3d-printer/RepetierHost
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/home/undervariance/Downloads/3d-printer/RepetierHost
+Icon=/home/undervariance/Downloads/3d-printer/RepetierHost/repetier-logo.png
+MimeType=application/sla;text/gcode;application/wavefront-obj;application/x-amf;
+

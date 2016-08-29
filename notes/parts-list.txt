@@ -1,0 +1,252 @@
+
+##########################################################################
+# pololu-a4988-stepper-driver-heatsink-kit
+##########################################################################
+
+
+https://ultimachine.com/content/pololu-a4988-stepper-driver-heatsink-kit
+
+
+"Pololu A4988 stepper driver - A4988-based; equivalent to A4983-board but offers overcurrent protection. If the boards get too hot, they will interrupt the current until it cools a bit. If the current is too high for the heat sinking, the motors will pulse as the current is interrupted and restored. See http://forums.reprap.org/read.php?4,116813,116832,quote=1 and its video. Try reducing the current until the pulsing stops."
+Upgrades
+
+Replace this resistor
+By replacing one resistor on the driver board, the reference voltage becomes much easier to set. The resistor in question is to the right of the vref pot, if the pot is considered the bottom of the board.
+The voltage divider and pot are poorly selected for the currents used. The board uses a 10k pot and 20k resistor to set the vref, so the effective range is 0-1.7 volts, or 0-4.2 amps! The IC is only rated for a maximum of two amps if you have perfect heat dissipation. This makes it much more difficult to set the ref voltage since at 1/4 turn you have maxed out your driver. The resistor is the easiest to change. You simply need to swap it with one rated at 51K ohms. (part number below) With this modification, the max current is 2.05 A with vRef = 0.82V.
+Any resistor in a 0603 SMD package will work. Resistors with a higher resistance will lower the maximum current even further. Some have reported using a 68K-ohm resistor which brings the maximum current down to 1.6 amps. Many of the Pololu clones will shut down before producing this much current, even when cooled with a heatsink and fan, so a slightly higher resistance would work as well.
+51K-ohm DigiKey.com part number: 311-51KGRCT-ND
+Double check the sense resistor values before making this upgrade, if you actually have stepsticks with 0.2ohm resistors, this is not needed.
+
+##########################################################################
+# PSU
+##########################################################################
+
+FSP FSP400-60HCN 400 W Aktif PFC Power Supply
+125 TL
+
+http://www.mediamarkt.com.tr/tr/product/_fsp-fsp400-60hcn-400-w-aktif-pfc-power-supply-1100252.html
+
+Output 	Voltage and Current Rating
+					+3.3V 	+5V		+12V1	+12V2	-12V	+5Vsb
+Ripple-Noise(R-P) 	50mV	50mV	120mV	120mV	120mV	50mV
+Regulation Load %	±5%		±5%		±5%		±5%		±10%	±5%
+Output Max.(A)		24A		23A		17A		15A		0.5A	2.5A
+Output Min.(A)		0.1A	0.2A	0.1A	0.5A	0A		0A
+
+( 1 ) +3.3V & +5V total output not exceed 120W.
+( 2 ) Maximum combined current for the +12V outputs shall be 32A
+( 3 ) +12V2 Peak current is 18A (less then 10m Sec.) , minimum voltage during peak is >11.0Vdc.
+( 4 ) +5Vsb Peak current is 3.5A(less then 500m Sec.) , minimum voltage during peak is > 4.5Vdc.
+
+alternative
+http://www.sanalmarketim.com/cooler-master-rs500pcari3bu-extreme-power-plus-500w-psu/p_63362/
+None PFC!!
+http://www.coolermaster.com/powersupply/extreme/extreme-power-plus-500w/
+143 TL
+
+
+Single rail, maybe.
+EVGA 100-W1-0430-KR 430W ATX12V / EPS12V 80 PLUS Certified Active PFC Continuous Power Supply Intel 4th Gen CPU Ready
+40 Dollar
+http://www.newegg.com/Product/Product.aspx?Item=N82E16817438015&nm_mc=AFC-C8Junction&cm_mmc=AFC-C8Junction-Skimlinks-_-na-_-na-_-na&AID=12087162&PID=3899435&SID=skim1402X558040Xb8e2a1614d246b7c56365da259e99fc7&utm_medium=affiliates&utm_source=afc-Skimlinks
+
+http://www.sanalmarketim.com/corsair-cp9020096eu-vs-serisi-vs450-80-450watt-120mm-fanli-psu/p_59042/
+
+
+##########################################################################
+# Endstop
+##########################################################################
+
+Mini Yaprak Anahtar(Mini Limit Swith)
+http://www.robitshop.com/mini-yaprak-anahtarmini-limit-swith
+1.47 TL
+
+Yaprak Anahtar- Uzun Yapraklı (Limit Swith)
+http://www.robitshop.com/yaprak-anahtar-uzun-yaprakli-limit-swith
+1.65 TL
+
+Yaprak Anahtar-(Limit Switch)
+http://www.robitshop.com/yaprak-anahtar-limit-switch
+1.75 TL
+
+##########################################################################
+# Geeetech-Latest-MK8-Dual-Extruder-With-Cool-Fan-for-3D-Printer-Makerbot-Prusa
+
+##########################################################################
+
+Geeetech-Latest-MK8-Dual-Extruder-With-Cool-Fan-for-3D-Printer-Makerbot-Prusa
+
+At ebay:
+Details about  Geeetech Latest MK8 Dual Extruder With Cool Fan for 3D Printer Makerbot,Prusa
+http://www.ebay.com/itm/Geeetech-Latest-MK8-Dual-Extruder-With-Cool-Fan-for-3D-Printer-Makerbot-Prusa-/221806322932?pt=LH_DefaultDomain_0&hash=item33a4afe4f4
+76 Dollar
+
+In Konutkent:
+http://www.3dyazicimarket.com/3d-yaz%C4%B1c%C4%B1-par%C3%A7alar%C4%B1/3dyaz%C4%B1c%C4%B1-extruder/mk8-direk-s%C3%BCr%C3%BCc%C3%BCl%C3%BC-extruder
+632 TL
+
+
+##########################################################################
+# Hotbed - PCB Heatbed model MK2B Dual Power
+##########################################################################
+
+In Konutkent:
+http://www.3dyazicimarket.com/3d-yaz%C4%B1c%C4%B1-par%C3%A7alar%C4%B1/hotbed-s%C4%B1cak-tabla
+94 TL
+
+http://reprap.org/wiki/PCB_Heatbed
+
+##########################################################################
+# 3D Kits RAMPS1.4+Induino Mega R3+Stepper driver A4988+Cable For Pruse 3D Printer
+##########################################################################
+
+3D Kits RAMPS1.4+Induino Mega R3+Stepper driver A4988+Cable For Pruse 3D Printer
+
+At ebay:
+http://www.ebay.com/itm/3D-Kits-RAMPS1-4-Induino-Mega-R3-Stepper-driver-A4988-Cable-For-Pruse-3D-Printer-/221771392498?tfrom=221806322932&tpos=top&ttype=coupon&talgo=undefined
+27 Dollar
+ 
+In Konutkent:
+ http://www.3dyazicimarket.com/3d-yaz%C4%B1c%C4%B1-par%C3%A7alar%C4%B1/3DPRINTER-ANAKART/arduino-mega-ramps-1.4-motor-s%C3%BCr%C3%BCc%C3%BCleri
+ 236 TL
+ 
+1.Iduino Mega R3
+ 
+As with our Iduino Mega 2560, the Iduino MEGA R3 is also a microcontroller board based on the ATmega2560. It has 54 digital input/output pins (of which 14 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, an external power jack, an ICSP header, and a reset button, enabling the board to be plug-and-play.
+ 
+ 
+The Iduino MEGA R3 differs from Iduino Mega 2560 in that it has 3 additional pins, they are SDA, SCL and IOREF,amoung which the IOREF pin can provide the VREF to the board. In addition, considering the compatibility of Iduino MEGA R3 with the series products to come，Iduino MEGA R3 has a port reserved on the left side of IOREF pin.
+ 
+The interface laylout 
+ 
+Specifications: 
+ 
+Microcontroller：ATmega2560
+ 
+Input Voltage (recommended): 7-12V
+ 
+Operating Voltage： 5V
+ 
+54 Digital I/O Pins：（of which 14 provide PWM output）
+ 
+16 Analog Input
+ 
+4 UART (hardware serial ports)
+ 
+An USB interface
+ 
+An ICSP header
+ 
+A power interface
+ 
+A reset button
+ 
+DC Current of I/O Pin: 40 mA
+ 
+DC Current for 3.3V Pin: 50mA
+ 
+Flash Memory: 256KB of which 8KB is used for bootloader ( Atmega 328)
+ 
+SRAM: 8KB
+ 
+EEPROM： 4 KB
+ 
+Clock Speed: 16MHz
+ 
+Product Weight：34g
+ 
+Dimensions：102mm*54mm*11mm
+ 
+ 
+ 
+ 
+Please click here if you want to learn more information. 
+ http://www.geeetech.com/wiki/index php/Iduino_MEGA_R3#Data_Resource
+ 
+ 
+ 
+ 
+2.RAMPS 1.4 extend Shield
+
+http://reprap.org/wiki/RAMPS_1.4
+ 
+Ramps is short for reprap Arduino mega pololu shield, it is mainly designed for the purpose of using pololu stepper driven board (similar to 4988 driven board). Ramps can only work when connected to its mother board Mega 2560 and 4988/DRV8825. Owning to its stability in operation and great compatibility with most 3Dprinter (all reprap-model such as pursa i2 and i3). The combination of Ramps1.4+MEGA2560+A4988/DRV8825 is becoming a mainstream of DIY 3D printer control board.
+ 
+ 
+Features
+ 
+1. Standard interfaces (as that of extruder)
+ 
+2. Reserved GCI like I2C and RS232
+ 
+3 MOSFET 3 MOSFET are applied to the heater/ fan and thermistor circuit.
+ 
+4. Adding another 5A to protect the component parts.
+ 
+5. An 11A fuse is added to the hotbed
+ 
+6. Support 5 stepper drive board
+ 
+7. The adoption of Pin Header as pololu makes it more convenient to repair or change.
+ 
+8. I2C and SPI are reserved for expanding
+ 
+9. All the MOSFET can be controlled by PWM
+ 
+10. Use the interface of servo motor to adjust the level of printing platform automatically.
+ 
+11. Adding a SD module for SD ramps module.
+ 
+12. LED can indicate the status of the heater (the open and close of MOS).
+ 
+13. 2 stepper motor for Z axis in parallel.
+ 
+Software
+ 
+Compiling environment: Arduino IDE
+ 
+Firmware: Marlin
+ 
+PC software: Printrun, Repetier-Host
+ 
+Please click here if you want to learn more information.
+ 
+ 
+3.A4988
+ 
+This product is a breakout board for Allegro’s A4988 DMOS Microstepping Driver with Translator and Overcurrent Protection; please read the A4988 datasheet carefully before using this product. This stepper motor driver lets you to operate bipolar stepper motors in full-, half-, quarter-, eighth-, and sixteenth-step modes, with an output drive capacity of up to 35 V and 2 A.
+ 
+ 
+The translator is the key to the easy implementation of the A4988. Simply inputting one pulse on the STEP input drives the motor one microstep. There are no phase sequence tables, high frequency control lines, or complex interfaces to program.The A4988 interface is an ideal fit for applications where a complex microprocessor is unavailable or is overburdened.
+ 
+ 
+Connecting or disconnecting a stepper motor while the driver is powered can destroy the driver(More generally, rewiring anything while it is powered isasking for trouble).
+ 
+1.Maximum output current is 1A
+ 
+2.Simple step and direction control interface
+ 
+3.Five different step resolutions: full-step, half-step, quarter-step, eighth-step, and sixteenth-step
+ 
+4.Adjustable current control lets you set the maximum current output with a potentiometer, which lets you use voltages above your stepper motor’s rated voltage toachieve higher step rates
+ 
+5.Intelligent chopping control that automatically selects the correct current decay mode (fast decay or slow decay)
+ 
+6.Over-temperature thermal shutdown, under-voltage lockout, and crossover-current protection
+ 
+7.Short-to-ground and shorted-load protection
+ 
+Package List
+ 
+ 
+1 x Geeetech RAMPS 1.4
+ 
+1 x Geeetech Iduino Mega R3
+ 
+5 x A4988
+ 
+5 X heatsink
+ 
+2 X  heatsink sticker
+ 
+1 X  USB cable

@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /rh/linux/RepetierHost&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/rh/linux/RepetierHost
+Icon=/rh/linux/RepetierHost/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier
+
+[Desktop Entry]
+Name=Repetier-Host
+Exec=mono RepetierHost.exe -home /rh/linux/RepetierHost&
+Type=Application
+StartupNotify=true
+Comment=Repetier-Host 3d printer host software
+Path=/rh/linux/RepetierHost
+Icon=/rh/linux/RepetierHost/repetier-logo.png
+Comment[en_US.UTF-8]=Repetier Host
+Name[en_US]=Repetier-Host
+
